@@ -1,22 +1,22 @@
 #!/usr/bin/env python3
-"""Daily Werkstudent discovery via the Arbeitsagentur Jobsuche API v6 (Germany only). v4."""
+"""Daily Werkstudent discovery via the Arbeitsagentur Jobsuche API v6 (Germany only). v4.1"""
 import base64, json, re, time, datetime as dt, pathlib, requests
 
 API = "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc"
 HEAD = {"X-API-Key": "jobboerse-jobsuche", "Accept": "application/json"}
-DAYS_OLD = 7            # API accepts only 0, 1, 7, 14, 28
-NEW_WINDOW_DAYS = 2     # hand the agent only jobs first seen in the last N days
+DAYS_OLD = 7           # API accepts only 0, 1, 7, 14, 28
+NEW_WINDOW_DAYS = 3     # hand the agent only jobs first seen in the last N days
 MAX_DETAILS = 150
 MAX_OUT = 30
 
-# Student words are matched in the TITLE locally; field words are searched alone because the API needs ALL words to match.
 STUDENT_QUERIES = [("Werkstudent", 3), ("Working Student", 2), ("Studentische Hilfskraft", 2), ("Student Assistant", 1), ("HiWi", 1)]
 FIELD_QUERIES = ["Robotik","Robotics","ROS","Computer Vision","Bildverarbeitung","Machine Learning","Deep Learning","KI",
                  "Autonome Systeme","SLAM","Sensorik","Embedded","Mechatronik","Automatisierung","Künstliche Intelligenz",
-                 "Perception","Punktwolke","Reinforcement Learning"]
+                 "Perception","Punktwolke","Reinforcement Learning","Python","Software Entwicklung"]
 STUDENT = ["werkstudent","working student","student assistant","studentische","hiwi","werkstudierende","wissenschaftliche hilfskraft"]
 CORE = ["robot","robotik","robotics","autonom","ros","ros2","slam","perception","vision","bildverarbeitung","3d","sensor",
         "sensorik","embedded","mechatron","ki","ai","machine learning","deep learning","computer vision","reinforcement","automatisierung"]
+BROAD = ["python","software","informatik","daten","data","entwicklung","development","simulation","elektro","c++"]
 REJECT = ["praktikum","intern","internship","masterarbeit","thesis","abschlussarbeit","trainee","ausbildung","senior",
           "lead","principal","vollzeit","full-time","kita","kindergarten","kinder","personal","recruiting","hr",
           "pflege","erzieher","vertrieb","sales","marketing","human resources","data entry","verkauf","aushilfe","social media"]
@@ -91,8 +91,10 @@ for ref, j in list(found.items())[:MAX_DETAILS]:
     low = " " + re.sub(r"[^\wäöüß+\-]+", " ", (j["title"] + " " + desc).lower()) + " "
     hits = words(low, TOPICS)
     core_hits = words(t, CORE)
-    if not (core_hits or len(hits) >= 2):
-        # print("  dropped:", j["title"], "|", j["employer"], "|", j["city"])
+    broad_hits = words(low, BROAD)
+    strong = bool(core_hits) or len(hits) >= 2
+    if not (strong or broad_hits):
+        print("  dropped:", j["title"], "|", j["employer"], "|", j["city"])
         continue
     first = state.setdefault(ref, today.isoformat())
     ext = j["external_url"] or d.get("allianzpartnerUrl") or ""
@@ -103,17 +105,17 @@ for ref, j in list(found.items())[:MAX_DETAILS]:
         "apply_url": ext or f"https://www.arbeitsagentur.de/jobsuche/jobdetail/{ref}",
         "arbeitsagentur_url": f"https://www.arbeitsagentur.de/jobsuche/jobdetail/{ref}",
         "posted_via": d.get("allianzpartnerName"), "fulltime_flag": j["fulltime"],
-        "topic_hits": hits, "core_hits_in_title": core_hits,
+        "topic_hits": hits, "core_hits_in_title": core_hits, "broad_hits": broad_hits, "broad_only": not strong,
         "german_hard_required": bool(GERMAN_HARD.search(desc)),
         "german_b_level_mentioned": bool(GERMAN_SOFT.search(desc)),
         "english_mentioned": bool(ENGLISH_OK.search(desc)),
         "preferred_state": j["region"] in PREFERRED, "first_seen": first,
         "description_excerpt": re.sub(r"\s+", " ", desc)[:1500]}
-    row["prelim"] = len(hits)*3 + len(core_hits)*4 + (3 if row["preferred_state"] else 0) \
-                    - (10 if row["german_hard_required"] else 0)
+    row["prelim"] = len(hits)*3 + len(core_hits)*4 + len(broad_hits) + (3 if row["preferred_state"] else 0) \
+                    - (10 if row["german_hard_required"] else 0) - (6 if not strong else 0)
     out.append(row)
     time.sleep(0.4)
-print(f"{checked} detail pages checked, {len(out)} passed core/topic filter")
+print(f"{checked} detail pages checked, {len(out)} passed filters")
 
 cut = (today - dt.timedelta(days=NEW_WINDOW_DAYS)).isoformat()
 out = [j for j in out if j["first_seen"] >= cut and not j["german_hard_required"]]
