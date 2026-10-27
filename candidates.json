@@ -339,7 +339,7 @@
    "city": "Bremen",
    "region": "BREMEN",
    "published": "2026-10-23",
-   "updated": "2026-10-22T12:58:23.448",
+   "updated": "2026-10-27T13:30:33.897",
    "apply_url": "https://www.enercon.de",
    "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17402-44526281-1022-S",
    "posted_via": "ENERCON GmbH",
@@ -417,7 +417,7 @@
    "city": "Bonn",
    "region": "NORDRHEIN_WESTFALEN",
    "published": "2026-10-27",
-   "updated": "2026-10-26T10:23:08.275",
+   "updated": "2026-10-27T13:20:12.922",
    "apply_url": "https://www.jobs.bechtle.com",
    "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15086-44532742-1026-S",
    "posted_via": "Bechtle AG",
@@ -460,32 +460,6 @@
    "preferred_state": true,
    "first_seen": "2026-10-26",
    "description_excerpt": "Du willst erleben, wie ein Unternehmen entsteht – und selbst etwas dazu beitragen?Livora – Wo das Leben weiterlebt.Livora entwickelt moderne Pflege im Nordwesten Deutschlands. Wir verbinden hochwertige Pflege mit modernen Strukturen, digitalen Prozessen und einer klaren, zeitgemäßen Unternehmenskultur.Für unseren Standort Haren (Ems) suchen wir einen Werkstudenten (m/w/d), der die Geschäftsleitung im operativen Alltag unterstützt und dabei einen direkten Einblick in die Entwicklung eines wachsenden Unternehmens erhält.",
-   "prelim": -2
-  },
-  {
-   "refnr": "10001-1003909451-S",
-   "title": "Werkstudent / Studentische Hilfskraft (m/w/d) Qualitätsmanagement",
-   "employer": "Allfein Feinkost GmbH & Co. KG",
-   "city": "Lohne (Oldenburg)",
-   "region": "NIEDERSACHSEN",
-   "published": "2026-10-26",
-   "updated": "2026-10-26T09:18:16.860",
-   "apply_url": "http://www.arbeitsagentur.de",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003909451-S",
-   "posted_via": "arbeitsagentur.de",
-   "fulltime_flag": false,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "entwicklung"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-10-26",
-   "description_excerpt": "Die Allfein Feinkost GmbH & Co. KG ist Teil der PHW‑Gruppe, einer der führenden Unternehmensgruppen der Agrar- und Ernährungswirtschaft. Zu ihr gehören bekannte Marken wie WIESENHOF und GREEN LEGEND. Mit rund 1.300 Mitarbeitenden an fünf Standorten in Deutschland entwickeln, produzieren und vertreiben wir vorgegarte Geflügelspezialitäten sowie innovative vegane Convenience-Produkte. Unsere Produkte sind im Lebensmitteleinzelhandel, bei Großverbrauchern und in der Systemgastronomie zu Hause – in ganz Deutschland und darüber hinaus. Wir stehen für Zusammenhalt, Bodenständigkeit und Weiterentwicklung sowie für sichere Arbeitsplätze in einem dynamischen Markt. Gestalte Ernährung, die Millionen Menschen erreicht – mit kurzen Entscheidungswegen und echten Entwicklungschancen. Du studierst an der Hochschule in der Region und möchtest praktische Erfahrungen sammeln? Wir suchen ab sofort eine engagierte **studentische Hilfskraft / Werkstudenten (m/w/d)** zur Unterstützung unseres QM- und Rezepturmanagement-Teams in Lohne. **Das sind deine Aufgaben** - Digitalisierung und Strukturierung der Dokumentationen QM- und Rezeptur-Dokumentation - Unterstützung bei der Stammdatenpflege - Überprüfung und Aktualisierung bestehender Datensätze - Zusammenarbeit mit den angrenzenden Abteilungen **Das bringst Du mit** - Laufendes Studium, idealerweise der Ökotrophologie, Lebensmitteltechnologie, Lebensmittelchemie oder eine vergleichbare Qualifikation - Sicherer Umgang mit MS Office, - Zuverlässigkei",
    "prelim": -2
   },
   {
@@ -802,6 +776,34 @@
    "preferred_state": false,
    "first_seen": "2026-10-26",
    "description_excerpt": "LORENZ - Das sind wir LORENZ ist ein führender Anbieter von Softwarelösungen für den digitalen Datenaustausch zwischen der pharmazeutischen Industrie und den Zulassungsbehörden. Wir sind unmittelbar daran beteiligt, notwendige Medikamente und Therapien für Patienten schneller zugänglich zu machen. Unseren Erfolg verdanken wir einer agilen und flexiblen Organisationsstruktur mit kurzen Entscheidungswegen. Um auch weiterhin das Leben von Menschen zu verbessern, sind wir ständig auf der Suche nach neuen Talenten. Du bist motiviert, gemeinsam mit uns die Effizienz des Arzneimittelzulassungsprozesses zu steigern? Dann werde Teil unseres Teams! Das kannst Du gemeinsam mit uns bewegen Du unterstützt uns bei der Recherche und Evaluierung von Infrastruktur-Tools und Technologien wie z.B. CI/CD, Container oder Cloud Services Du bist aktiv am Testen und Validieren unserer implementierten Funktionalitäten in unseren DevOps-Prozessen beteiligt Auch die Dokumentation von Prozessen, Tools sowie Best Practices gehören zu deinem Alltag dazu Du unterstützt uns bei kleineren Automatisierungsaufgaben und bei der Skripterstellung In enger Zusammenarbeit mit unseren erfahrenen DevOps-Engineers hilfst du uns bei der Optimierung unserer Infrastruktur- und Deployment-Prozesse Darum passt Du zu uns Du studierst derzeit Informatik oder einen vergleichbaren Studiengang Du hast bereits Grundkenntnisse in GitLab, Linux und Skriptsprachen wie Bash oder Python sammeln können Idealerweise kannst du erste Ber",
+   "prelim": -3
+  },
+  {
+   "refnr": "15537-JOB-868067-S",
+   "title": "Werkstudent (m/w/d) Softwareentwicklung & Support im Busi...",
+   "employer": "SIKA Dr. Siebert & Kühn GmbH & Co. KG",
+   "city": "Kaufungen, Hessen",
+   "region": "HESSEN",
+   "published": "2026-10-24",
+   "updated": "2026-10-25T17:09:28.192",
+   "apply_url": "https://www.karriere-in-nordhessen.de/stellenangebot/werkstudent-softwareentwicklung-support-im-business-process-management-868067",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15537-JOB-868067-S",
+   "posted_via": "ontavio GmbH karriere-in-nordhessen.de",
+   "fulltime_flag": true,
+   "topic_hits": [],
+   "core_hits_in_title": [],
+   "broad_hits": [
+    "entwicklung",
+    "informatik",
+    "software"
+   ],
+   "broad_only": true,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": false,
+   "preferred_state": false,
+   "first_seen": "2026-10-26",
+   "description_excerpt": "Bei SIKA arbeiten rund 360 Menschen mit Software, die unser Team selbst betreut und weiterentwickelt: interne Tools, kleine Webanwendungen, unser CRM und unser Dokumentenmanagement. Wenn dort etwas hakt, sind wir die Ersten, die es erfahren. Und wenn etwas besser werden soll, sind wir die, die es bauen. Als Werkstudent (m/w/d) im Team Business Process Management bist du mittendrin. Du schreibst keinen Code für die Schublade, sondern für Kolleginnen und Kollegen, die ihn am nächsten Tag benutzen. - 17 € pro Stunde bei 15 bis 20 Stunden pro Woche - Arbeitszeiten, die zu deinem Studium passen: Vorlesungen und Prüfungen gehen vor, wir planen deine Stunden mit dir. (In den Semesterferien kannst du auch gern auch mehr als 20h arbeiten) - Bis zu zwei Tage Mobile Office pro Woche (nach deiner Einarbeitung) - Eine feste Ansprechperson aus unserem Team Digitalisierung und Prozessoptimierung, die dich einarbeitet und begleitet - Kurze Wege und frische Ideen: Du arbeitest direkt mit unserer Abteilungsleitung zusammen, auf Augenhöhe und per Du. Neue Tools und Ansätze auszuprobieren ist bei uns ausdrücklich erwünscht - Ein moderner Stack: Next.js, Webschnittstellen, SQL und echte Produktivsysteme statt Übungsaufgaben - Sichtbare Ergebnisse: Was du baust oder verbesserst, merken deine Kolleginnen und Kollegen sofort - Deine Abschlussarbeit kannst du auch gern bei uns schreiben. Deine Arbeit verbindet zwei Seiten: Du hilfst Kolleginnen und Kollegen, wenn etwas nicht funktioniert, und du entw",
    "prelim": -3
   }
  ]
