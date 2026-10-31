@@ -1,7 +1,35 @@
 {
- "generated": "2026-10-30",
+ "generated": "2026-10-31",
  "count": 30,
  "jobs": [
+  {
+   "refnr": "12811-2367872-S",
+   "title": "Werkstudent (m/w/d) am Institut für Psychotherapie in Rosenheim, ROS SKIP",
+   "employer": "Schön Klinik Roseneck SE & Co. KG",
+   "city": "Rosenheim, Oberbayern",
+   "region": "BAYERN",
+   "published": "2026-10-31",
+   "updated": "2026-10-31T12:32:41.012",
+   "apply_url": "https://www.finest-jobs.com/stellenanzeige/Werkstudent-D-Am-Institut-Fuer-Psychotherapie-In-R-1320952?cp=BA",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2367872-S",
+   "posted_via": "finest-jobs.com",
+   "fulltime_flag": false,
+   "topic_hits": [
+    "ros"
+   ],
+   "core_hits_in_title": [
+    "ros"
+   ],
+   "broad_hits": [],
+   "broad_only": false,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": false,
+   "preferred_state": true,
+   "first_seen": "2026-10-31",
+   "description_excerpt": "Herzlich willkommen! Sie möchten neben Ihrem Studium wertvolle Praxiserfahrung im Gesundheitswesen sammeln und Einblicke in Qualitätsmanagement, Organisation und evidenzbasiertes Arbeiten gewinnen? Dann werden Sie Teil unseres Teams und gestalten Abläufe aktiv mit! Das Schön Klinik Institut für Psychotherapie ist eine staatlich anerkannte Ausbildungsstätte für die Ausbildung von Psychologischen Psychotherapeuten mit der Vertiefung Verhaltenstherapie und vermittelt theoretische und praktische Grundkenntnissen in wissenschaftlich anerkannten psychotherapeutischen Verfahren der Verhaltenstherapie. Die fachliche Expertise und das Engagement unserer Psychologinnen und Psychologen in Ausbildung und deren Supervisorinnen und Supervisoren ermöglicht es, spezialisierte Therapiekonzepte für verschiedene psychische und psychosomatische Erkrankungen im ambulanten Setting anzubieten. Für unser Schön Klinik Institut für Psychotherapie (SKIP) am Standort Rosenheim, suchen wir einen Werkstudenten (m/w/d) im Rahmen von 10 Wochenstunden. Die Position ist voerst bis 30.06.2027 befristet. Ihre Aufgaben - Darauf können Sie sich freuen Operative Praxisunterstützung: Sie unterstützen im operativen Tagesgeschäft bei der Praxisorganisation und im Praxismanagement. Organisatorisches Ausbildungsmanagement: Sie unterstützen die Ausbildungsleitung bei organisatorischen Aufgaben und im Ausbildungsmanagement. Eigenständige Aufgabenübernahme: Sie übernehmen in einem kleinen, kollegialen Team eigenständige A",
+   "prelim": 10
+  },
   {
    "refnr": "12513-0007660875-S",
    "title": "Werkstudent – Software Development (gn)",
@@ -87,33 +115,6 @@
    "first_seen": "2026-10-28",
    "description_excerpt": "Zur Unterstützung unseres stark wachsenden Teams suchen wir zum nächstmöglichen Zeitpunkt: Studentische Hilfskraft (w/m/d) für Management Reporting CIO - Centrum für Integrierte Onkologie - IT Team Hilfskräfte bis zu 19 Std./Woche Befristet für 1 Jahr nach WissZeitVG Die Vergütung beträgt je Stunde der wöchentlichen Beschäftigungszeit 13,98 € brutto TV-L 19 Std. Ihre Aufgaben • Mitarbeit beim Betrieb, der Weiterentwicklung und der Betreuung des zentralen Reportingsystems am CIO • Planung, Implementierung, Testung und Weiterentwicklung von ETLSchnittstellen zur Anbindung unterschiedlicher Datenquellen mit Python • Datenaufbereitung, -modellierung und -abfragen mit Microsoft SQL Server • Erstellung und Pflege von Reports und Dashboards mit Qlik Sense • Unterstützung bei der Analyse und Visualisierung von Kennzahlen für klinische, organisatorische und wissenschaftliche Fragestellungen • Enge Zusammenarbeit mit medizinischen, wissenschaftlichen und administrativen Stakeholdern Ihr Profil • Eingeschriebene:r Student:in der Informatik, Bioinformatik, Medizininformatik oder eines vergleichbaren Studiengangs • Gute Kenntnisse in SQL • Gute Kenntnisse in Python • Erste Erfahrungen mit Git und/oder Business- Intelligence-Tools (z. B. Qlik Sense) sind von Vorteil • Strukturierte, eigenständige und zuverlässige Arbeitsweise • Gute Kommunikationsfähigkeiten sowie Freude an interdisziplinärer Zusammenarbeit • Interesse an datengetriebenen Prozessen im medizinischen und wissenschaftlichen U",
    "prelim": 0
-  },
-  {
-   "refnr": "12265-525718_JB5283171-S",
-   "title": "Werkstudent Informationssicherheit (m/w/d)",
-   "employer": "FERCHAU Management GmbH",
-   "city": "Gummersbach",
-   "region": "NORDRHEIN_WESTFALEN",
-   "published": "2026-10-27",
-   "updated": "2026-10-27T07:43:14.638",
-   "apply_url": "https://www.ferchau.de",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-525718_JB5283171-S",
-   "posted_via": "FERCHAU Engineering GmbH",
-   "fulltime_flag": true,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "informatik",
-    "software"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-10-27",
-   "description_excerpt": "MAKE THE DIFFERENCE - join our team! In unserem Headquarter in Gummersbach gestalten wir das interne Service- und Beratungsangebot für alle Prozesse der Unternehmensgruppe der FERCHAU und dafür suchen wir dich: als Teil unseres internen Teams. Unsere Kernkompetenzen sind strategische Aufgaben und Leistungen aus den Bereichen Personal, Finanzen & Administration, Digital Business Transformation sowie Marketing. Wenn du also deine eigenen Skills in einem innovativen Umfeld auf das nächste Level heben möchtest, dann starte jetzt deine Karriere bei FERCHAU. ## Werkstudent Informationssicherheit (m/w/d) **Das sind deine Aufgaben in unserem Team** * Erstellung und Pflege von betriebsspezifischen Dokumentationen und Sicherheitskonzepten * Zuarbeit bei Themen rund um die Verbesserung unseres Managementsystems für Informationssicherheit * Mitwirkung bei der Erstellung von Schutzzonenkonzepten * Pflege der Themenseite im Intranet der FERCHAU Management GmbH * Mithilfe bei der Vorbereitung von Audits (Zusammenstellung von Dokumenten etc.) * Aufarbeitung und Kommunikation von Vorfällen im Bereich der Informationssicherheit * Bei Bedarf Unterstützung weiterer Tätigkeiten und Projekte im Bereich Informationssicherheit **Das erwartet dich bei uns** * Flexible Arbeitszeitgestaltung durch Gleitzeitregelungen und mobiles Arbeiten nach Absprache * Attraktive Büros und ein Arbeitsplatz mit moderner Hard- und Software * Kostenlose Parkplätze fußläufig vom Bürogebäude und Regionalbahnhof in unmitte",
-   "prelim": -1
   },
   {
    "refnr": "12513-0007660724-S",
@@ -281,6 +282,32 @@
    "prelim": -1
   },
   {
+   "refnr": "19192-260615-30249794-S",
+   "title": "Werkstudent (m/w/d) Bauingenieurwesen",
+   "employer": "Ingenieurbüro Funk",
+   "city": "Riedlingen, Württemberg",
+   "region": "BADEN_WUERTTEMBERG",
+   "published": "2026-10-31",
+   "updated": "2026-10-31T07:02:25.463",
+   "apply_url": "https://baugpt.com/jobs/werkstudent-m-w-d-bauingenieurwesen-raaopaeq-alt?utm_source=agenturfuerarbeit",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19192-260615-30249794-S",
+   "posted_via": "baugpt.com/jobs",
+   "fulltime_flag": true,
+   "topic_hits": [],
+   "core_hits_in_title": [],
+   "broad_hits": [
+    "software"
+   ],
+   "broad_only": true,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": false,
+   "preferred_state": true,
+   "first_seen": "2026-10-31",
+   "description_excerpt": "Stellenangebot: Werkstudent (m/w/d) Bauingenieurwesen Arbeitgeber: Ingenieurbüro Funk Arbeitsort: 88499 Riedlingen Vergütung: 28.500 € bis 43.100 € brutto pro Jahr Für die aktuell zu besetzende Position \"Werkstudent (m/w/d) Bauingenieurwesen\" suchen wir eine Fachkraft mit Interesse an den nachfolgend beschriebenen Aufgaben und Verantwortungsbereichen. Die Stelle beinhaltet ein konkretes berufliches Tätigkeitsfeld. Je nach Position können technische, organisatorische, kaufmännische oder operative Aufgaben im Vordergrund stehen. Die tatsächlich relevanten Tätigkeiten sind in der folgenden Beschreibung vollständig aufgeführt. Neben dem Aufgabenprofil enthält die Ausschreibung Informationen zu den erforderlichen Qualifikationen, Kenntnissen und Erfahrungen sowie zu weiteren Bedingungen, die für die Ausübung der Tätigkeit von Bedeutung sind. Aufgaben, Verantwortlichkeiten und Stellenanforderungen Wir sind ein traditionsreiches Ingenieurbüro mit dem Firmensitz in Riedlingen/Baden-Württemberg. In lockerer Arbeitsatmosphäre sammelst Du gemeinsam mit unserem 25-köpfigen Team Erfahrungen in anspruchsvollen Infrastrukturprojekten. Wir decken ein breites Spektrum an Planungs- und Entwicklungsleistungen ab. Dabei legen wir Wert auf flache Hierarchien, kurze Wege und die Nutzung innovativer Technik. Das Ingenieurbüro Funk ist Teil der IGS Ingenieure Weimar. Damit kannst Du zusätzlich auf ein großes Expertennetzwerk unterschiedlichster Fachbereiche deutschland- und weltweit zugreifen. Wir b",
+   "prelim": -2
+  },
+  {
    "refnr": "12618-187452-S",
    "title": "Werkstudent*in Finanzbuchhaltung",
    "employer": "AWO Bezirksverband Westliches Westfalen e.V.",
@@ -437,32 +464,6 @@
    "prelim": -2
   },
   {
-   "refnr": "12288-4979402582-S",
-   "title": "Werkstudent (m/w/d) Investor Management",
-   "employer": "HANSAINVEST",
-   "city": "Hamburg",
-   "region": "HAMBURG",
-   "published": "2026-10-26",
-   "updated": "2026-10-26T18:04:42.648",
-   "apply_url": "https://www.persy.jobs/persy/l/job-jrwhf-b",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4979402582-S",
-   "posted_via": "XING GmbH & Co. KG",
-   "fulltime_flag": true,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "daten"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-10-27",
-   "description_excerpt": "Das sind wir SIGNAL IDUNA ist ein Versicherungs- und Finanzdienstleister mit Hauptsitz in Hamburg und Dortmund. In den letzten Jahren haben wir uns als Unternehmen stark verändert. Wir haben eine moderne Arbeitswelt geschaffen und innerhalb unserer neuen Organisationsstruktur etablieren sich agile Arbeitsweisen. Wir arbeiten nutzerzentriert, entscheiden datenbasiert und vertrauen einander. Wir sind bereit für Neues und haben Raum für Ideen. Wir möchten gemeinsam mit dir das Jetzt verändern. Wir sind nicht perfekt und wir denken auch nicht, dass es perfekte Menschen gibt. Aber wir versuchen, jeden Tag noch ein wenig besser zu werden. Und wenn Du das für Dich selbst auch so hältst – dann möchten wir Dich kennenlernen! Unser Ziel? Jeden Tag besser für die Menschen zu werden, für die wir arbeiten: Unsere Kunden – extern wie intern. Wir bieten Dir auf dem Weg zum Ziel ein tolles Team, das jeden Tag miteinander daran arbeitet, dem Ziel ein Stück näher zu kommen. Und wir haben eine spannende Aufgabe in unserem Team Investor Management für Dich! Du hast Lust, Teil eines Teams zu werden, in dem Du neue Themen eigenverantwortlich und aktiv gestalten kannst, und in der Wertschätzung, Leistungsbereitschaft, Qualität, Innovation und Zuverlässigkeit nicht nur leere Floskeln sind? Dann ist die wichtigste Voraussetzung bereits gegeben! Gemeinsam mit Dir und den Kolleginnen und Kollegen möchten wir den Bereich Portfolio Oversight für die HANSAINVEST weiter voranbringen. Dabei kannst Du Dich a",
-   "prelim": -2
-  },
-  {
    "refnr": "13465-00021a67be4001-S",
    "title": "Werkstudent (m/w/d) Elektrotechnik | Schulung",
    "employer": "WISAG Elektrotechnik Nord GmbH & Co. KG",
@@ -515,32 +516,6 @@
    "prelim": -2
   },
   {
-   "refnr": "15086-44532742-1026-S",
-   "title": "Werkstudent interne Datenpflege & Assetmanagement (w/m/d)",
-   "employer": "Bechtle AG",
-   "city": "Bonn",
-   "region": "NORDRHEIN_WESTFALEN",
-   "published": "2026-10-27",
-   "updated": "2026-10-27T13:20:12.922",
-   "apply_url": "https://www.jobs.bechtle.com",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15086-44532742-1026-S",
-   "posted_via": "Bechtle AG",
-   "fulltime_flag": true,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "daten"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-10-27",
-   "description_excerpt": "Bechtle ist einer der führenden IT-Dienstleister in Europa. Wir gestalten zukunftsfähige IT-Architekturen - von klassischer IT-Infrastruktur über Digitalisierung, Multi Cloud, Modern Workplace und Security bis Künstliche Intelligenz und Managed Services. Wir bieten unseren Kunden zusätzlich intelligente Finanzierungen und die Realisierung nachhaltiger Konzepte wie Circular IT. Mit unseren Tochterunternehmen zählen wir zu den führenden Spezialisten für Business Applications, allen voran PLM und ERP. Unsere Multichannel-Strategie verbindet persönliche Betreuung an über 120 Standorten in 14 europäischen Ländern mit digitalen Services und globaler Zusammenarbeit. Wir sind mit mehr als 16.000 Mitarbeitenden immer in der Nähe unserer Kunden - ob Mittelstand, Konzern oder Public Sector. In deiner Mission blühst du auf, denn: * Bei uns tauschst du Theorie gegen Praxis und bekommst Gelegenheit, deine nächsten Schritte im Berufsleben zu absolvieren und direkt von Anfang an Verantwortung zu übernehmen. * Sammle als Werkstudent:in wertvolle Erfahrungen bei Tätigkeiten wie der Pflege, Aktualisierung und Kontrolle von Stammdaten in verschiedenen Systemen (z.B. Kostenstellen, relevante Strukturdaten). * Zugleich profitierst du vom Wissen unserer Expert:innen aus dem Bereich Controlling, indem du Einblicke in die Sicherstellung und kontinuierliche Verbesserung der Datenqualität gewinnst. * So unterstützt du uns mitunter bei der Durchführung und Nachverfolgung von Datenänderungen sowie im Ass",
-   "prelim": -2
-  },
-  {
    "refnr": "12811-2365198-S",
    "title": "Werkstudent R&D Projekte (m/w/d), Freudenberg",
    "employer": "Harburg-Freudenberger Maschinenbau GmbH",
@@ -590,32 +565,6 @@
    "preferred_state": true,
    "first_seen": "2026-10-28",
    "description_excerpt": "Über Advo365: Du telefonierst gerne, hörst aufmerksam zu und behältst auch bei unterschiedlichen Anliegen den Überblick?Für die Telefonzentrale der Advo365 GmbH suchen wir ab sofort Mitarbeiter im telefonischen Kundenservice (m/w/d) – in Vollzeit, Teilzeit, als Werkstudent oder auf Minijob-Basis. Dein Arbeitsplatz liegt in Gaimersheim, direkt am Ortsrand von Ingolstadt.Die Advo365 GmbH ist eine hundertprozentige Tochtergesellschaft der 2-Sigma-GmbH. Wir arbeiten mit Rechtsschutzversicherern und Rechtsdienstleistern zusammen und unterstützen Menschen dabei, die passende rechtliche Unterstützung zu erhalten. Unser Team nimmt Anliegen telefonisch auf, vereinbart Termine und vermittelt an angebundene Rechtsdienstleister. Was Dich erwartet: • Du nimmst eingehende Kundenanrufe entgegen und erfasst die benötigten Daten sorgfältig in unseren Systemen. • Du vereinbarst Termine und unterstützt bei organisatorischen Fragen rund um die weitere Bearbeitung. • Du vermittelst Kunden entsprechend ihrem Anliegen an die angebundenen Rechtsdienstleister. • Du dokumentierst die Anliegen vollständig und nachvollziehbar für die weitere Bearbeitung. Was Du mitbringst: • Du kommunizierst freundlich, klar und serviceorientiert – auch dann, wenn ein Gespräch einmal anspruchsvoller wird. • Du arbeitest sorgfältig und zuverlässig und stimmst Dich gerne im Team ab. • Du verfügst über sehr gute Deutschkenntnisse in Wort und Schrift und kannst Kundenanliegen sicher erfassen und dokumentieren. • Du gehst si",
-   "prelim": -2
-  },
-  {
-   "refnr": "20290-2364443-S",
-   "title": "Werkstudent (d/w/m) | KYC & Payment /Accounting-Services",
-   "employer": "DEG-Deutsche Investitions- und Entwicklungsgesellschaft mbH",
-   "city": "Köln",
-   "region": "NORDRHEIN_WESTFALEN",
-   "published": "2026-10-26",
-   "updated": "2026-10-26T17:35:53.943",
-   "apply_url": "https://deginvest.de",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20290-2364443-S",
-   "posted_via": "DEG-Deutsche Investitions- und Entwicklungsge",
-   "fulltime_flag": false,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "entwicklung"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-10-27",
-   "description_excerpt": "### Wir setzen auf unternehmerische Entwicklung \\- und auf Sie Willkommen bei der DEG, einem Tochterunternehmen der KfW. Seit über 60 Jahren sind wir Partner privater Unternehmen, die in Entwicklungs\\- und Schwellenländern investieren. Rund 670 Mitarbeitende sind bei uns beschäftigt \\- in unserer Zentrale in Köln und an 18 Standorten weltweit. **Möchten Sie Ihr theoretisches Wissen in die Praxis umsetzen?** Dann suchen wir Sie für unsere Abteilung **KYC & Payment /Accounting-Services** \\- zunächst befristet für 1 Jahr \\- als # **Werkstudent (d/w/m)** ### Ihr Aufgabengebiet Allgemeine, administrative Tätigkeiten zur Entlastung und Unterstützung der Kolleg/innen: - Mitarbeit in der Finanzbuchhaltung - Mitarbeit im Zahlungsverkehr - Administration von Meldungen an die Bundesbank - Durchführung von Reisekostenabrechnungen - Durchführung von Kostenerstattungen - Sonderaufträge und Auswertungen/Reporting ### Ihr Profil - wirtschaftswissenschaftlicher Studiengang (z.B. BWL / VWL) - idealerweise erste Erfahrung aus dem Bankenumfeld - gute Deutsch\\- und Englischkenntnisse (für schriftliche und mündliche Korrespondenz) - sicherer Umgang in MS-Office (Word, Excel und PowerPoint) - vorausschauende, teamorientierte sowie strukturierte Arbeitsweise, gut organisiert, engagiert und flexibel Der Arbeitsumfang beträgt 15 \\- 20 Stunden / Woche; während der Semesterferien ist eine Erhöhung \\- je nach Arbeitsanfall \\- möglich. Voraussetzung für die Tätigkeit als Werkstudent/in ist eine Immatrikul",
    "prelim": -2
   },
   {
@@ -721,6 +670,58 @@
    "preferred_state": false,
    "first_seen": "2026-10-30",
    "description_excerpt": "Wer wir sind Die Thüringer Landgesellschaft mbH (ThLG) entwickelt seit über 35 Jahren ganzheitlich den ländlichen Raum, insbesondere für den Freistaat Thüringen. Unser Schwerpunkt ist die integrierte Landentwicklung: Flächenmanagement, Flurneuordnung, Wasserbau, Wasserwirtschaft, Regionalentwicklung, Landwirtschaft, Bau und Naturschutz an vier Standorten. Bei uns stimmt nicht nur die Aufgabe, sondern auch das Miteinander. Wir sind professionell, bodenständig, direkt und ehrlich – zu unserer Arbeit und zueinander. Kein Rollenspiel, keine falschen Versprechen. Einfach gute Arbeit mit guten Menschen. Ihre Aufgaben - Mitarbeit an Entwürfen und Erstellung von Planzeichnungen - Mitwirkung bei der Objektplanung von landwirtschaftlichen und kommunalen Bauvorhaben in Thüringen - Unterstützung bei der Umstellung des Zeichenprogramms Was Sie mitbringen Sie absolvieren einen Bachelorstudiengang (mind. 4. Semester) oder Masterstudiengang im Bereich Architektur oder Bauingenieurwesen. Darüber hinaus: - Sicherer und selbstständiger Umgang mit der CAD-Anwendung Allplan, ggf. AutoCAD, sowie Standardsoftware (z. B. MS-Office-Anwendungen) - Erfahrung mit GIS-Programmen wünschenswert - Erste praktische Erfahrungen aus vorherigen Praktika wünschenswert - Teamorientierte Arbeitsweise - Eigeninitiative und Kreativität Was wir bieten - Attraktive Stundenvergütung - Flexible Arbeitszeiten - Strukturierte Einarbeitung - Unterstützung bei der fachlichen und persönlichen Entwicklung durch erfahrene Mita",
+   "prelim": -5
+  },
+  {
+   "refnr": "14795-71074_124930-S",
+   "title": "Werkstudent:innen zur Unterstützung der Gruppenleitung Fachbereich Fahrzeugbeseitigung (m/w/d)",
+   "employer": "Bezirksamt Lichtenberg von Berlin",
+   "city": "Berlin",
+   "region": "BERLIN",
+   "published": "2026-10-30",
+   "updated": "2026-10-30T17:04:22.074",
+   "apply_url": "https://www.berlin.de",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14795-71074_124930-S",
+   "posted_via": "Land Berlin",
+   "fulltime_flag": true,
+   "topic_hits": [],
+   "core_hits_in_title": [],
+   "broad_hits": [
+    "entwicklung"
+   ],
+   "broad_only": true,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": false,
+   "preferred_state": false,
+   "first_seen": "2026-10-31",
+   "description_excerpt": "# Werkstudent:innen zur Unterstützung der Gruppenleitung Fachbereich Fahrzeugbeseitigung (m/w/d) Als einer der größten Arbeitgeber der Region sorgt das Land Berlin mit rund 138.000 Mitarbeitenden täglich dafür, dass Berlin als pulsierende Metropole und als Zuhause für ca. 3,9 Millionen Menschen funktioniert. Und im Bezirksamt Lichtenberg sorgen wir mit über 2.300 Kolleg:innen dafür, dass unser Bezirk für 310.000 Menschen lebenswert ist. Von Platte bis Schloss, Bucht bis Baulücke, Raver bis Rentner - in unserem Bezirk ist alles drin. Und wo alles drin ist, gibt‘s richtig was zu tun. Wir krempeln die Ärmel hoch, um den Bezirk jeden Tag besser zu machen. Deshalb suchen wir Menschen, denen es nicht egal ist, für wen oder was sie arbeiten. **Aktuell sucht unser Amt für regionalisierte Ordnungsaufgaben im Fachbereich Fahrzeugbeseitigung zwei engagierte Werkstudent:innen zur Unterstützung der Gruppenleitung Fachbereich Fahrzeugbeseitigung (m/w/d) Beschreibung** Das Amt für regionalisierte Ordnungsaufgaben ist berlinweit tätig. Im Fachbereich Fahrzeugbeseitigung entfernen Sie Fahrzeuge, die den Verkehr blockieren oder die Sicherheit gefährden. Sie koordinieren Abschleppaktionen durch autorisierte Dienstleister und arbeiten eng mit der Polizei und Verkehrsbehörden zusammen. Zudem überwachen Sie den Fortschritt der Maßnahmen und tragen dazu bei, die öffentliche Sicherheit und die Durchgängigkeit der Straßen zu verbessern. ## Ihre Aufgaben - Auswertung und Berücksichtigung aktueller Ger",
+   "prelim": -5
+  },
+  {
+   "refnr": "12811-2367418-S",
+   "title": "Werkstudent - HORBACH Wirtschaftsberatung Chemnitz, Horbach Wirtschaftsberatung Chemnitz",
+   "employer": "Horbach Wirtschaftsberatung Chemnitz",
+   "city": "Chemnitz, Sachsen",
+   "region": "SACHSEN",
+   "published": "2026-10-30",
+   "updated": "2026-10-30T17:37:33.581",
+   "apply_url": "https://www.finest-jobs.com/stellenanzeige/Werkstudent-Horbach-Wirtschaftsberatung-Chemnitz-1189967?cp=BA",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2367418-S",
+   "posted_via": "finest-jobs.com",
+   "fulltime_flag": true,
+   "topic_hits": [],
+   "core_hits_in_title": [],
+   "broad_hits": [
+    "entwicklung"
+   ],
+   "broad_only": true,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": false,
+   "preferred_state": false,
+   "first_seen": "2026-10-31",
+   "description_excerpt": "Warum dein Nebenjob bei HORBACH? Ganz einfach: Wir setzen auf Offenheit, Ehrlichkeit und Transparenz. Bei uns weißt du von Anfang an, was dich erwartet &ndash; sowohl fachlich als auch finanziell. Du möchtest nicht nur studieren, sondern gleichzeitig echte Praxiserfahrung sammeln und dabei schon im Studium finanziell unabhängig sein? Bei uns kombinierst du dein Studium mit spannenden Einblicken in die Finanzberatung und Finanzplanung. Deine Aufgaben: Unterstützung im Vertrieb & in der Kundenberatung Mitarbeit bei der Entwicklung von Finanz- und Versicherungskonzepten Analyse wirtschaftlicher Fragestellungen für Privat- und Geschäftskunden Aufbau von Beratungskompetenz und Menschenkenntnis Dein Profil: Allgemeine Hochschulreife oder Fachhochschulreife Interesse an Wirtschaft, Finanzen und Vertrieb Kommunikationsstärke & Teamgeist Eigeninitiative und Leistungsbereitschaft Das bieten wir dir: Transparenz bei der Vergütung: Neben einer festen Vergütung erhältst du eine leistungsbezogene, nach oben offene Vergütung &ndash; klar und fair geregelt. Finanzielle Unabhängigkeit: Schon während des Studiums kannst du überdurchschnittlich verdienen. Praxisnähe statt grauer Theorie: Du arbeitest direkt in Beratungsprozessen mit und lernst, wie Finanz- und Versicherungslösungen in der Realität aussehen. Persönliche Betreuung: Erfahrene Mentoren begleiten dich individuell. Flexibilität: Homeoffice und freie Zeiteinteilung sind möglich &ndash; dein Studium und Privatleben bleiben im Gleichgew",
    "prelim": -5
   },
   {
