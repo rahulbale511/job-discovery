@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-31",
- "count": 30,
+ "generated": "2026-11-01",
+ "count": 27,
  "jobs": [
   {
    "refnr": "12811-2367872-S",
@@ -87,34 +87,6 @@
    "first_seen": "2026-10-30",
    "description_excerpt": "Die Liebherr-Mischtechnik GmbH mit Sitz in Bad Schussenried entwickelt und fertigt ein umfangreiches Portfolio hochwertiger Maschinen und Anlagen für die Betonproduktion. Dazu zählen Fahrmischer, Betonpumpen und –mischanlagen sowie Sensoren und Messtechnik. Praktikant / Werkstudent Softwareentwicklung Technisches Büro - Messtechnik (m/w/d) Das sind Ihre Aufgaben: - Mitarbeit bei der Entwicklung und Weiterentwicklung unserer Bediensoftware in modernen Hochsprachen - Umsetzung neuer Funktionen und Unterstützung in der Softwarearchitektur - Durchführung von Tests, Debugging und Performanceoptimierungen - Dokumentation von Entwicklungsfortschritten - Mitarbeit in Entwicklungsprozessen (Code Reviews, kurze Sprints, technische Abstimmungen) Das bringen Sie mit: - Eingeschriebener Bachelor-/Masterstudent (m/w/d) der Informatik, Software Engineering, Technischen Informatik oder einem vergleichbaren Studiengang - Gute Kenntnisse in mindestens einer Hochsprache (.Net: C#, C++ / WPF) - Kenntnisse in der Architektur und dem Aufbau von Datenbanken - Sicherer Umgang mit Git (Branches, Commits, Pull Requests, Merge-Strategien) - Grundlagen in Webtechnologien (z. B. HTML, CSS, JavaScript, APIs oder Webframeworks) - Grundlagen in Linux (Terminal, Dateisystem, einfache Shell-Kommandos und Tools) - Interesse an Softwarearchitektur, Clean Code und modernen Entwicklungsprozessen - Strukturierte, selbstständige Arbeitsweise und Teamfähigkeit Das bieten wir: Bereit, etwas zu bewegen? Als innovative",
    "prelim": 1
-  },
-  {
-   "refnr": "17149-2026jj79yon9-002-S",
-   "title": "Studentische Hilfskraft (w/m/d) für Management Reporting",
-   "employer": "Universitätsklinikum Köln AöR",
-   "city": "Köln",
-   "region": "NORDRHEIN_WESTFALEN",
-   "published": "2026-10-28",
-   "updated": "2026-10-28T08:33:53.871",
-   "apply_url": "https://www.uk-koeln.de",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17149-2026jj79yon9-002-S",
-   "posted_via": "Universitätsklinikum Köln (AöR)",
-   "fulltime_flag": null,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "daten",
-    "informatik",
-    "python"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-10-28",
-   "description_excerpt": "Zur Unterstützung unseres stark wachsenden Teams suchen wir zum nächstmöglichen Zeitpunkt: Studentische Hilfskraft (w/m/d) für Management Reporting CIO - Centrum für Integrierte Onkologie - IT Team Hilfskräfte bis zu 19 Std./Woche Befristet für 1 Jahr nach WissZeitVG Die Vergütung beträgt je Stunde der wöchentlichen Beschäftigungszeit 13,98 € brutto TV-L 19 Std. Ihre Aufgaben • Mitarbeit beim Betrieb, der Weiterentwicklung und der Betreuung des zentralen Reportingsystems am CIO • Planung, Implementierung, Testung und Weiterentwicklung von ETLSchnittstellen zur Anbindung unterschiedlicher Datenquellen mit Python • Datenaufbereitung, -modellierung und -abfragen mit Microsoft SQL Server • Erstellung und Pflege von Reports und Dashboards mit Qlik Sense • Unterstützung bei der Analyse und Visualisierung von Kennzahlen für klinische, organisatorische und wissenschaftliche Fragestellungen • Enge Zusammenarbeit mit medizinischen, wissenschaftlichen und administrativen Stakeholdern Ihr Profil • Eingeschriebene:r Student:in der Informatik, Bioinformatik, Medizininformatik oder eines vergleichbaren Studiengangs • Gute Kenntnisse in SQL • Gute Kenntnisse in Python • Erste Erfahrungen mit Git und/oder Business- Intelligence-Tools (z. B. Qlik Sense) sind von Vorteil • Strukturierte, eigenständige und zuverlässige Arbeitsweise • Gute Kommunikationsfähigkeiten sowie Freude an interdisziplinärer Zusammenarbeit • Interesse an datengetriebenen Prozessen im medizinischen und wissenschaftlichen U",
-   "prelim": 0
   },
   {
    "refnr": "12513-0007660724-S",
@@ -464,32 +436,6 @@
    "prelim": -2
   },
   {
-   "refnr": "13465-00021a67be4001-S",
-   "title": "Werkstudent (m/w/d) Elektrotechnik | Schulung",
-   "employer": "WISAG Elektrotechnik Nord GmbH & Co. KG",
-   "city": "Hamburg",
-   "region": "HAMBURG",
-   "published": "2026-10-27",
-   "updated": "2026-10-27T16:35:47.409",
-   "apply_url": "https://www.wisag.de",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13465-00021a67be4001-S",
-   "posted_via": "WISAG Dienstleistungen GmbH",
-   "fulltime_flag": null,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "entwicklung"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-10-28",
-   "description_excerpt": "Willkommen bei der WISAG … einem der führenden Dienstleistungsunternehmen in Deutschland für die Bereiche: Aviation, Facility und Industrie. Mehr als 60.000 Mitarbeiterinnen und Mitarbeiter sind Tag für Tag bei uns im Einsatz. Die WISAG Elektrotechnik ist spezialisiert auf die Energieversorgung in der Industrie. Von Nieder- und Mittelspannungsschaltanlagen, Transformatoren, USV-Anlagen, Schutztechnik, Schwach- und Starkstrom über den Neubau elektrotechnischer Anlagen bis hin zur Bestandswartung – in allen Facetten der Projektierung, Planung und Montage. Seit über 50 Jahren sind wir mit viel Energie bei unseren Kunden der Industrie im Einsatz. Mehr über die WISAG erfahren Sie auf unserer Webseite. Werkstudent (m/w/d) Energietechnik | Coaching Kennziffer: 423332 Dein Einstieg bei uns Du willst die Energietechnik mitgestalten und Menschen dabei unterstützen, ihr Potenzial zu entfalten? Dann bist du bei uns genau richtig! Du hast Erfahrung in der Elektrotechnik, interessierst dich für Energietechnik, möchtest Deine praktischen Erfahrungen vertiefen und hast Spaß daran, mit Menschen zu arbeiten? Du denkst lösungsorientiert, bringst eigene Ideen ein und möchtest nicht einfach nur Aufgaben abarbeiten, sondern wirklich etwas bewegen? Dann werde Teil unseres Teams und verbinde technisches Know-how mit Kommunikation, Coaching und persönlicher Weiterentwicklung! Starte zunächst als Werkstudent (m/w/d) in unserer Niederlassung Hamburg-Harburg mit folgenden Tätigkeiten - abwechslungsreich",
-   "prelim": -2
-  },
-  {
    "refnr": "12288-4983625851-S",
    "title": "Werkstudent (m/w/d) im Bereich Cloud Governance",
    "employer": "SIGNAL IDUNA",
@@ -516,81 +462,32 @@
    "prelim": -2
   },
   {
-   "refnr": "12811-2365198-S",
-   "title": "Werkstudent R&D Projekte (m/w/d), Freudenberg",
-   "employer": "Harburg-Freudenberger Maschinenbau GmbH",
-   "city": "Freudenberg, Westfalen",
-   "region": "NORDRHEIN_WESTFALEN",
-   "published": "2026-10-27",
-   "updated": "2026-10-27T17:36:00.663",
-   "apply_url": "https://www.finest-jobs.com/stellenanzeige/Werkstudent-Rampd-Projekte-D-1331094?cp=BA",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2365198-S",
+   "refnr": "12811-2367937-S",
+   "title": "Werkstudent Portfolioanalyse Renewables und Flexibilität (m/w/d),Cottbus,Berlin",
+   "employer": "Lausitz Energie Kraftwerke AG",
+   "city": null,
+   "region": "",
+   "published": "2026-11-01",
+   "updated": "2026-11-01T07:16:52.335",
+   "apply_url": "https://www.finest-jobs.com/stellenanzeige/Werkstudent-Portfolioanalyse-Renewables-Und-Flexib-1298504?cp=BA",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2367937-S",
    "posted_via": "finest-jobs.com",
    "fulltime_flag": false,
    "topic_hits": [],
    "core_hits_in_title": [],
    "broad_hits": [
-    "entwicklung"
+    "daten",
+    "entwicklung",
+    "informatik",
+    "python"
    ],
    "broad_only": true,
    "german_hard_required": false,
    "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-10-28",
-   "description_excerpt": "Die Mischung machts Leben heißt, sich immer wieder neu zu erfinden, nicht stillzustehen und in Bewegung zu bleiben. Auch HF ist immer in Bewegung und bietet seinen Kunden als Weltmarktführer zukunftsweisende Lösungen und Produkte, die sie erfolgreich machen. Wir ermöglichen mit unserer Arbeit effiziente und ökologische Mischprozesse für Reifen, technische Gummiwaren und Spezialanwendungen. Ihre Aufgaben Mitarbeit an spannenden R&D-Projekten: Von der Konstruktion über praktische Versuche in unserem Technikum bis hin zur Analyse von Ergebnissen am PC - bei uns kannst du Deine Interessen einbringen und wertvolle Praxiserfahrung für Dein Studium sammeln Unterstützung beim Bau von Prototypen: Begleite die Entwicklung neuer Lösungen von der Idee bis zur Umsetzung Eigenverantwortliches Arbeiten: Übernimm spannende Aufgaben und bringe Deine Ideen aktiv ein Perspektive für deine Abschlussarbeit: Auf Wunsch bieten wir Dir die Möglichkeit, Deine Bachelor- oder Masterarbeit zu einem spannenden, praxisnahen Thema bei uns anzufertigen Ihr Profil Studium im Bereich Maschinenbau, Wirtschaftsingenieurwesen, Elektrotechnik, Mechatronik oder einer verwandten Fachrichtung Begeisterung für Themen wie Konstruktion, Verfahrenstechnik, Analytik oder praktische Versuchsdurchführung Selbstständige, strukturierte Arbeitsweise Unser Angebot Wir bieten unter anderem folgende Benefits: Spannende Projekte in einem innovativen Umfeld Praxisnahe Einblicke in die Entwicklung neuer Technologien Zusammenarbeit ",
-   "prelim": -2
-  },
-  {
-   "refnr": "13635-bc705ff1_JB5283717-S",
-   "title": "Telefonzentrale Ingolstadt - VZ, TZ, Werkstudent oder Minijob (m/w/d)",
-   "employer": "2-Sigma-GmbH",
-   "city": "Gaimersheim",
-   "region": "BAYERN",
-   "published": "2026-10-28",
-   "updated": "2026-10-28T14:12:12.329",
-   "apply_url": "https://www.jobexport.de/job/5283717.html?exp=81&cid=bc705ff1-e088-4a03-bf7f-b65f03f69e86",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-bc705ff1_JB5283717-S",
-   "posted_via": "jobexport.de",
-   "fulltime_flag": false,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "daten"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-10-28",
-   "description_excerpt": "Über Advo365: Du telefonierst gerne, hörst aufmerksam zu und behältst auch bei unterschiedlichen Anliegen den Überblick?Für die Telefonzentrale der Advo365 GmbH suchen wir ab sofort Mitarbeiter im telefonischen Kundenservice (m/w/d) – in Vollzeit, Teilzeit, als Werkstudent oder auf Minijob-Basis. Dein Arbeitsplatz liegt in Gaimersheim, direkt am Ortsrand von Ingolstadt.Die Advo365 GmbH ist eine hundertprozentige Tochtergesellschaft der 2-Sigma-GmbH. Wir arbeiten mit Rechtsschutzversicherern und Rechtsdienstleistern zusammen und unterstützen Menschen dabei, die passende rechtliche Unterstützung zu erhalten. Unser Team nimmt Anliegen telefonisch auf, vereinbart Termine und vermittelt an angebundene Rechtsdienstleister. Was Dich erwartet: • Du nimmst eingehende Kundenanrufe entgegen und erfasst die benötigten Daten sorgfältig in unseren Systemen. • Du vereinbarst Termine und unterstützt bei organisatorischen Fragen rund um die weitere Bearbeitung. • Du vermittelst Kunden entsprechend ihrem Anliegen an die angebundenen Rechtsdienstleister. • Du dokumentierst die Anliegen vollständig und nachvollziehbar für die weitere Bearbeitung. Was Du mitbringst: • Du kommunizierst freundlich, klar und serviceorientiert – auch dann, wenn ein Gespräch einmal anspruchsvoller wird. • Du arbeitest sorgfältig und zuverlässig und stimmst Dich gerne im Team ab. • Du verfügst über sehr gute Deutschkenntnisse in Wort und Schrift und kannst Kundenanliegen sicher erfassen und dokumentieren. • Du gehst si",
-   "prelim": -2
-  },
-  {
-   "refnr": "10001-1003927712-S",
-   "title": "Werkstudent (m/w/d) im Bereich Risk & Compliance Ref.-Nr.: 2026-0607",
-   "employer": "Northrop Grumman LITEF GmbH",
-   "city": "Freiburg im Breisgau",
-   "region": "BADEN_WUERTTEMBERG",
-   "published": "2026-10-28",
-   "updated": "2026-10-29T07:47:52.262",
-   "apply_url": "http://www.arbeitsagentur.de",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003927712-S",
-   "posted_via": "arbeitsagentur.de",
-   "fulltime_flag": false,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "daten"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-10-28",
-   "description_excerpt": "**Ihre Herausforderung:** - Unterstützung bei laufenden Projekten im Bereich Risk & Compliance - Unterstützung bei der Einhaltung gesetzlicher und konzernweiter Compliance Vorgaben - Mitarbeit an Themen wie Umwelt, Nachhaltigkeit und strategische Themen sowie Erstellung und Pflege von Dokumentationen und Nachweisen - Softwarepflege und Datenmanagement - Allgemeine organisatorische Tätigkeiten **Ihre Qualifikation:** - Sie sind eingeschriebener Student (m/w/d) im Bachelor- oder Masterstudium im BWL, VWL, Recht, Wirtschaftsinformatik bzw. Wirtschaftsingenieur oder einem thematisch vergleichbaren Studiengang. - Sie besitzen eine hohe Lernfähigkeit und Arbeitsmoral, Kreativität sowie eine ausgeprägte Kommunikations- und Teamfähigkeit und scheuen nicht den Umgang mit unterschiedlichen Menschen auf allen Hierarchieebenen - Erfahrung mit Daten- und Prozessmanagement ist von Vorteil. - Sie haben Freude an analytischen Aufgaben und Detailgenauigkeit. - Ihr sicherer Umgang mit MS Office rundet Ihr Profil ab.",
+   "english_mentioned": true,
+   "preferred_state": false,
+   "first_seen": "2026-11-01",
+   "description_excerpt": "Wir suchen ab sofort unbefristet einen Werkstudent Portfolioanalyse Renewables und Flexibilität (m/w/d) im Bereich Trading & Optimierung am Standort Cottbus. Referenznummer: 324 Deine Aufgaben Unterstützung bei der Automatisierung und Optimierung von wiederkehrenden (Analyse)Prozessen, gemeinsam im Team oder auch zur eigenverantwortlichen Umsetzung Entwicklung und Implementierung von Dashboards Recherche, Analyse, Aufbereitung und Visualisierung von energiewirtschaftlichen Daten sowie Kennzahlen zur Vorbereitung der weiteren Produkt- und Portfolioentwicklung Kommunikation mit internen Schnittstellen Unser Match! Du bist immatrikulierter Student und belegst bspw. den Studiengang Physik, Mathematik, Informatik, Energiewirtschaft, Ingenieur- oder Wirtschaftswissenschaften. Du hast gute Kenntnisse in den Bereichen Energiewirtschaft und Energiehandel. Du besitzt stark ausgeprägte analytische und quantitative Fähigkeiten. Du bringst sehr gute Kenntnisse der MS Office-Standardprodukte mit, insbesondere für Excel. Du verfügst über umfangreiche Programmiererfahrung in Python (u.a. numpy, pandas , plotly). Du hast Erfahrungen in der Verarbeitung großer Datenmengen und verfügst über gute SQL-Kenntnisse. Du kommunizierst sicher und überzeugend in Deutsch und Englisch. Du hast eine strukturierte, selbständige und präzise Arbeitsweise. Dein Plus o Mitarbeit an einem der zentralen Zukunftsfelder der Energiewende o Einblicke in den Energiehandel und den Nutzen von Batterien, PV- und Windener",
    "prelim": -2
   },
   {
@@ -620,33 +517,6 @@
    "prelim": -2
   },
   {
-   "refnr": "12288-4980523120-S",
-   "title": "Werkstudent Vertriebsinnendienst (m/w/d)",
-   "employer": "DIS AG Germany",
-   "city": "Chemnitz, Sachsen",
-   "region": "SACHSEN",
-   "published": "2026-10-27",
-   "updated": "2026-10-27T18:05:36.148",
-   "apply_url": "https://www.persy.jobs/persy/l/job-js2m1-b",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4980523120-S",
-   "posted_via": "XING GmbH & Co. KG",
-   "fulltime_flag": true,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "data",
-    "daten"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": false,
-   "first_seen": "2026-10-28",
-   "description_excerpt": "Werkstudent (m/w/d) Vertriebsinnendienst – Dein Start ins Next-Level-Recruiting! Ort: Chemnitz Start: 01.01.2027 Umfang: Flexibel neben dem Studium im Rahmen von bis zu 20 Wochenstunden Du hast kein Bock auf Kaffeekochen und Aktenabheften, sondern willst den Vertrieb der Zukunft aktiv mitgestalten? Du liebst das Zusammenspiel aus Zahlen, Menschen und smarten KI-Tools? Dann bist du bei der DIS AG in Chemnitz genau richtig! Als einer der führenden Personaldienstleister bringen wir Talente und Top-Unternehmen zusammen und du bist mitten im Geschehen! Deine Aufgaben Kein Tag ist wie der andere! Du unterstützt unser Vertriebsteam im Innendienst und bringst frische Ideen in unseren Alltag: Potenziale aufdecken: Du spürst aktuelle Chancen bei unseren Bestandskunden auf und identifizierst spannende Neukunden. Smart Matching mit KI: Du nutzt moderne KI-Tools, um Kandidatenprofile blitzschnell und passgenau mit den Anforderungen unserer Kunden zu matchen. Markt-Insider werden: Durch deine Markt- und Wettbewerbsanalysen weißt du immer genau, wo die Trends von morgen liegen. Kunden begeistern: Du steigst in die aktive Kundenansprache ein und hältst den Kontakt zu unseren Partnern. Data & Analytics: Du arbeitest aussagekräftige Statistiken und Daten auf, die als echte Entscheidungsgrundlage für unser Team dienen. Dein Profil Dein Fundament: Du bist eingeschriebener Student (m/w/d) im Bereich der Wirtschaftswissenschaften, BWL, Wirtschaftsingenieurwesen oder einem vergleichbaren Studiengan",
-   "prelim": -4
-  },
-  {
    "refnr": "16481-1949819-S",
    "title": "Werkstudent Architektur / Bauingenieurwesen (m/w/d)",
    "employer": "Thüringer Landgesellschaft mbH",
@@ -670,6 +540,32 @@
    "preferred_state": false,
    "first_seen": "2026-10-30",
    "description_excerpt": "Wer wir sind Die Thüringer Landgesellschaft mbH (ThLG) entwickelt seit über 35 Jahren ganzheitlich den ländlichen Raum, insbesondere für den Freistaat Thüringen. Unser Schwerpunkt ist die integrierte Landentwicklung: Flächenmanagement, Flurneuordnung, Wasserbau, Wasserwirtschaft, Regionalentwicklung, Landwirtschaft, Bau und Naturschutz an vier Standorten. Bei uns stimmt nicht nur die Aufgabe, sondern auch das Miteinander. Wir sind professionell, bodenständig, direkt und ehrlich – zu unserer Arbeit und zueinander. Kein Rollenspiel, keine falschen Versprechen. Einfach gute Arbeit mit guten Menschen. Ihre Aufgaben - Mitarbeit an Entwürfen und Erstellung von Planzeichnungen - Mitwirkung bei der Objektplanung von landwirtschaftlichen und kommunalen Bauvorhaben in Thüringen - Unterstützung bei der Umstellung des Zeichenprogramms Was Sie mitbringen Sie absolvieren einen Bachelorstudiengang (mind. 4. Semester) oder Masterstudiengang im Bereich Architektur oder Bauingenieurwesen. Darüber hinaus: - Sicherer und selbstständiger Umgang mit der CAD-Anwendung Allplan, ggf. AutoCAD, sowie Standardsoftware (z. B. MS-Office-Anwendungen) - Erfahrung mit GIS-Programmen wünschenswert - Erste praktische Erfahrungen aus vorherigen Praktika wünschenswert - Teamorientierte Arbeitsweise - Eigeninitiative und Kreativität Was wir bieten - Attraktive Stundenvergütung - Flexible Arbeitszeiten - Strukturierte Einarbeitung - Unterstützung bei der fachlichen und persönlichen Entwicklung durch erfahrene Mita",
+   "prelim": -5
+  },
+  {
+   "refnr": "10001-1003943695-S",
+   "title": "Werkstudent (w/m/d) Business Excellence & Transformation",
+   "employer": "Clarius.Services GmbH",
+   "city": "Eschborn, Taunus",
+   "region": "HESSEN",
+   "published": "2026-10-31",
+   "updated": "2026-10-31T17:11:22.729",
+   "apply_url": "http://www.arbeitsagentur.de",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003943695-S",
+   "posted_via": "arbeitsagentur.de",
+   "fulltime_flag": false,
+   "topic_hits": [],
+   "core_hits_in_title": [],
+   "broad_hits": [
+    "daten"
+   ],
+   "broad_only": true,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": true,
+   "preferred_state": false,
+   "first_seen": "2026-11-01",
+   "description_excerpt": "## Chance **Technologie schafft Möglichkeiten. Menschen machen den Unterschied.** Bei [Clarius Group](https://clarius-group.com/) verbinden wir intelligente Technologie mit menschlicher Expertise, um komplexe Aufgaben einfacher und Prozesse effizienter zu gestalten. Wir denken voraus, entwickeln Lösungen und schaffen echten Mehrwert – für unsere Kunden und für das, was wir gemeinsam erreichen wollen. **Dafür suchen wir Menschen, die ihr Wissen einbringen, neue Perspektiven eröffnen und Verantwortung übernehmen wollen. Menschen, die gemeinsam mit uns Lösungen gestalten und etwas bewegen möchten.** **Rahmen:** Befristung: ein Jahr ## Aufgaben **Neben dem Studium mitten rein in Organisation, Analyse & Automatisierung:** Als **Werkstudent (w/m/d)** im Team Business Excellence & Transformation unterstützt Du unsere interne Initiative für mehr Effizienz. Viele Prozesse sind bereits analysiert, erste Automatisierungen laufen, und mit jeder Analyse entstehen neue Fragen. Du hilfst uns, den Überblick zu behalten, Zusammenhänge zu verstehen und aus Erkenntnissen konkrete Lösungen zu machen – eng begleitet von erfahrenen Kollegen (w/m/d) und mit Raum für eigene Ideen. **Organisieren & Projekte voranbringen:** Du unterstützt uns bei der Steuerung laufender Automatisierungs- und Optimierungsprojekte. Du bereitest Abstimmungen und Workshops mit den Fachbereichen vor, hältst Aufgaben, Entscheidungen und offene Punkte nach und sorgst dafür, dass Projekte nicht ins Stocken geraten. Mit der Ze",
    "prelim": -5
   },
   {
@@ -800,6 +696,32 @@
    "preferred_state": false,
    "first_seen": "2026-10-29",
    "description_excerpt": "Wir suchen zum 01.01.2027 zur befristeten Einstellung (Teilzeit) eine:n Werkstudent (m/w/d) Elektrotechnik (20h/Woche, befristet). Die **Stadtwerke Stendal GmbH** verstehen sich heute nach fast anderthalb Jahrhunderten Firmengeschichte als moderner Energie\\- und Infrastrukturdienstleister für die Hansestadt Stendal, die gesamte Altmark und darüber hinaus. ### Ihre Aufgaben - Netzmodellierung mit PowerFactory - Digitalisierung, Aktualisierung und Pflege des Mittelspannungsnetzes - Systematischer Abgleich der Daten mit dem GIS-System - Kurzschluss\\- und Schutzberechnungen - Bewertung der Kurzschlussfestigkeit von Schaltanlagen - Unterstützung bei der Auslegung der Erdschlusskompensation - Lastfluss\\- und Engpassanalysen (Lastflusssimulation und n-1-Ausfallszenarien im städtischen Ringnetz) - Mitwirkung bei der Netzanschlussprüfung (z.B. Gewerbe-PV, Quartiersspeicher, Schnelllade-Hubs) ### Ihr Profil - Student (m/w/d) der Elektrotechnik oder einer vergleichbaren Studienrichtung - Teamfähigkeit, Kommunikationsstärke sowie zielorientierte Arbeitsweise - Gute MS-Office Kenntnisse (v. a. Word, Excel, PowerPoint) ## Unser Angebot - Flexible Arbeitszeit - Vermögenswirksame Leistungen - Kostenlose Weiterbildungs\\- und Qualifizierungsmöglichkeiten - Kostenzuschuss für die Betreuung von nicht schulpflichtigen Kindern ### Ihre Bewerbung Wir freuen uns auf Ihre Online Bewerbung! Bitte füllen Sie das Online Bewerbungsformular bis zum **31.12.2026** aus. **Ihre Ansprechpartner** in unserem H",
+   "prelim": -5
+  },
+  {
+   "refnr": "10001-1003935523-S",
+   "title": "Studentische Hilfskraft Kindertagesstätte (m/w/d) Frankfurt am Main",
+   "employer": "Wutow Professional GmbH",
+   "city": "Frankfurt am Main",
+   "region": "HESSEN",
+   "published": "2026-10-29",
+   "updated": "2026-10-29T15:41:29.732",
+   "apply_url": "http://www.arbeitsagentur.de",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003935523-S",
+   "posted_via": "arbeitsagentur.de",
+   "fulltime_flag": null,
+   "topic_hits": [],
+   "core_hits_in_title": [],
+   "broad_hits": [
+    "entwicklung"
+   ],
+   "broad_only": true,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": false,
+   "preferred_state": false,
+   "first_seen": "2026-10-29",
+   "description_excerpt": "Sie studieren Erziehungswissenschaften, Soziale Arbeit oder Sozialpädagogik und möchten wertvolle Praxiserfahrung sammeln? Perfekt! **Wutow Professional GmbH** ist Ihr Experte für die Rekrutierung und Vermittlung von pädagogisch qualifizierten Fachkräften im Rhein-Main-Gebiet. **Studentische Hilfskraft Kindertagesstätte (m/w/d) Frankfurt am Main** Ihre Aufgaben: * Bildungs- und Erziehungsprozesse gestalten Sie altersgerecht und kindorientiert in Krippe oder Kindergarten * Sie beobachten, begleiten und dokumentieren die Entwicklung der Kinder * Theoretische Kenntnisse aus Ihrem Studium setzen Sie direkt in die pädagogische Praxis um * Im Team tauschen Sie sich regelmäßig aus und unterstützen sich gegenseitig Ihr Profil: * Sie studieren Erziehungswissenschaften, Soziale Arbeit oder Sozialpädagogik -- auch als pädagogische Hilfskraft (m/w/d), Kita-Hilfskraft (m/w/d) oder Betreuungsassistenz (m/w/d) sind Sie bei uns willkommen * Gute Deutschkenntnisse bringen Sie mit * Freude an der Arbeit mit Kindern und Einfühlungsvermögen zeichnen Sie aus * Auf unterschiedliche kulturelle Hintergründe und soziale Lebenslagen der Kinder können Sie sich flexibel einstellen Ihre Vorteile: * Sie sammeln wertvolle Praxiserfahrung, die Ihr Studium optimal ergänzt * Flexible Einsatzplanung nach Ihren Wünschen und Verfügbarkeiten * Ein internationales, wertschätzendes Team, in dem Vertrauen, Fairness und Teamgeist gelebt werden * Hospitation vor Einsatzbeginn, damit Sie Ihre Wunsch-Einrichtung kennenl",
    "prelim": -5
   }
  ]
