@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06",
+ "generated": "2026-11-07",
  "count": 30,
  "jobs": [
   {
@@ -9,7 +9,7 @@
    "city": "Göttingen",
    "region": "NIEDERSACHSEN",
    "published": "2026-11-06",
-   "updated": "2026-11-06T12:31:05.753",
+   "updated": "2026-11-07T07:01:47.985",
    "apply_url": "https://www.finest-jobs.com/stellenanzeige/Werkstudent-D-Ki-Automatisierung-1335241?cp=BA",
    "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2372733-S",
    "posted_via": "finest-jobs.com",
@@ -19,15 +19,48 @@
     "automatisierung",
     "ki"
    ],
-   "broad_hits": [],
+   "broad_hits": [
+    "entwicklung",
+    "informatik"
+   ],
    "broad_only": false,
    "german_hard_required": false,
    "german_b_level_mentioned": false,
    "english_mentioned": false,
    "preferred_state": true,
    "first_seen": "2026-11-06",
-   "description_excerpt": "SCHUMANN steht für Stabilität, Kundenorientierung und Wachstum. Gemeinsam mit unseren Kunden aus den Bereichen Industry & Trade, Credit & Surety und Financial Services setzen wir Standards und die Trends von morgen! Schließe dich unserer mehr als 230 Köpfe zählenden Familie an und bewirb dich jetzt für eine Werkstudententätigkeit mit einem Umfang von 15-20 Stunden pro Woche. Einstiegsvergütung: 14,50 EUR/h - 16,00 EUR/h Deine Aufgaben: Du unterstützt bei der Erfassung nationaler und internationaler Jahresabschlüsse sowie betriebswirtschaftlicher Auswertungen und unterjähriger Abschlüsse in unserer Softwarelösung Gemeinsam mit dem Team interpretierst du Bilanzierungssachverhalte und Anhang-Angaben Gemeinsam mit dem Team koordinierst du die zeitnahe und fristgerechte Erfüllung der Kundenbestellungen und kannst dabei erste Einblicke in die Kundenkommunikation gewinnen Das bringst du mit: Du studierst im Bereich der Wirtschaftswissenschaften mit einem der Schwerpunkte Finanzen / Rechnungswesen / Controlling Du kannst dir vorstellen, nationale und internationale Abschlüsse (US GAAP, IFRS, Local GAAP, HGB) in verschiedenen Sprachen auszuwerten, und zu interpretieren Du kommunizierst sicher in deutscher und englischer Sprache Deine effiziente und sorgfältige Arbeitsweise zeichnet dich aus Du bist bereit bei uns im Büro in Göttingen zu arbeiten Wir bieten dir: Einen auf dich zugeschnittenen Einarbeitungsplan und ein motiviertes Team, dass dich herzlich aufnimmt Individuell abgestimmt",
-   "prelim": 11
+   "description_excerpt": "SCHUMANN entwickelt seit über 25 Jahren Softwarelösungen für das digitale Kreditrisikomanagement und beschäftigt heute über 230 Mitarbeitende. Für unsere Verwaltungs- und Supportbereichen suchen wir jemanden, der die effektive Nutzung von KI stärkt. Du gehst aktiv auf Menschen zu, hörst zu, verstehst die Arbeitsabläufe, identifizierst Wiederholaufgaben und manueller Aufwand - und baust dann eigenständig KI-Agenten und Automatisierungen, die den Arbeitsalltag erleichtern. Danach prüfst du gemeinsam mit den Anwendern, ob die gewünschte Erleichterung tatsächlich eintritt und justierst im Zweifel nach. All das tust du mit Unterstützung unserer Softwareentwickler, die sich darauf Fokussieren KI in unserem Produkt und bei der Softwareentwicklung bestmöglich zu integrieren. In Göttingen für 15 - 20 Stunden pro Woche. Deine Aufgaben Use-Case-Discovery: Du führst Gespräche mit Kolleginnen und Kollegen aus Controlling, HR, Verwaltung und Sekretariat, machst dir Workflow-Probleme greifbar und identifizierst Automatisierungspotenzial. Beratung & Aufbereitung: Du erklärst komplexe KI-Konzepte adressatengerecht für Nicht-IT-ler - verständlich, ohne Fachchinesisch, mit Fokus auf konkreten Mehrwert. Agenten-Entwicklung: Du baust eigenständig KI-Agenten und Automatisierungsworkflows, erprobst diese und iterierst auf Basis von Nutzerfeedback. Nutzervalidierung: Du prüfst mit den Anwendern vor Ort, ob die gewünschte Arbeitserleichterung eintritt, und optimierst nach. Lokale Einrichtung: Du hilf",
+   "prelim": 13
+  },
+  {
+   "refnr": "17402-44557812-116-S",
+   "title": "Working Student Engineering Foundation (m/f/d)",
+   "employer": "ENERCON GmbH",
+   "city": "Aurich, Ostfriesland",
+   "region": "NIEDERSACHSEN",
+   "published": "2026-11-07",
+   "updated": "2026-11-06T15:22:32.587",
+   "apply_url": "https://www.enercon.de",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17402-44557812-116-S",
+   "posted_via": "ENERCON GmbH",
+   "fulltime_flag": true,
+   "topic_hits": [
+    "simulation"
+   ],
+   "core_hits_in_title": [],
+   "broad_hits": [
+    "development",
+    "python",
+    "simulation"
+   ],
+   "broad_only": true,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": true,
+   "preferred_state": true,
+   "first_seen": "2026-11-07",
+   "description_excerpt": "ENERCON GmbH Your Tasks * Development and validation of finite element models for wind turbine foundations in ANSYS * Analysis of reinforced concrete, foundation basket, and soil-structure interaction behavior * Execution of parametric and optimization studies * Automation of simulation workflows using Python * Evaluation and documentation of simulation results * Support in developing innovative and material-efficient foundation concepts Your Qualifications * You are an Enrolled Master's student in Civil Engineering, Structural Engineering, Computational Engineering, or in another related field * You have a strong interest in structural analysis, reinforced concrete structures and foundation engineering You have gained first experience with finite element analysis (FEA), ideally using ANSYS, Abaqus, DIANA or comparable softwareYou gained first knowledge of reinforced concrete design according to Eurocode 2 * You have basic programming skills in Python You enjoy solving complex engineering challenges and turning simulation results into practical insightsYou work independently and responsibly and value collaboration in an international team environment * You have a good command of English",
+   "prelim": 3
   },
   {
    "refnr": "18207-44551115-114-S",
@@ -388,21 +421,21 @@
    "prelim": -1
   },
   {
-   "refnr": "12811-2369765-S",
-   "title": "Werkstudent Architektur (m/w/d), TEAM Baumanagement GmbH",
-   "employer": "TEAM Baumanagement GmbH",
-   "city": "Köln",
-   "region": "NORDRHEIN_WESTFALEN",
-   "published": "2026-11-03",
-   "updated": "2026-11-03T07:01:05.934",
-   "apply_url": "https://www.finest-jobs.com/stellenanzeige/Werkstudent-Architektur-D-1044983?cp=BA",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2369765-S",
+   "refnr": "12811-2373153-S",
+   "title": "Werkstudent IT-Service & Infrastruktur (m/w/d)  bei der NOBIX Group GmbH, NOBIX Group GmbH",
+   "employer": "NOBIX Group GmbH",
+   "city": "Gundelfingen an der Donau",
+   "region": "BAYERN",
+   "published": "2026-11-06",
+   "updated": "2026-11-06T17:34:02.405",
+   "apply_url": "https://www.finest-jobs.com/stellenanzeige/Werkstudent-It-Service-Amp-Infrastruktur-D-Bei-Der-1318430?cp=BA",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2373153-S",
    "posted_via": "finest-jobs.com",
-   "fulltime_flag": false,
+   "fulltime_flag": true,
    "topic_hits": [],
    "core_hits_in_title": [],
    "broad_hits": [
-    "entwicklung",
+    "informatik",
     "software"
    ],
    "broad_only": true,
@@ -410,62 +443,8 @@
    "german_b_level_mentioned": false,
    "english_mentioned": false,
    "preferred_state": true,
-   "first_seen": "2026-11-03",
-   "description_excerpt": "Einleitung Wir sind ein in Köln und Dortmund ansässiges TEAM von Architekten, Bauingenieuren, Projektmanagern und ausgebildeten Technikern mit langjähriger Erfahrung in der Realisierung von schlüsselfertigen Hochbauprojekten. Unsere Projekte befinden sich im Wesentlichen in Nordrhein-Westfalen, insbesondere in den Städten Köln, Bonn, Aachen, Mönchengladbach, Düsseldorf, Dortmund, Bochum, Essen, Wuppertal und Münster. Seit 25 Jahren sind wir für unsere Auftraggeber spezialisierte Ansprechpartner für die Projektleitung, Projektsteuerung, das Bauprojektmanagement, die Projektberatung, Projektentwicklung und Bauorganisation. Ihre Aufgaben Mitarbeit bei spannenden Projekten im Hochbau Unterstützung bei der Steuerung von Fachplanern sowie den ausführenden Firmen Unterstützung beim Erstellen von Leistungsverzeichnissen Unterstützung bei der Erstellung von Planunterlagen im Rahmen der Leistungsphase 1 bis 5 gemäß HOAI Assistenz der Projektleitung bei der Verantwortung für Qualität, Termine und Kosten der Projektaufgaben Mithilfe bei der Prüfung von Bauantragsunterlagen oder Ausführungsplänen Ihr Profil Studium im Bereich Architektur, Städteplanung oder Innenarchitektur Idealerweise erste Berufserfahrung durch relevante Praktika im Bereich Architektur Gern erste Grundkenntnisse in der Anwendung von CAD-Software (ArchiCAD o.ä.) Sicherer Umgang mit MS Office-Anwendungen Kommunikationsstärke, strukturierte und selbständige Arbeitsweise sowie Durchsetzungsvermögen Engagierte und teamorien",
-   "prelim": -1
-  },
-  {
-   "refnr": "12811-2369764-S",
-   "title": "Werkstudent Bauingenieurwesen (m/w/d), TEAM Baumanagement GmbH",
-   "employer": "TEAM Baumanagement GmbH",
-   "city": "Köln",
-   "region": "NORDRHEIN_WESTFALEN",
-   "published": "2026-11-03",
-   "updated": "2026-11-03T07:01:05.827",
-   "apply_url": "https://www.finest-jobs.com/stellenanzeige/Werkstudent-Bauingenieurwesen-D-1044987?cp=BA",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2369764-S",
-   "posted_via": "finest-jobs.com",
-   "fulltime_flag": false,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "entwicklung",
-    "software"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-11-03",
-   "description_excerpt": "Einleitung Wir sind ein in Köln und Dortmund ansässiges TEAM von Architekten, Bauingenieuren, Projektmanagern, Wirtschaftsingenieuren und ausgebildeten Technikern mit langjähriger Erfahrung in der Realisierung von schlüsselfertigen Hochbauprojekten. Unsere Projekte befinden sich im Wesentlichen in Nordrhein-Westfalen, insbesondere in den Städten Köln, Bonn, Aachen, Mönchengladbach, Düsseldorf, Dortmund, Bochum, Essen, Wuppertal und Münster. Seit 25 Jahren sind wir für unsere Auftraggeber spezialisierte Ansprechpartner für die Projektleitung, Projektsteuerung, das Bauprojektmanagement, die Projektberatung, Projektentwicklung und Bauorganisation. Ihre Aufgaben Mitwirken in der Projektsteuerung zur Projektentwicklung, Planung und Durchführung von Bauprojekten im schlüsselfertigen Hochbau Unterstützung bei der Steuerung von Fachplanern sowie den ausführenden Firmen Unterstützung beim Erstellen von Leistungsverzeichnissen Assistenz der Projektleitung bei der Verantwortung für Qualität, Termine und Kosten der Projektaufgaben Mitarbeit bei Projektmanagementaufgaben in allen Projektstufen und Handlungsbereichen gemäß AHO Eigenständige Übernahme kleinerer Aufgaben mit entsprechender Einarbeitung Ihr Profil Studium im Bereich Bauingenieurwesen, Wirtschaftsingenieurwesen, Technische Gebäudeausrüstung, Bauprojektmanagement oder Baumanagement Idealerweise erste Berufserfahrung durch relevante Praktika im Bauwesen Sicherer Umgang mit MS Office-Anwendungen Kommunikationsstärke, strukturiert",
-   "prelim": -1
-  },
-  {
-   "refnr": "12811-2369763-S",
-   "title": "Werkstudent Wirtschaftsingenieurwesen (m/w/d), TEAM Baumanagement GmbH",
-   "employer": "TEAM Baumanagement GmbH",
-   "city": "Köln",
-   "region": "NORDRHEIN_WESTFALEN",
-   "published": "2026-11-03",
-   "updated": "2026-11-03T07:01:05.716",
-   "apply_url": "https://www.finest-jobs.com/stellenanzeige/Werkstudent-Wirtschaftsingenieurwesen-D-1080121?cp=BA",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2369763-S",
-   "posted_via": "finest-jobs.com",
-   "fulltime_flag": false,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "entwicklung",
-    "software"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-11-03",
-   "description_excerpt": "Einleitung Wir sind ein in Köln und Dortmund ansässiges TEAM von Architekten, Bauingenieuren, Projektmanagern, Wirtschaftsingenieuren und ausgebildeten Technikern mit langjähriger Erfahrung in der Realisierung von schlüsselfertigen Hochbauprojekten. Unsere Projekte befinden sich im Wesentlichen in Nordrhein-Westfalen, insbesondere in den Städten Köln, Bonn, Aachen, Mönchengladbach, Düsseldorf, Dortmund, Bochum, Essen, Wuppertal und Münster. Seit 25 Jahren sind wir für unsere Auftraggeber spezialisierte Ansprechpartner für die Projektleitung, Projektsteuerung, das Bauprojektmanagement, die Projektberatung, Projektentwicklung und Bauorganisation. Ihre Aufgaben Mitwirken in der Projektsteuerung zur Projektentwicklung, Planung und Durchführung von Bauprojekten im schlüsselfertigen Hochbau Unterstützung bei der Steuerung von Fachplanern sowie den ausführenden Firmen Unterstützung beim Erstellen von Leistungsverzeichnissen Assistenz der Projektleitung bei der Verantwortung für Qualität, Termine und Kosten der Projektaufgaben Mitarbeit bei Projektmanagementaufgaben in allen Projektstufen und Handlungsbereichen gemäß AHO Eigenständige Übernahme kleinerer Aufgaben mit entsprechender Einarbeitung Ihr Profil Studium im Bereich Wirtschaftsingenieurwesen mit Vertiefung in Baumanagement, Bauwesen, Projektmanagement oder einer vergleichbaren Fachrichtung Idealerweise erste Berufserfahrung durch relevante Praktika im Bauwesen Sicherer Umgang mit MS Office-Anwendungen Kommunikationsstärke, st",
+   "first_seen": "2026-11-07",
+   "description_excerpt": "Willkommen bei der NOBIX Group GmbH Die NOBIX Group ist ein bundesweit tätiger Managed Service Provider mit Fokus auf Managed Services für Infrastruktur, Cloud, Security und Kerngeschäftsapplikationen. Die Gruppe beschäftigt rund 330 Mitarbeitende an 13 Standorten in Deutschland. Deine Aufgaben: Unterstützung bei der Betreuung der IT-Arbeitsplätze sowie der internen IT-Infrastruktur Einrichtung, Installation und Wartung von Hard- und Software Bearbeitung von Serviceanfragen sowie Unterstützung im 1st- und 2nd-Level-Support Mitarbeit bei Changes sowie Unterstützung bei der Planung und Umsetzung interner IT-Projekte Dokumentation von IT-Systemen, Prozessen und Infrastrukturkomponenten Überwachung und Monitoring der IT-Infrastruktur sowie Unterstützung bei der Fehleranalyse Unterstützung bei der Optimierung und Weiterentwicklung interner IT-Prozesse Zusammenarbeit mit internen Fachbereichen und externen Dienstleistern Dein Profil: Laufendes Studium im Bereich Informatik, Wirtschaftsinformatik oder einer vergleichbaren Fachrichtung Idealerweise erste praktische Erfahrungen im IT-Support oder in der Systemadministration (z. B. durch Ausbildung, Praktika oder eine vorherige Berufsausbildung) Grundlegende Kenntnisse von IT-Infrastrukturen, Windows-Betriebssystemen sowie Microsoft 365 Selbstständige, strukturierte und zuverlässige Arbeitsweise Hohe Serviceorientierung sowie Freude am direkten Kontakt mit Anwenderinnen und Anwendern Teamfähigkeit, Kommunikationsstärke und Hands-on-Men",
    "prelim": -1
   },
   {
@@ -520,35 +499,6 @@
    "preferred_state": true,
    "first_seen": "2026-11-06",
    "description_excerpt": "rexx systems ist ein führender Anbieter innovativer Software rund um die Themen Human Resources Management, E-Recruiting, Talent Management und Zeitwirtschaft. Unsere webbasierten Lösungen werden von namhaften Kunden wie Merck, Europcar, ProSiebenSat1-Gruppe, Starbucks, Die Zeit, Campari, Hermes Logistik, Bahlsen uvm. national und international eingesetzt. Ihre Aufgaben Online-Marketing, SEO, SEM, Social Networks, Online Redaktion Marketing Beratung und Betreuung unserer eBusiness Kunden Entwicklung und Aktualisierung diverser Verkaufs-, Kommunikations- und Marketingmaterialien Unterstützung unserer strategischen Marketing-Ausrichtung Enge Zusammenarbeit mit unseren technischen Abteilungen und dem Vertrieb Die Anforderungen Ausbildung oder Studium im Bereich Marketing, Medienwirtschaft, Mediendesign, Kommunikationsdesign oder vergleichbarer Abschluss Erste praktische Erfahrungen im Marketing - insbesondere im Online Marketing Freude am Mitdenken und Vordenken, Kreativsein und der Umsetzung neuer Ideen Konzeptions- und Umsetzungsstärke Eigenverantwortliche und ergebnisorientierte Arbeitsweise Gespür für Design, Ästhetik und Trends Sehr guter Ausdruck in Wort und Schrift Gute IT Kenntnisse und hohe Internet-Affinität Gute Englischkenntnisse wünschenswert Unser Angebot Flexible Arbeitszeit Jahresarbeitszeitkonto Attraktives Gehalt / Betriebliche Altersvorsorge (BAV) Kindergartenzuschuss für Eltern Teamspirit und tolle Arbeitsatmosphäre (Kicker, Grill, freie Getränke etc.) Loggia",
-   "prelim": -1
-  },
-  {
-   "refnr": "15861-44553843-115-S",
-   "title": "Wissenschaftliche Hilfskraft (m/w/d) Technische Betreuung Windmesslabor",
-   "employer": "Fraunhofer-Gesellschaft e.V. Zentrale München",
-   "city": "Kassel, Hessen",
-   "region": "HESSEN",
-   "published": "2026-11-06",
-   "updated": "2026-11-05T09:51:16.513",
-   "apply_url": "https://www.fraunhofer.de",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15861-44553843-115-S",
-   "posted_via": "Zentrale der Fraunhofer Gesellschaft e.V.",
-   "fulltime_flag": null,
-   "topic_hits": [
-    "lidar"
-   ],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "python",
-    "software"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": false,
-   "first_seen": "2026-11-06",
-   "description_excerpt": "Die Fraunhofer-Gesellschaft (www.fraunhofer.de) ist eine der weltweit führenden Organisationen für anwendungsorientierte Forschung. 74 Institute entwickeln wegweisende Technologien für unsere Wirtschaft und Gesellschaft - genauer: 30 000 Menschen aus Technik, Wissenschaft, Verwaltung und IT. Sie wissen: Wer zu Fraunhofer kommt, will und kann etwas verändern. Für sich, für uns und die Märkte von heute und morgen. Das Fraunhofer IEE in Kassel forscht in den Bereichen Energiewirtschaft und Energiesystemtechnik mit den Schwerpunkten: Energieinformatik, Energiemeteorologie und Geoinformationssysteme, Energiewirtschaft und Systemdesign, Energieverfahrenstechnik und -speicher, Netzplanung und Netzbetrieb, Netzstabilität und Stromrichtertechnik sowie thermische Energietechnik. Rund 450 Wissenschaftlerinnen und Wissenschaftler, Angestellte, Studentinnen und Studenten entwickeln Lösungen für die Energiewende und erwirtschaften rund 40 Mio. Euro Erträge pro Jahr. Du möchtest die Umsetzung der Energiewende mitgestalten und an der Schnittstelle von Wissenschaft und Wirtschaft arbeiten? In der Gruppe „Standortbewertung Wind\" arbeiten Ingenieurinnen und Ingenieure, Naturwissenschaftler:innen, technisches Personal sowie Studierende gemeinsam an innovativen Lösungen für die Windenergie. Mithilfe modernster Messsysteme und innovativer Hard- und Software untersuchen wir Windstandorte, entwickeln neue lidarbasierte Anwendungen und führen Messkampagnen sowie Feldexperimente durch. Unser Windmessl",
    "prelim": -1
   },
   {
@@ -682,32 +632,6 @@
    "prelim": -2
   },
   {
-   "refnr": "14910-2EWZRN3XDG2B35Z9-S",
-   "title": "Werkstudent Unternehmensentwicklung / Strategy (m/w/d)",
-   "employer": "Inotec Industrieanlagentechnik GmbH",
-   "city": "Neuss",
-   "region": "NORDRHEIN_WESTFALEN",
-   "published": "2026-11-03",
-   "updated": "2026-11-03T10:24:08.696",
-   "apply_url": "https://www.inotec-service.de",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14910-2EWZRN3XDG2B35Z9-S",
-   "posted_via": "Inotec GmbH",
-   "fulltime_flag": null,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "daten"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-11-03",
-   "description_excerpt": "Werkstudent Unternehmensentwicklung / Strategy (m/w/d) Stellen-ID: 108 Standort: Neuss Anstellungsart(en): Teilzeit - flexibel Arbeitszeit: 10 - 20 Stunden pro Woche Mit Startup-Spirit und Mittelstands-Professionalität - wir wachsen in unseren Geschäftsbereichen. Deshalb suchen wir die richtigen Köpfe für unser Team, die mit viel Erfahrung, Neugier und Umsetzungswillen daran gehen, gemeinsam spannende Aufgaben umzusetzen. Du möchtest nicht nur „mitlaufen“, sondern echten Impact leisten? In dieser Rolle arbeitest Du eng mit der Geschäftsleitung zusammen und erhältst unmittelbare Einblicke in unternehmerische Entscheidungsprozesse. Spannende Aufgaben warten auf Dich - Mitarbeit in strategischen Projekten, z.B. Digitalisierung, Robotik, Marketing und People Management - Durchführung von Markt- und Wettbewerbsanalysen - Unterstützung bei der Lieferantenbewertung und -auswahl - Analyse von Kennzahlen und Performance-Daten zur Ableitung konkreter Maßnahmen Das bringst Du mit - Fortgeschrittenes Studium an einer Universität, idealerweise mit wirtschaftlichem oder technischem Schwerpunkt - Ausgeprägte Fähigkeit zum strukturierten, wissenschaftlichen Arbeiten - Hohe Leistungsbereitschaft sowie ein klarer Anspruch, Ergebnisse zu erzielen - Sehr gute Deutschkenntnisse (mind. C2) - Sicherer Umgang mit gängigen Tools wie Excel und PowerPoint Willkommen bei Inotec Seit über 30 Jahren sind wir als Industrie-Dienstleister und Familienunternehmen erfolgreich am Markt. Wir unterstützen unsere ",
-   "prelim": -2
-  },
-  {
    "refnr": "10001-1003968351-S",
    "title": "Werkstudent für Ingenierbüro gesucht (Tragwerksplanung)",
    "employer": "Schnatmann Ingenieure GmbH",
@@ -766,7 +690,7 @@
    "city": "Warburg, Westfalen",
    "region": "NORDRHEIN_WESTFALEN",
    "published": "2026-11-06",
-   "updated": "2026-11-06T13:12:15.645",
+   "updated": "2026-11-06T17:41:21.747",
    "apply_url": "https://www.coveris.com",
    "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17033-0068605755-S",
    "posted_via": "Coveris Flexibles Deutschland GmbH",
@@ -809,6 +733,84 @@
    "preferred_state": true,
    "first_seen": "2026-11-06",
    "description_excerpt": "Wer sind wir! ECHTERHOFF Erfahren. Kompetent. Echt. Wir sind ein in 5. Generation geführtes Familienunternehmen. Zusammen haben wir alle Heraus­forde­rungen gemeis­tert und sind unserem Prinzip ,,Tradition, Fort­schritt, Mitarbeiter­partner­schaft\" treu geblieben. Mit über 700 Mitarbeiterinnen und Mitarbeitern sind wir in ganz Deutschland aktiv. Im Hoch-, Tief- und Ingenieurbau realisieren wir durchdachte und langlebige Bauprojekte. Ein besonderer Fokus liegt bei uns auf der Förderung von Nachwuchs- und Fachkräften. Ob Ausbildung, duales Studium oder gezielte Weiterbildung - wir investieren aktiv in die Entwicklung von dir und damit in Qualität und Innovation unserer Arbeit. Deine Aufgaben! Unterstützung des Baustellenteams in der Bauleitung auf der Baustelle Strukturierte Bauabläufe durchdenken und koordinieren Bearbeitung von Ausführungs- und Bestandsunterlagen und Bauwerks-Büchern Dokument- und Nachweismanagement Das bringst Du mit! Du studierst Bauingenieurwesen an einer Universität oder Fachhochschule und hast besonderes Interesse am konstruktiven Ingenieurbau Du befindest dich mindestens im 3. Semester deines Studiumsund besitzt bereits erste Kenntnisse in Statik, Betonbau und Stahlbau Idealerweise bringst du Office-Kenntnisse mit Du bist motiviert und bereit, dich in neue Aufgabeneinzuarbeiten und Herausforderungen anzunehmen Das bieten wir Dir! Gemeinsam Feiern Durch regelmäßige Aktivitäten wie Teamevents und Familienfeste wollen wir eine Atmosphäre schaffen, die zum ",
+   "prelim": -2
+  },
+  {
+   "refnr": "15167-0068574927-S",
+   "title": "Pädagogische:r Werkstudent:in (m/w/d)/ Trainer:in (m/w/d) Veranstaltungen für Erziehungsberechtigte",
+   "employer": "Chancenwerk e.V.",
+   "city": "Castrop-Rauxel",
+   "region": "NORDRHEIN_WESTFALEN",
+   "published": "2026-11-05",
+   "updated": "2026-11-05T12:31:25.921",
+   "apply_url": "https://www.chancenwerk.org",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15167-0068574927-S",
+   "posted_via": "Chancenwerk e.V.",
+   "fulltime_flag": null,
+   "topic_hits": [],
+   "core_hits_in_title": [],
+   "broad_hits": [
+    "entwicklung"
+   ],
+   "broad_only": true,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": false,
+   "preferred_state": true,
+   "first_seen": "2026-11-05",
+   "description_excerpt": "Chancenwerk e.V. setzt sich bundesweit für faire Bildungschancen an Kooperationsschulen ein. Der Verein unterstützt an Partnerschulen mit seiner Lernförderung Kinder und Jugendliche in ihrer schulischen und individuellen Entwicklung. **Du möchtest:** * Bildung aktiv mitgestalten, einen Job mit Sinn und Wertschätzung? * auf ein familiäres, interkulturelles Team stoßen, welches sich jeden Tag für Bildungsgerechtigkeit einsetzt? * mit einem Onboarding in die Tätigkeit einsteigen? * flexible Arbeitszeiten, die sich dem Leben anpassen? * an Team-Events und spannenden Workshops durch unsere interne CHANCENakademie teilnehmen? **Dann steige bei uns ein als:** **Pädagogische:r Werkstudent:in (m/w/d)/ Trainer:in (m/w/d) ** Veranstaltungen für Erziehungsberechtigte als Werkstudent:in oder in Teilzeit (bis zu 14 Stunden/Woche) **Das sind deine Aufgaben:** * Du arbeitest eng mit unserer verantwortlichen Projektkoordination und den anderen Teammitgliedern zusammen. * Du führst Veranstaltungsreihen für Erziehungsberechtigte vorwiegend im Rheinland und Ruhrgebiet durch. Diese finden zu Teilen auch am späten Nachmittag und Abend statt. * Du führst diese Veranstaltungsreihen auf Basis unserer nach wissenschaftlichen und didaktischen Grundsätzen erarbeiteten Konzepte mit dem Ziel der Stärkung von Familien durch. * Du holst Feedback der Teilnehmenden zur Wirkungskontrolle der Veranstaltungen ein und meldest dieses an die Programmkonzeption. Besonders wichtig ist uns, dass du Lust hast, uns mit ",
+   "prelim": -2
+  },
+  {
+   "refnr": "12811-2371107-S",
+   "title": "Werkstudent Digitalisierung & Prozesse im Einkauf, Waltenhofen",
+   "employer": "Wilhelm Geiger GmbH & Co. KG",
+   "city": "Waltenhofen, Allgäu",
+   "region": "BAYERN",
+   "published": "2026-11-04",
+   "updated": "2026-11-04T17:32:41.644",
+   "apply_url": "https://www.finest-jobs.com/stellenanzeige/Werkstudent-Digitalisierung-Amp-Prozesse-Im-Einkau-1334365?cp=BA",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2371107-S",
+   "posted_via": "finest-jobs.com",
+   "fulltime_flag": false,
+   "topic_hits": [],
+   "core_hits_in_title": [],
+   "broad_hits": [
+    "informatik"
+   ],
+   "broad_only": true,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": false,
+   "preferred_state": true,
+   "first_seen": "2026-11-05",
+   "description_excerpt": "Geiger bringt Menschen zusammen, die eines verbindet: eine große Leidenschaft für das, was sie tun. Egal, ob am Anfang der Berufslaufbahn oder erfahren. Egal, ob jung oder alt. Egal, ob von weit her oder aus der Familie - bei Geiger ist für alle etwas dabei. Wir bieten vielfältige Berufs- und Karrieremöglichkeiten an mehr als 100 Standorten in mehr als 20 verschiedenen Geschäftsfeldern. Aufgaben bei Geiger Du wirkst beim Rollout und bei der Weiterentwicklung unseres Beschaffungssystems Coupa mit Du begleitest die Einführung neuer Systemfunktionalitäten und unterstützt bei der Schulung und Betreuung unserer Anwender Du wirkst bei der Optimierung unserer automatisierten Rechnungsverarbeitung mit und hilfst dabei, die Auslesequalität kontinuierlich zu verbessern Du unterstützt uns bei Digitalisierungs- und Optimierungsthemen im Einkauf und übernimmst nach deiner Einarbeitung eigene kleinere Arbeitspakete Du arbeitest im Projektmanagement mit und bringst dich bei der Weiterentwicklung unserer Einkaufsprozesse ein Darauf freuen wir uns Du bist ein immatrikulierter Student (m/w/d) aus dem Bereich Betriebswirtschaftslehre, Informatik oder eines vergleichbaren Studiengangs Du interessierst dich für digitale Prozesse und möchtest mehr über Einkauf, Prozessoptimierung und IT-Systeme erfahren Idealerweise konntest du bereits erste Erfahrungen im Prozess- oder Projektmanagement sammeln. Dies ist jedoch keine Voraussetzung Du arbeitest strukturiert und sorgfältig und möchtest nach deiner ",
+   "prelim": -2
+  },
+  {
+   "refnr": "17838-AG1REF30361G-S",
+   "title": "Werkstudent People und  Culture (m/w/d) – 20 Stunden/Woche",
+   "employer": "AUTO1 Group AG",
+   "city": "Ketzin/Havel",
+   "region": "BRANDENBURG",
+   "published": "2026-11-04",
+   "updated": "2026-11-04T13:03:20.928",
+   "apply_url": "https://www.auto1-group.com",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17838-AG1REF30361G-S",
+   "posted_via": "AUTO1 Group SE",
+   "fulltime_flag": null,
+   "topic_hits": [],
+   "core_hits_in_title": [],
+   "broad_hits": [
+    "entwicklung"
+   ],
+   "broad_only": true,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": true,
+   "preferred_state": true,
+   "first_seen": "2026-11-04",
+   "description_excerpt": "Unternehmensbeschreibung Die AUTO1 Group ist Europas führende digitale Automobilplattform. In unseren modernen Production Centern arbeiten Mitarbeitende aus ganz Europa gemeinsam daran, Fahrzeuge im besten Zustand auszuliefern. Unser Erfolg lebt von Vielfalt. Zur Unterstützung unseres wachsenden Teams suchen wir dich als engagierten Werkstudenten People und amp; Culture (m/w/d) an unserem Production-Standort. Unser Angebot - Einblicke in die Arbeit eines internationalen HR-Teams mit echtem Purpose - Flexible Arbeitszeiten, die sich gut mit deinem Studium vereinbaren lassen - Monatliche Teamevents, offene Unternehmenskultur und NoDresscode - Viel Handlungsspielraum und die Möglichkeit, Neues zu lernen - Top-Mitarbeiterrabatte und moderne IT-Ausstattung - Regelmäßige Feedbackgespräche und Unterstützung bei deiner Entwicklung - Gesundheitsangebote, darunter Impfungen, betriebliche Vorsorgeuntersuchungen und ein Online-Programm für mentale und körperliche Gesundheit Deine neue Rolle - Du unterstützt unser Team dabei, neue Mitarbeitende durch das Preboarding zu begleiten – zum Beispiel bei der Koordination von Unterlagen, Visa-Support und Housing-Anfragen. - Du hilfst dabei, Preboarding-Materialien und -Pakete zu erstellen und aktuell zu halten, darunter unser „How to make it in Germany“-Booklet. - Du unterstützt die Vorbereitung und Durchführung von Onboarding-Tagen vor Ort und hilfst bei regelmäßigen Check-ins mit neuen Mitarbeitenden. - Du wirkst beim IT-Onboarding mit: Du behä",
    "prelim": -2
   }
  ]
