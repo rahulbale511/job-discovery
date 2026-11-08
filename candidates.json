@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07",
+ "generated": "2026-11-08",
  "count": 30,
  "jobs": [
   {
@@ -232,33 +232,6 @@
    "prelim": -1
   },
   {
-   "refnr": "20279-k62365.1101-S",
-   "title": "Werkstudent*in Produktmanagement (m/w/d)",
-   "employer": "ENQT GmbH",
-   "city": "Hamburg",
-   "region": "HAMBURG",
-   "published": "2026-11-03",
-   "updated": "2026-11-04T06:52:25.091",
-   "apply_url": "https://enqt.de",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20279-k62365.1101-S",
-   "posted_via": "ENQT GmbH",
-   "fulltime_flag": false,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "entwicklung",
-    "informatik"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-11-04",
-   "description_excerpt": " # Werkstudent\\*in Produktmanagement (m/w/d) in Hamburg Schwerpunkte: Produktentwicklung • Product Lifecycle • Go-to-Market Als Werkstudent:in im Produktmanagement übernimmst du Verantwortung für ein konkretes Produkt oder einen klar abgegrenzten Teil des Produktlebenszyklus. Du begleitest Themen von der ersten Idee über Produkttests und Marktvalidierung bis zur Einführung und Weiterentwicklung. Dabei arbeitest du eng mit Produktmanagement, Entwicklung, Vertrieb und Marketing zusammen. Du strukturierst Anforderungen, bringst eigene Analysen und Lösungsansätze ein und trägst mit deinen Ergebnissen unmittelbar zu Produktentscheidungen bei. Eine Werkstudententätigkeit bei ENQT ist auf langfristige Zusammenarbeit und die Übernahme eigener Verantwortung ausgelegt. Du arbeitest von Beginn an an einem klaren Themenfeld, entwickelst dich fachlich weiter und hast bei guter Zusammenarbeit die Perspektive auf einen späteren Berufseinstieg bei ENQT. Darauf hast du Lust? Dann komm zu ENQT! Wir entwickeln und fertigen hochwertige Testgeräte für Mobilfunknetze (4G, 5G, WLAN, IoT) und unterstützen europaweit über 900 Kunden bei der sicheren Vernetzung von Energieinfrastruktur und Industrieanwendungen. Unsere Kunden verlassen sich auf unsere Expertise, wenn es darum geht, moderne Mobilfunklösungen effizient umzusetzen. # Dein zukünftiges Aufgabengebiet - Begleitung eines konkreten Produkts von der Produktidee bis zur Markteinführung - Unterstützung im Product Lifecycle Management und bei der ",
-   "prelim": -1
-  },
-  {
    "refnr": "12288-4991489094-S",
    "title": "Werkstudent (w/m/d) Fabrikplanung & Logistik",
    "employer": "Drees & Sommer SE",
@@ -283,33 +256,6 @@
    "preferred_state": true,
    "first_seen": "2026-11-06",
    "description_excerpt": "Unternehmensbeschreibung Wir stehen jeden Morgen dafür auf, eine lebenswerte Zukunft für nachfolgende Generationen zu schaffen. Je nach Projekt sind wir Berater, Umsetzer – oder beides – nachhaltiger, innovativer und wirtschaftlicher Lösungen für Immobilien, Industrie, Energie und Infrastruktur. In interdisziplinären Teams unterstützen unsere über 6.500 Mitarbeitenden an mehr als 80 Standorten weltweit unsere Kunden. Wir denken visionär und realistisch. Wir arbeiten eigenständig und im Team. Mit Leidenschaft und modernsten Technologien. We unite. Join us at Dreso and let’s create a world we want to live in. Stellenbeschreibung Gestalte die Fabriken und Logistiksysteme von morgen. Du möchtest nicht nur Theorie lernen, sondern die Produktions- und Logistikstandorte der Zukunft aktiv mitgestalten? Bei Drees & Sommer arbeitest du als Werkstudent:in in einem interdisziplinären Team aus Berater:innen, Ingenieur:innen und Logistikexpert:innen an anspruchsvollen Projekten für führende Industrieunternehmen. Gemeinsam entwickeln wir leistungsfähige, nachhaltige und zukunftssichere Fabrik-, Produktions- und Logistiklösungen und begleiten unsere Kunden von der Strategie bis zur Umsetzung. Mitwirkung an Beratungs- und Planungsprojekten in den Bereichen Fabrikplanung, Logistik und industrielle Transformation Entwicklung moderner und nachhaltiger Fabrik-, Produktions- und Logistikkonzepte unter Einbindung von Zukunftsthemen wie Automatisierung, Robotik, Digitalisierung und Smart Factory Ana",
-   "prelim": -1
-  },
-  {
-   "refnr": "20279-k62365.1110-S",
-   "title": "Werkstudent*in Technische Dokumentation (m/w/d)",
-   "employer": "ENQT GmbH",
-   "city": "Hamburg",
-   "region": "HAMBURG",
-   "published": "2026-11-03",
-   "updated": "2026-11-04T06:52:44.821",
-   "apply_url": "https://enqt.de",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20279-k62365.1110-S",
-   "posted_via": "ENQT GmbH",
-   "fulltime_flag": false,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "entwicklung",
-    "informatik"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-11-04",
-   "description_excerpt": " # Werkstudent\\*in Technische Dokumentation (m/w/d) in Hamburg Schwerpunkte: Produktdokumentation • technische Inhalte • Nutzerführung Als Werkstudent:in in der Technischen Dokumentation übernimmst du von Beginn an Verantwortung für einen eigenen Dokumentationsbereich. Du sorgst dafür, dass Kund:innen und Partner unsere Produkte schnell verstehen, sicher einsetzen und technische Fragestellungen eigenständig lösen können. Du entwickelst verständliche Dokumentationen mit Texten, Screenshots, Grafiken und Anwendungsbeispielen und stimmst dich dabei direkt mit Produktmanagement und Entwicklung ab. Deine Arbeit ist keine interne Übung, sondern wird im realen Kunden- und Partnerumfeld eingesetzt. Eine Werkstudententätigkeit bei ENQT ist auf langfristige Zusammenarbeit und die Übernahme eigener Verantwortung ausgelegt. Du arbeitest von Beginn an an einem klaren Themenfeld, entwickelst dich fachlich weiter und hast bei guter Zusammenarbeit die Perspektive auf einen späteren Berufseinstieg bei ENQT. Darauf hast du Lust? Dann komm zu ENQT! Wir entwickeln und fertigen hochwertige Testgeräte für Mobilfunknetze (4G, 5G, WLAN, IoT) und unterstützen europaweit über 500 Kunden bei der sicheren Vernetzung von Energieinfrastruktur und Industrieanwendungen. Unsere Kunden verlassen sich auf unsere Expertise, wenn es darum geht, moderne Mobilfunklösungen effizient umzusetzen. # Dein zukünftiges Aufgabengebiet als Werkstudent\\*in Technische Dokumentation (m/w/d) - Erstellung und kontinuierliche Pf",
    "prelim": -1
   },
   {
@@ -448,33 +394,6 @@
    "prelim": -1
   },
   {
-   "refnr": "10001-1003964713-S",
-   "title": "Werkstudent (m/w/d) IT / Business Infrastructure – ERP, PIM, DMS & CLM",
-   "employer": "BIGFOOD Produktions GmbH",
-   "city": "Hamburg",
-   "region": "HAMBURG",
-   "published": "2026-11-04",
-   "updated": "2026-11-04T16:18:10.702",
-   "apply_url": "http://www.arbeitsagentur.de",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003964713-S",
-   "posted_via": "arbeitsagentur.de",
-   "fulltime_flag": false,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "daten",
-    "informatik"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-11-04",
-   "description_excerpt": "**Wer wir sind:** Die BIGFOOD Group ist ein Unternehmen, das für namhafte Foodservice- und Einzelhandelsunternehmen vielfältige Produktlösungen entwickelt, produziert und vermarktet. Neben dem Fokus auf den Großverbraucherbereich haben wir erfolgreich Marken im Einzelhandel platziert. Unser Portfolio reicht von Dressings und Käse bis hin zu veganen Produkten und gesunden Snacks. Wir sind in unserem Headquarter in Hamburg ansässig und haben national und international weitere Vertriebsbüros und eigene Produktionsstätten. Der wichtigste Teil unseres Unternehmens ist unser dynamisches und hoch motiviertes Team, das durch seine unkomplizierte und offene Art erfolgreich und partnerschaftlich zusammenarbeitet. Der besondere Spirit unseres Unternehmens besteht in der flachen Hierarchie, die es jedem möglich macht, seine eigenen Ideen und kritischen Anregungen in kreativen Diskussionen umzusetzen. Zu unserer Unternehmensgruppe gehören die BIGFOOD Produktions GmbH, die BIGFOOD Produktion Zeven GmbH, die Hamburger Käselager GmbH, The Go Foods Company und unser veganer Bereich mit der Marke bedda. Für unseren Hamburger Standort suchen wir derzeit einen **Werkstudent (m/w/d) IT / Business Infrastructure – ERP, PIM, DMS & CLM.** **Darum geht es:** - **Betreuung von Business Central:** Du unterstützt uns beim Betrieb und der Weiterentwicklung von Microsoft Dynamics 365 Business Central. Dazu gehören die Pflege von Setups, die Verwaltung von Benutzern und Berechtigungen sowie die Überwachung",
-   "prelim": -1
-  },
-  {
    "refnr": "12811-2372077-S",
    "title": "Werkstudent (m/w/d) Foto- und Videoproduktion, ABUS August Bremicker Söhne KG",
    "employer": "ABUS August Bremicker Söhne KG",
@@ -606,32 +525,6 @@
    "prelim": -2
   },
   {
-   "refnr": "17838-AG1REF30363Q-S",
-   "title": "Werkstudent People und  Culture (m/w/d)",
-   "employer": "AUTO1 Group AG",
-   "city": "Hemau",
-   "region": "BAYERN",
-   "published": "2026-11-04",
-   "updated": "2026-11-04T13:03:21.058",
-   "apply_url": "https://www.auto1-group.com",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17838-AG1REF30363Q-S",
-   "posted_via": "AUTO1 Group SE",
-   "fulltime_flag": null,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "entwicklung"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": true,
-   "preferred_state": true,
-   "first_seen": "2026-11-04",
-   "description_excerpt": "Unternehmensbeschreibung Die AUTO1 Group ist Europas führende digitale Automobilplattform. In unseren modernen Production Centern arbeiten Mitarbeitende aus ganz Europa gemeinsam daran, Fahrzeuge im besten Zustand auszuliefern. Unser Erfolg lebt von Vielfalt. Zur Unterstützung unseres wachsenden Teams suchen wir dich als engagierten Werkstudenten People und amp; Culture (m/w/d) an unserem Production-Standort. Unser Angebot - Einblicke in die Arbeit eines internationalen HR-Teams mit echtem Purpose - Flexible Arbeitszeiten, die sich gut mit deinem Studium vereinbaren lassen - Monatliche Teamevents, offene Unternehmenskultur und NoDresscode - Viel Handlungsspielraum und die Möglichkeit, Neues zu lernen - Top-Mitarbeiterrabatte und moderne IT-Ausstattung - Regelmäßige Feedbackgespräche und Unterstützung bei deiner Entwicklung - Gesundheitsangebote, darunter Impfungen, betriebliche Vorsorgeuntersuchungen und ein Online-Programm für mentale und körperliche Gesundheit Deine neue Rolle - Du unterstützt unser Team dabei, neue Mitarbeitende durch das Preboarding zu begleiten – zum Beispiel bei der Koordination von Unterlagen, Visa-Support und Housing-Anfragen. - Du hilfst dabei, Preboarding-Materialien und -Pakete zu erstellen und aktuell zu halten, darunter unser „How to make it in Germany“-Booklet. - Du unterstützt die Vorbereitung und Durchführung von Onboarding-Tagen vor Ort und hilfst bei regelmäßigen Check-ins mit neuen Mitarbeitenden. - Du wirkst beim IT-Onboarding mit: Du behä",
-   "prelim": -2
-  },
-  {
    "refnr": "10001-1003968351-S",
    "title": "Werkstudent für Ingenierbüro gesucht (Tragwerksplanung)",
    "employer": "Schnatmann Ingenieure GmbH",
@@ -710,32 +603,6 @@
    "prelim": -2
   },
   {
-   "refnr": "12811-2372278-S",
-   "title": "Werkstudent Fachrichtung konstruktiver Ingenieurbau (m/w/d),Westerkappeln,Gelsenkirchen",
-   "employer": "Bauunternehmung Gebr. Echterhoff GmbH & Co. KG",
-   "city": "Gelsenkirchen",
-   "region": "NORDRHEIN_WESTFALEN",
-   "published": "2026-11-06",
-   "updated": "2026-11-06T07:04:28.340",
-   "apply_url": "https://www.finest-jobs.com/stellenanzeige/Werkstudent-Fachrichtung-Konstruktiver-Ingenieurba-1335184?cp=BA",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2372278-S",
-   "posted_via": "finest-jobs.com",
-   "fulltime_flag": false,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "entwicklung"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-11-06",
-   "description_excerpt": "Wer sind wir! ECHTERHOFF Erfahren. Kompetent. Echt. Wir sind ein in 5. Generation geführtes Familienunternehmen. Zusammen haben wir alle Heraus­forde­rungen gemeis­tert und sind unserem Prinzip ,,Tradition, Fort­schritt, Mitarbeiter­partner­schaft\" treu geblieben. Mit über 700 Mitarbeiterinnen und Mitarbeitern sind wir in ganz Deutschland aktiv. Im Hoch-, Tief- und Ingenieurbau realisieren wir durchdachte und langlebige Bauprojekte. Ein besonderer Fokus liegt bei uns auf der Förderung von Nachwuchs- und Fachkräften. Ob Ausbildung, duales Studium oder gezielte Weiterbildung - wir investieren aktiv in die Entwicklung von dir und damit in Qualität und Innovation unserer Arbeit. Deine Aufgaben! Unterstützung des Baustellenteams in der Bauleitung auf der Baustelle Strukturierte Bauabläufe durchdenken und koordinieren Bearbeitung von Ausführungs- und Bestandsunterlagen und Bauwerks-Büchern Dokument- und Nachweismanagement Das bringst Du mit! Du studierst Bauingenieurwesen an einer Universität oder Fachhochschule und hast besonderes Interesse am konstruktiven Ingenieurbau Du befindest dich mindestens im 3. Semester deines Studiumsund besitzt bereits erste Kenntnisse in Statik, Betonbau und Stahlbau Idealerweise bringst du Office-Kenntnisse mit Du bist motiviert und bereit, dich in neue Aufgabeneinzuarbeiten und Herausforderungen anzunehmen Das bieten wir Dir! Gemeinsam Feiern Durch regelmäßige Aktivitäten wie Teamevents und Familienfeste wollen wir eine Atmosphäre schaffen, die zum ",
-   "prelim": -2
-  },
-  {
    "refnr": "15167-0068574927-S",
    "title": "Pädagogische:r Werkstudent:in (m/w/d)/ Trainer:in (m/w/d) Veranstaltungen für Erziehungsberechtigte",
    "employer": "Chancenwerk e.V.",
@@ -759,6 +626,32 @@
    "preferred_state": true,
    "first_seen": "2026-11-05",
    "description_excerpt": "Chancenwerk e.V. setzt sich bundesweit für faire Bildungschancen an Kooperationsschulen ein. Der Verein unterstützt an Partnerschulen mit seiner Lernförderung Kinder und Jugendliche in ihrer schulischen und individuellen Entwicklung. **Du möchtest:** * Bildung aktiv mitgestalten, einen Job mit Sinn und Wertschätzung? * auf ein familiäres, interkulturelles Team stoßen, welches sich jeden Tag für Bildungsgerechtigkeit einsetzt? * mit einem Onboarding in die Tätigkeit einsteigen? * flexible Arbeitszeiten, die sich dem Leben anpassen? * an Team-Events und spannenden Workshops durch unsere interne CHANCENakademie teilnehmen? **Dann steige bei uns ein als:** **Pädagogische:r Werkstudent:in (m/w/d)/ Trainer:in (m/w/d) ** Veranstaltungen für Erziehungsberechtigte als Werkstudent:in oder in Teilzeit (bis zu 14 Stunden/Woche) **Das sind deine Aufgaben:** * Du arbeitest eng mit unserer verantwortlichen Projektkoordination und den anderen Teammitgliedern zusammen. * Du führst Veranstaltungsreihen für Erziehungsberechtigte vorwiegend im Rheinland und Ruhrgebiet durch. Diese finden zu Teilen auch am späten Nachmittag und Abend statt. * Du führst diese Veranstaltungsreihen auf Basis unserer nach wissenschaftlichen und didaktischen Grundsätzen erarbeiteten Konzepte mit dem Ziel der Stärkung von Familien durch. * Du holst Feedback der Teilnehmenden zur Wirkungskontrolle der Veranstaltungen ein und meldest dieses an die Programmkonzeption. Besonders wichtig ist uns, dass du Lust hast, uns mit ",
+   "prelim": -2
+  },
+  {
+   "refnr": "12811-2372278-S",
+   "title": "Werkstudent Fachrichtung konstruktiver Ingenieurbau (m/w/d),Westerkappeln,Gelsenkirchen",
+   "employer": "Bauunternehmung Gebr. Echterhoff GmbH & Co. KG",
+   "city": "Gelsenkirchen",
+   "region": "NORDRHEIN_WESTFALEN",
+   "published": "2026-11-06",
+   "updated": "2026-11-06T07:04:28.340",
+   "apply_url": "https://www.finest-jobs.com/stellenanzeige/Werkstudent-Fachrichtung-Konstruktiver-Ingenieurba-1335184?cp=BA",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2372278-S",
+   "posted_via": "finest-jobs.com",
+   "fulltime_flag": false,
+   "topic_hits": [],
+   "core_hits_in_title": [],
+   "broad_hits": [
+    "entwicklung"
+   ],
+   "broad_only": true,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": false,
+   "preferred_state": true,
+   "first_seen": "2026-11-06",
+   "description_excerpt": "Wer sind wir! ECHTERHOFF Erfahren. Kompetent. Echt. Wir sind ein in 5. Generation geführtes Familienunternehmen. Zusammen haben wir alle Heraus­forde­rungen gemeis­tert und sind unserem Prinzip ,,Tradition, Fort­schritt, Mitarbeiter­partner­schaft\" treu geblieben. Mit über 700 Mitarbeiterinnen und Mitarbeitern sind wir in ganz Deutschland aktiv. Im Hoch-, Tief- und Ingenieurbau realisieren wir durchdachte und langlebige Bauprojekte. Ein besonderer Fokus liegt bei uns auf der Förderung von Nachwuchs- und Fachkräften. Ob Ausbildung, duales Studium oder gezielte Weiterbildung - wir investieren aktiv in die Entwicklung von dir und damit in Qualität und Innovation unserer Arbeit. Deine Aufgaben! Unterstützung des Baustellenteams in der Bauleitung auf der Baustelle Strukturierte Bauabläufe durchdenken und koordinieren Bearbeitung von Ausführungs- und Bestandsunterlagen und Bauwerks-Büchern Dokument- und Nachweismanagement Das bringst Du mit! Du studierst Bauingenieurwesen an einer Universität oder Fachhochschule und hast besonderes Interesse am konstruktiven Ingenieurbau Du befindest dich mindestens im 3. Semester deines Studiumsund besitzt bereits erste Kenntnisse in Statik, Betonbau und Stahlbau Idealerweise bringst du Office-Kenntnisse mit Du bist motiviert und bereit, dich in neue Aufgabeneinzuarbeiten und Herausforderungen anzunehmen Das bieten wir Dir! Gemeinsam Feiern Durch regelmäßige Aktivitäten wie Teamevents und Familienfeste wollen wir eine Atmosphäre schaffen, die zum ",
    "prelim": -2
   },
   {
@@ -788,17 +681,70 @@
    "prelim": -2
   },
   {
-   "refnr": "17838-AG1REF30361G-S",
-   "title": "Werkstudent People und  Culture (m/w/d) – 20 Stunden/Woche",
-   "employer": "AUTO1 Group AG",
-   "city": "Ketzin/Havel",
-   "region": "BRANDENBURG",
-   "published": "2026-11-04",
-   "updated": "2026-11-04T13:03:20.928",
-   "apply_url": "https://www.auto1-group.com",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17838-AG1REF30361G-S",
-   "posted_via": "AUTO1 Group SE",
+   "refnr": "12811-2370512-S",
+   "title": "Werkstudent*in (gn) Customer Service B2B, Zentrale | Klostertor 1",
+   "employer": "LichtBlick SE",
+   "city": "Hamburg",
+   "region": "HAMBURG",
+   "published": "2026-11-03",
+   "updated": "2026-11-04T17:35:27.072",
+   "apply_url": "https://www.finest-jobs.com/stellenanzeige/Werkstudentin-Gn-Customer-Service-B2b-1333681?cp=BA",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2370512-S",
+   "posted_via": "finest-jobs.com",
+   "fulltime_flag": false,
+   "topic_hits": [],
+   "core_hits_in_title": [],
+   "broad_hits": [
+    "daten"
+   ],
+   "broad_only": true,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": true,
+   "preferred_state": true,
+   "first_seen": "2026-11-05",
+   "description_excerpt": "Über LichtBlick: Arbeitsmodell: Remote innerhalb Deutschlands mit geplanter Anwesenheit am Arbeitsort Hamburg, insbesondere für Team-Events und relevante Abstimmungstermine. In Teilzeit (20h Woche) Vertragsart: befristet bis zum 30.04.2027 Für gute Energie im Bereich Sales B2B. Seit über 25 Jahren treibt LichtBlick die Energiewende voran. Gestartet als Pionier für Ökostrom sind wir heute integrierter Versorger mit eigener Erzeugung sowie Solar-, Mobilitäts- und Wärmeangeboten. Wir arbeiten jeden Tag weiter an zukunftsfähigen Energielösungen, die wirtschaftlichen Erfolg mit gesellschaftlicher Verantwortung verbinden. Für gute Energie im Bereich Sales B2B. Bei uns dreht sich alles um unsere Geschäftskund*innen und darum, auch bei komplexeren Anliegen die passende Lösung zu finden. Von allgemeinen Serviceanfragen über Klärfälle bis hin zu Abrechnung und Forderungsmanagement erwartet dich bei uns ein abwechslungsreiches Aufgabengebiet.Dabei arbeiten wir nicht nur innerhalb unseres Teams eng zusammen, sondern auch mit unterschiedlichen Fachbereichen. Was uns wichtig ist: gemeinsam Lösungen finden, Verantwortung übernehmen und voneinander lernen.Wenn du gerne den Überblick behältst, dich in neue Themen einarbeitest und Lust auf ein Umfeld hast, in dem nicht jeder Tag gleich aussieht, bist du bei uns genau richtig. Deine Aufgaben: Du unterstützt uns bei der Betreuung unserer Geschäftskund*innen und bearbeitest unterschiedliche Anliegen im B2B-Kundenservice Allgemeine kaufmännische u",
+   "prelim": -2
+  },
+  {
+   "refnr": "12076-20230414734-S",
+   "title": "Werkstudent (m/w/d) im Kundensupport / Anwendungsberatung - flexible Arbeitszeiten",
+   "employer": "Data Dialog EDV-Systeme GmbH",
+   "city": "Schkeuditz",
+   "region": "SACHSEN",
+   "published": "2026-11-06",
+   "updated": "2026-11-06T12:12:39.005",
+   "apply_url": "https://www.datadialog.de",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12076-20230414734-S",
+   "posted_via": "Data Dialog GmbH",
    "fulltime_flag": null,
+   "topic_hits": [],
+   "core_hits_in_title": [],
+   "broad_hits": [
+    "informatik",
+    "software"
+   ],
+   "broad_only": true,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": false,
+   "preferred_state": false,
+   "first_seen": "2026-11-06",
+   "description_excerpt": "Werkstudent (m/w/d) im Kundensupport / Anwendungsberatung Wir sind ein inhabergeführtes Unternehmen mit sehr flacher Hierarchieebene und entwickeln seit mehr als 30 Jahren innovative Softwarelösungen zur Personalverwaltung und Abrechnung für Unternehmen und Dienstleister aus ganz Deutschland. Wir sind flexibel im Umgang mit den Wünschen unserer Mitarbeiter zur Gestaltung der Arbeitsbedingungen, da wir überzeugt sind, dass nur Mitarbeiter, die Wertschätzung und Anteilnahme durch ihren Arbeitgeber erfahren, sich mit den Produkten und Dienstleistungen ihre Unternehmens identifizieren. Was dich erwartet: * Betreuung und Beratung unserer Kunden rund um die Anwendung unserer Produkte * umfassende Einblicke in Themen der Personalverwaltung im Bereich Personaldienstleister * Bearbeitung eingehender telefonischer und schriftlicher Kundenanfragen * Recherche und Unterstützung bei rechtlichen und tariflichen Fragen zur Weiterentwicklung unserer Software * flexible Arbeitszeiten Das bringst du mit: * Du befindest dich in einem eingeschriebenen BWL, Wirtschaftswissenschaftlichen, Wirtschafts-Informatik oder vergleichbaren Studium mit Schwerpunkt Personal * Du telefonierst gerne ohne dabei zu verkaufen * Du hast eine schnelle Auffassungsgabe * Du bist zuverlässig und arbeitest selbständig im Team, bist offen im Umgang mit Menschen * Idealerweise hast du die ersten Grundlagen Module zu den Themen Buchhaltung, Recht, Internes/Externes Rechnungswesen und Personal besucht Studienrichtungen: * ",
+   "prelim": -4
+  },
+  {
+   "refnr": "12811-2371527-S",
+   "title": "Werkstudent (m/w/d), Mainz",
+   "employer": "DAL",
+   "city": "Mainz am Rhein",
+   "region": "RHEINLAND_PFALZ",
+   "published": "2026-11-05",
+   "updated": "2026-11-05T07:04:26.633",
+   "apply_url": "https://www.finest-jobs.com/stellenanzeige/Werkstudent-D-1334634?cp=BA",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2371527-S",
+   "posted_via": "finest-jobs.com",
+   "fulltime_flag": false,
    "topic_hits": [],
    "core_hits_in_title": [],
    "broad_hits": [
@@ -807,11 +753,63 @@
    "broad_only": true,
    "german_hard_required": false,
    "german_b_level_mentioned": false,
-   "english_mentioned": true,
-   "preferred_state": true,
-   "first_seen": "2026-11-04",
-   "description_excerpt": "Unternehmensbeschreibung Die AUTO1 Group ist Europas führende digitale Automobilplattform. In unseren modernen Production Centern arbeiten Mitarbeitende aus ganz Europa gemeinsam daran, Fahrzeuge im besten Zustand auszuliefern. Unser Erfolg lebt von Vielfalt. Zur Unterstützung unseres wachsenden Teams suchen wir dich als engagierten Werkstudenten People und amp; Culture (m/w/d) an unserem Production-Standort. Unser Angebot - Einblicke in die Arbeit eines internationalen HR-Teams mit echtem Purpose - Flexible Arbeitszeiten, die sich gut mit deinem Studium vereinbaren lassen - Monatliche Teamevents, offene Unternehmenskultur und NoDresscode - Viel Handlungsspielraum und die Möglichkeit, Neues zu lernen - Top-Mitarbeiterrabatte und moderne IT-Ausstattung - Regelmäßige Feedbackgespräche und Unterstützung bei deiner Entwicklung - Gesundheitsangebote, darunter Impfungen, betriebliche Vorsorgeuntersuchungen und ein Online-Programm für mentale und körperliche Gesundheit Deine neue Rolle - Du unterstützt unser Team dabei, neue Mitarbeitende durch das Preboarding zu begleiten – zum Beispiel bei der Koordination von Unterlagen, Visa-Support und Housing-Anfragen. - Du hilfst dabei, Preboarding-Materialien und -Pakete zu erstellen und aktuell zu halten, darunter unser „How to make it in Germany“-Booklet. - Du unterstützt die Vorbereitung und Durchführung von Onboarding-Tagen vor Ort und hilfst bei regelmäßigen Check-ins mit neuen Mitarbeitenden. - Du wirkst beim IT-Onboarding mit: Du behä",
-   "prelim": -2
+   "english_mentioned": false,
+   "preferred_state": false,
+   "first_seen": "2026-11-05",
+   "description_excerpt": "Du interessierst dich für Menschen, Kommunikation und modernes Recruiting? Du möchtest neben deinem Studium praktische HR-Erfahrung sammeln und eigene Ideen einbringen? Dann bist du bei uns genau richtig! Wir suchen ab sofort am Standort Mainz einen Werkstudenten (m/w/d) Recruiting & Employer Branding in Vollzeit. Zur Verstärkung unseres Teams suchen wir einen engagierten Werkstudenten (m/w/d), der uns mit Kreativität, Eigeninitiative und Organisationstalent im Recruiting und Employer Branding unterstützt - für 20 Stunden pro Woche. Bei uns erhältst du spannende Einblicke in die moderne Personalarbeit, kannst Verantwortung übernehmen und eigene Ideen verwirklichen. Flexible Arbeitszeiten und die Möglichkeit zum mobilen Arbeiten sorgen dafür, dass Job und Studium optimal zusammenpassen. Deine fachliche und persönliche Entwicklung liegt uns am Herzen - deshalb fördern wir dich aktiv und geben dir Raum, dich weiterzuentwickeln. Es gibt viel zu tun: Recruiting hautnah erleben: Du unterstützt unser Team bei der gesamten operativen Personalarbeit rund um die Gewinnung neuer Kolleg:innen Kreativ werden: Du erstellst und veröffentlichst Stellenanzeigen auf internen und externen Plattformen und bringst deine Ideen auch zu Themen wie Employer Branding und Social-Media-Recruiting ein Organisationstalent zeigen: Du koordinierst Vorstellungsgespräche und sorgst für einen reibungslosen Ablauf im Bewerbungsprozess Den Überblick behalten: Du pflegst und aktualisierst Bewerberdaten in unserem",
+   "prelim": -5
+  },
+  {
+   "refnr": "15939-BB-635926-7878-2836-S",
+   "title": "Werkstudent Projektassistenz Entwicklung (m/w/d)",
+   "employer": "Rheinmetall AG",
+   "city": "Kassel, Hessen",
+   "region": "HESSEN",
+   "published": "2026-11-06",
+   "updated": "2026-11-06T17:06:19.278",
+   "apply_url": "https://www.rheinmetall.com",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15939-BB-635926-7878-2836-S",
+   "posted_via": "Rheinmetall AG",
+   "fulltime_flag": false,
+   "topic_hits": [],
+   "core_hits_in_title": [],
+   "broad_hits": [
+    "entwicklung"
+   ],
+   "broad_only": true,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": false,
+   "preferred_state": false,
+   "first_seen": "2026-11-07",
+   "description_excerpt": "WOFÜR WIR SIE SUCHEN * Mitarbeit bei der Erstellung von Projektstatusberichten und Terminplänen * Übernahme organisatorischer Aufgaben * Unterstützung in der Budgetplanung * Erarbeiten von Standards und Vorlagen * Erstellen und Tracking von Bestellanforderungen in SAP * Eingeschriebener Student (m/w/d) in einem wirtschaftlichen oder technischen Studiengang wie bspw. BWL, Wirtschaftsingenieurwesen oder vergleichbar * Erste Erfahrung im Einkauf und/oder Projektmanagement * Anwenderkenntnisse in SAP sowie Confluence und Jira von Vorteil * Hohe Kommunikationsstärke, Teamgeist und empathisches Miteinander * Selbstständige Arbeitsweise, Lösungsorientierung & Teamfähigkeit * Sehr gute Deutsch-, sowie gute Englischkenntnisse in Wort und Schrift An unserem Standort in Kassel bieten wir Ihnen: * Attraktive Vergütung von 18,14€ / Stunde * Flexible Arbeitszeit von bis zu 20 Wochenstunden, bzw. 35 Wochenstunden in den Semesterferien (Gleitzeitmodell) * Subventioniertes Mittagessen und Kiosk am Standort * Fitness- und Gesundheitsangebote * Gute infrastrukturelle Anbindung / Mitarbeiterparkplätze * Corporate Benefits Plattform mit exklusiven Mitarbeiterrabatten für zahlreiche Shops * Individuelle und vielfältige externe sowie interne Weiterentwicklungsmöglichkeiten, u.a. in der Rheinmetall Academy * Professioneller Einarbeitungsprozess begleitet durch ein digitales Onboarding-Tool Mehr über unseren Standort und unsere Mitarbeiter (m/w/d) in Kassel erfahren Sie hier.",
+   "prelim": -5
+  },
+  {
+   "refnr": "15939-BB-635927-7878-4729-S",
+   "title": "Werkstudent Verifikation Digitaler Systeme (m/w/d)",
+   "employer": "Rheinmetall AG",
+   "city": "Kassel, Hessen",
+   "region": "HESSEN",
+   "published": "2026-11-06",
+   "updated": "2026-11-06T17:06:19.348",
+   "apply_url": "https://www.rheinmetall.com",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15939-BB-635927-7878-4729-S",
+   "posted_via": "Rheinmetall AG",
+   "fulltime_flag": false,
+   "topic_hits": [],
+   "core_hits_in_title": [],
+   "broad_hits": [
+    "entwicklung"
+   ],
+   "broad_only": true,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": false,
+   "preferred_state": false,
+   "first_seen": "2026-11-07",
+   "description_excerpt": "WOFÜR WIR SIE SUCHEN * Aktive Mitarbeit in Entwicklungsprojekten * Erstellung von funktionalen Testspezifikationen * Erstellung und Verwaltung von Simulationsmodellen * Erarbeiten von Standards und Vorlagen * Mitarbeit an Hardware-in-the-Loop Prüfständen auf Systemebene * Übernahme organisatorischer Aufgaben * Eingeschriebener Student (m/w/d) im Bereich der technischen- oder naturwissenschaftlichen Studiengänge wie bspw. Mechatronik, Elektrotechnik, Fahrzeugtechnik, Physik, Mathematik oder vergleichbar * Erste Berufserfahrung in der Entwicklung oder Testing von Vorteil * Anwenderkenntnisse in MATLAB Simulink und der dSPACE Toolchain von Vorteil * Hohe Kommunikationsstärke, Teamgeist und empathisches Miteinander * Selbstständige Arbeitsweise, Lösungsorientierung & Teamfähigkeit * Sehr gute Deutsch-, sowie gute Englischkenntnisse in Wort und Schrift Bitte laden Sie Ihre vollständigen Bewerbungsunterlagen hoch (Lebenslauf, aktuelle Notenbescheinigung, Abiturzeugnis, Arbeitszeugnisse). An unserem Standort in Kassel bieten wir Ihnen: * Attraktive Vergütung von 18,14€ / Stunde * Flexible Arbeitszeit von bis zu 20 Wochenstunden, bzw. 35 Wochenstunden in den Semesterferien (Gleitzeitmodell) * Subventioniertes Mittagessen und Kiosk am Standort * Fitness- und Gesundheitsangebote * Gute infrastrukturelle Anbindung / Mitarbeiterparkplätze * Corporate Benefits Plattform mit exklusiven Mitarbeiterrabatten für zahlreiche Shops * Individuelle und vielfältige externe sowie interne Weiterentwi",
+   "prelim": -5
   }
  ]
 }
