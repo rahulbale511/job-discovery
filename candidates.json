@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13",
+ "generated": "2026-11-14",
  "count": 30,
  "jobs": [
   {
@@ -31,6 +31,36 @@
    "first_seen": "2026-11-13",
    "description_excerpt": "**Dein Studium steckt voller Ideen. Unsere Verwaltung voller Möglichkeiten.** Du siehst einen umständlichen Ablauf und denkst: „Das müsste doch automatisch gehen“? Du probierst mit ChatGPT mehr aus als die nächste Hausarbeit und würdest mit n8n am liebsten gleich einen Workflow bauen? Dann haben wir ab sofort ein paar ziemlich spannende Aufgaben für Dich. Beim **Zweckverband Kommunale Verkehrssicherheit Oberpfalz in Amberg** unterstützt Du die Geschäftsführung dabei, Verwaltung neu zu denken: digitaler, einfacher und intelligenter. Mit echten Projekten, Raum zum Ausprobieren und Ergebnissen, die Deinen Kolleginnen und Kollegen den Arbeitsalltag erleichtern. **Wer wir sind** Wir kümmern uns für rund 170 Kommunen um die Verkehrssicherheit. Dahinter stecken viele wiederkehrende Abläufe, große Datenmengen und jede Menge Potenzial für clevere Lösungen. Genau dort setzen wir an: von der Bearbeitung von Ordnungswidrigkeiten bis zu unseren internen Prozessen. ## Unsere Anforderungen - Du studierst beispielsweise Informatik, Wirtschaftsinformatik, Künstliche Intelligenz, Digital Business oder einen vergleichbaren Studiengang. - Du kennst Dich mit Microsoft 365 aus und hast erste praktische Erfahrungen mit KI-Anwendungen und Large Language Models. - RPA ist für Dich kein Fremdwort. Tools wie n8n oder Power Automate hast Du vielleicht schon ausprobiert – oder möchtest endlich ein echtes Projekt damit umsetzen. - Du interessierst Dich für Cloud-Technologien, Schnittstellen und das Zusamm",
    "prelim": 13
+  },
+  {
+   "refnr": "12811-2377805-S",
+   "title": "Werkstudent (m/w/d) AI & Automation - Produktmanagement & Analytics, Insu..., CHECK24 Versicherungen",
+   "employer": "CHECK24 - InsurTech",
+   "city": "München",
+   "region": "BAYERN",
+   "published": "2026-11-13",
+   "updated": "2026-11-13T17:33:49.232",
+   "apply_url": "https://www.finest-jobs.com/stellenanzeige/Werkstudent-D-Ai-Amp-Automation-Produktmanagement--1338166?cp=BA",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2377805-S",
+   "posted_via": "finest-jobs.com",
+   "fulltime_flag": false,
+   "topic_hits": [],
+   "core_hits_in_title": [
+    "ai"
+   ],
+   "broad_hits": [
+    "daten",
+    "informatik",
+    "python"
+   ],
+   "broad_only": false,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": false,
+   "preferred_state": true,
+   "first_seen": "2026-11-14",
+   "description_excerpt": "Alle reden über KI - wir setzen sie um. Du willst nicht zusehen, wie KI die Welt verändert, sondern mitentscheiden? Im KI-Team der CHECK24 Versicherungsvergleiche automatisieren wir Prozesse überall dort, wo es unseren Kunden echten Mehrwert bringt. Im Zentrum steht unser Chatbot, der millionenfach genutzt wird und Kunden durch den Versicherungsvergleich begleitet, zum Beispiel bei der Kfz-Versicherung. Dafür setzen wir die jeweils besten verfügbaren Modelle ein und reagieren sofort, wenn sich Technologie oder Markt bewegen. Neue Features gehen bei uns nicht einmal im Quartal live, sondern jeden Tag. Du bringst 16-20 Stunden Zeit pro Woche mit und möchtest nach einer fundierten Einarbeitung eigene Themen selbstständig vorantreiben? Dann freuen wir uns auf Deine Bewerbung als Werkstudent (m/w/d) AI & Automation - Produktmanagement & Analytics bei der CHECK24 KFZ-Versicherungen GmbH in München. Zu Deinen Aufgaben zählen Nutzerverhalten analysieren: Du wertest Chatbot-Interaktionen und Nutzungsdaten aus, erkennst Muster und findest die Stellen, an denen Kunden abbrechen, hängen bleiben oder nicht die Antwort bekommen, die sie suchen. Conversion und Performance verbessern: Du leitest aus Deinen Analysen konkrete Vorschläge ab, wie wir Conversion, Antwortqualität und Nutzerführung verbessern, und bringst sie im Team zur Entscheidung. Chatbot weiterentwickeln: Gemeinsam mit dem Produktmanagement verbesserst Du Gesprächsverläufe, Antwortqualität und Nutzerführung - mit zunehmendem F",
+   "prelim": 10
   },
   {
    "refnr": "10000-1208629590-S",
@@ -446,6 +476,33 @@
    "prelim": -1
   },
   {
+   "refnr": "17402-44573136-1113-S",
+   "title": "Working Student Service Product Management (m/f/d)",
+   "employer": "ENERCON GmbH",
+   "city": "Aurich, Ostfriesland",
+   "region": "NIEDERSACHSEN",
+   "published": "2026-11-14",
+   "updated": "2026-11-13T10:53:24.186",
+   "apply_url": "https://www.enercon.de",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17402-44573136-1113-S",
+   "posted_via": "ENERCON GmbH",
+   "fulltime_flag": true,
+   "topic_hits": [],
+   "core_hits_in_title": [],
+   "broad_hits": [
+    "data",
+    "development"
+   ],
+   "broad_only": true,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": true,
+   "preferred_state": true,
+   "first_seen": "2026-11-14",
+   "description_excerpt": "ENERCON GmbH Your Tasks * Support Service Product Managers in the development and sales release of new service products (e.g. business cases, sales and marketing materials) * Assist in market and competitor analyses to identify trends, opportunities, and best practices in After Sales * Analyze data and develop Power BI dashboards to support decision-making and performance tracking * Support the team in presentations, reports, analyses, and management materials. * Maintain and update SharePoint pages (Service product portfolio, roadmap, projects and products updates) * Support in workshops, meetings, and innovation initiatives Your Qualifications * Enrolled Student in a Bachelor's or Master's program in Engineering, Renewable Energy, Industrial Engineering, or a comparable field of study * Strong interest in renewable energy, product management, and business development * Proficient in Microsoft Office applications especially PowerPoint, Excel, and SharePoint * Experience with Power BI and SAP * Fluent in English and basic level of German * Independent, reliable, and proactive working style * Enjoy working in an international and cross-functional environment * Availability to work up to 20 hours per week",
+   "prelim": -1
+  },
+  {
    "refnr": "16012-44570620-1112-S",
    "title": "Werkstudent*in (w/m/d) Trainingsabteilung",
    "employer": "Jenoptik AG",
@@ -706,32 +763,6 @@
    "prelim": -2
   },
   {
-   "refnr": "12265-527419_JB5294780-S",
-   "title": "Werkstudent (m/w/d) Business Operations & Projektkoordination",
-   "employer": "FERCHAU Contract GmbH Köln CONTRACT",
-   "city": "Köln",
-   "region": "NORDRHEIN_WESTFALEN",
-   "published": "2026-11-10",
-   "updated": "2026-11-10T07:40:53.777",
-   "apply_url": "https://www.ferchau.de",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-527419_JB5294780-S",
-   "posted_via": "FERCHAU Engineering GmbH",
-   "fulltime_flag": true,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "daten"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-11-10",
-   "description_excerpt": "Menschen und Technologien zu verbinden, den Perfect Match für unsere Kunden zu gestalten, immer die richtigen Expert:innen für die jeweilige Herausforderung zu finden - das ist unser Anspruch bei FERCHAU und dafür suchen wir dich als Werkstudent:in, der:die unser Team in der Niederlassung Köln CONTRACT optimal supportet. Als Studierende:r unterstützt du deine Kolleg:innen mit aktuellem Hochschulwissen und bringst dich mit deinem Know-how ein. MAKE THE DIFFERENCE - join our team! ## Werkstudent (m/w/d) Business Operations & Projektkoordination **Deine Aufgaben** * Du unterstützt bei der Prüfung, Erstellung und Nachverfolgung von Verträgen, Bestellungen und weiteren projektbezogenen Unterlagen * Du bist Ansprechpartner für unsere externen Berater bei organisatorischen Fragestellungen und unterstützt bei der Betreuung während des Projekteinsatzes * Du unterstützt bei der Planung, Vorbereitung und Nachbereitung von internen Workshops, Meetings und Veranstaltungen * Du pflegst und aktualisierst projekt- und vertragsrelevante Daten in unseren Systemen und sorgst für eine hohe Datenqualität * Du arbeitest eng mit den Bereichen Vertrieb, Recruiting, Finance, HR und Legal zusammen und unterstützt bei der Abstimmung bereichsübergreifender Themen **Deine Benefits bei uns** * Flexible Arbeitszeitgestaltung durch Gleitzeitregelungen * Möglichkeit zur Übernahme von Verantwortung, Einbringung eigener Ideen und aktiver Mitgestaltung * Einblicke in das IT-Projektmanagement sowie Aufbau einer ",
-   "prelim": -2
-  },
-  {
    "refnr": "12706-44566139-1110-S",
    "title": "Werkstudent Life-Cycle-Management Leitungen (m/w/d)",
    "employer": "Amprion GmbH",
@@ -755,32 +786,6 @@
    "preferred_state": true,
    "first_seen": "2026-11-11",
    "description_excerpt": "Amprion verbindet. Unser Übertragungsnetz transportiert Strom für 29 Millionen Menschen in einem Gebiet von der Nordsee bis zu den Alpen. Dort wird ein Drittel der deutschen Wirtschaftsleistung erzeugt. Unsere Leitungen sind Lebensadern der Gesellschaft. Wir halten unser Netz stabil und sicher - und bereiten den Weg für die Energiewende: Wir bauen unser Netz aus und arbeiten an neuen Ideen für ein klimaverträgliches, sicheres und effizientes Energiesystem. Das Team Life-Cycle-Management (LCM) Leitungen verantwortet die strategische Instandhaltung und Erneuerung von Freileitungen und Kabeln. Durch Zustandsbewertungen und gezielte Maßnahmen stellt es die Sicherheit und Verfügbarkeit des Bestandsnetzes sicher und leistet damit einen wichtigen Beitrag zur Energiewende. DEINE AUFGABEN: * Erstellung und Weiterentwicklung von Instandhaltungs- und Sanierungskonzepten * Überprüfung und Evaluation von Untersuchungsergebnissen vor deren weiterer Nutzung für die Instandhaltung, beispielsweise von Freileitungsmasten * Eigenständige Recherchen sowie gegebenenfalls der Aufbau von Datenbanken * Auswertung von Daten sowie Aufbereitung und Darstellung von Ergebnissen * Weiterentwicklung von Methoden und Prozessen DEIN PROFIL: * laufendes Studium der Ingenieur- oder Naturwissenschaften in einem fortgeschrittenen Bachelorstudiengang (vorzugsweise ab dem 4. Semester) oder einem Masterstudiengang * ausgeprägtes analytisches Denkvermögen * selbstständige, strukturierte und sorgfältige Arbeitsweise ",
-   "prelim": -2
-  },
-  {
-   "refnr": "13465-00021a68b32002-S",
-   "title": "Werkstudent (m/w/d) Objekt- und Projektmanagement im Facility Management",
-   "employer": "WISAG Gebäude- und Industrieservice Holding GmbH & Co. KG",
-   "city": "Moosburg an der Isar",
-   "region": "BAYERN",
-   "published": "2026-11-10",
-   "updated": "2026-11-10T12:37:18.013",
-   "apply_url": "https://www.wisag.de",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13465-00021a68b32002-S",
-   "posted_via": "WISAG Dienstleistungen GmbH",
-   "fulltime_flag": null,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "daten"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-11-10",
-   "description_excerpt": "Willkommen bei der WISAG … einem der führenden Dienstleistungsunternehmen in Deutschland für die Bereiche: Aviation, Facility und Industrie. Mehr als 60.000 Mitarbeiterinnen und Mitarbeiter sind Tag für Tag bei uns im Einsatz. Unsere Spezialisten der WISAG Gebäude- und Industrieservice bieten umfangreiche Dienstleistungen – vom Anlagenbau über Instandhaltung bis hin zum Facility-Management in der Industrie. Mit dem Schwerpunkt Klima-, Kälte- und Lüftungstechnik setzen wir Maßstäbe durch Qualität und das Fachwissen unserer rund 1.800 Kolleginnen und Kollegen. Mehr über die WISAG erfahren Sie auf unserer Webseite. Werkstudent (m/w/d) Objekt- und Projektmanagement im Facility Management Kennziffer: 426834 Ihre Aufgaben bei uns Als Werkstudent (m/w/d) unterstützen Sie unser operatives Team bei organisatorischen, administrativen und projektbezogenen Tätigkeiten im Facility Management. Dabei erhalten Sie spannende Einblicke in die Betreuung und Steuerung unterschiedlichster FM-Projekte. Zu Ihren Aufgaben gehören insbesondere: - Pflege, Aktualisierung und Qualitätssicherung von Daten im CAFM-System - Unterstützung bei der Dokumentation unserer technischer Leistungen - Vor- und Nachbereitung operativer Maßnahmen sowie interner Prozesse - Unterstützung der Objekt- und Projektleitung im Tagesgeschäft - Verwaltung und Strukturierung relevanter Dokumentationen und Prüfnachweise - Koordination und Nachverfolgung offener Themen und Termine Ihr Einsatzort ist in 85368 Moosburg an der Isar. ",
    "prelim": -2
   },
   {
