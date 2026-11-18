@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-17",
- "count": 23,
+ "generated": "2026-11-18",
+ "count": 25,
  "jobs": [
   {
    "refnr": "10001-1004018125-S",
@@ -33,34 +33,33 @@
    "prelim": 10
   },
   {
-   "refnr": "12811-2377805-S",
-   "title": "Werkstudent (m/w/d) AI & Automation - Produktmanagement & Analytics, Insu..., CHECK24 Versicherungen",
-   "employer": "CHECK24 - InsurTech",
-   "city": "München",
-   "region": "BAYERN",
-   "published": "2026-11-13",
-   "updated": "2026-11-17T07:01:33.589",
-   "apply_url": "https://www.finest-jobs.com/stellenanzeige/Werkstudent-D-Ai-Amp-Automation-Produktmanagement--1338166?cp=BA",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2377805-S",
-   "posted_via": "finest-jobs.com",
+   "refnr": "15584-k50989.2580-S",
+   "title": "Werkstudent Elektronikentwicklung (m/w/d) für den Bereich Schaltnetzteilentwicklung",
+   "employer": "Gebrüder Frei GmbH & Co. KG",
+   "city": "Albstadt, Württemberg",
+   "region": "BADEN_WUERTTEMBERG",
+   "published": "2026-11-18",
+   "updated": "2026-11-18T13:52:07.870",
+   "apply_url": "https://www.frei.de",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15584-k50989.2580-S",
+   "posted_via": "Gebrüder Frei GmbH & Co. KG",
    "fulltime_flag": false,
-   "topic_hits": [],
-   "core_hits_in_title": [
-    "ai"
+   "topic_hits": [
+    "simulation"
    ],
+   "core_hits_in_title": [],
    "broad_hits": [
-    "daten",
-    "informatik",
-    "python"
+    "entwicklung",
+    "simulation"
    ],
-   "broad_only": false,
+   "broad_only": true,
    "german_hard_required": false,
    "german_b_level_mentioned": false,
    "english_mentioned": false,
    "preferred_state": true,
-   "first_seen": "2026-11-14",
-   "description_excerpt": "Alle reden über KI - wir setzen sie um. Du willst nicht zusehen, wie KI die Welt verändert, sondern mitentscheiden? Im KI-Team der CHECK24 Versicherungsvergleiche automatisieren wir Prozesse überall dort, wo es unseren Kunden echten Mehrwert bringt. Im Zentrum steht unser Chatbot, der millionenfach genutzt wird und Kunden durch den Versicherungsvergleich begleitet, zum Beispiel bei der Kfz-Versicherung. Dafür setzen wir die jeweils besten verfügbaren Modelle ein und reagieren sofort, wenn sich Technologie oder Markt bewegen. Neue Features gehen bei uns nicht einmal im Quartal live, sondern jeden Tag. Du bringst 16-20 Stunden Zeit pro Woche mit und möchtest nach einer fundierten Einarbeitung eigene Themen selbstständig vorantreiben? Dann freuen wir uns auf Deine Bewerbung als Werkstudent (m/w/d) AI & Automation - Produktmanagement & Analytics bei der CHECK24 KFZ-Versicherungen GmbH in München. Zu Deinen Aufgaben zählen Nutzerverhalten analysieren: Du wertest Chatbot-Interaktionen und Nutzungsdaten aus, erkennst Muster und findest die Stellen, an denen Kunden abbrechen, hängen bleiben oder nicht die Antwort bekommen, die sie suchen. Conversion und Performance verbessern: Du leitest aus Deinen Analysen konkrete Vorschläge ab, wie wir Conversion, Antwortqualität und Nutzerführung verbessern, und bringst sie im Team zur Entscheidung. Chatbot weiterentwickeln: Gemeinsam mit dem Produktmanagement verbesserst Du Gesprächsverläufe, Antwortqualität und Nutzerführung - mit zunehmendem F",
-   "prelim": 10
+   "first_seen": "2026-11-18",
+   "description_excerpt": "# Werkstudent Elektronikentwicklung (m/w/d) für den Bereich Schaltnetzteilentwicklung in Albstadt Wenn es um hochwertige elektronische Komponenten für die verschiedensten Einsatzmöglichkeiten bei Systemen für elektrisch betriebene Arbeitsmaschinen sowie in weiten Bereichen der Industrie und der Medizintechnik geht, sind wir eine erste Adresse. Mittelständisch strukturiert, im Markt hervorragend etabliert, mit einer guten Mischung aus Erfahrung und Dynamik. Derzeit beschäftigen wir 180 Mitarbeiter. Um unsere erfolgreiche Position am Markt weiter auszubauen, suchen wir Sie als # Ihre Aufgaben Sie haben Ihren Bachelor in Elektrotechnik abgeschlossen und möchten Ihre Kenntnisse praktisch anwenden? Bei uns arbeiten Sie an echten Entwicklungsprojekten rund um AC/DC- und DC/DC-Schaltnetzteile mit – von der ersten Schaltungsidee über Simulationen bis zur Messung am Prototyp. In unserem kleinen Entwicklungsteam werden Sie von erfahrenen Kollegen begleitet und können Schritt für Schritt eigene Aufgaben übernehmen: - Mitarbeit bei der Entwicklung und Optimierung elektronischer Schaltungen und moderner Schaltnetzteile. - Simulation von Schaltungen und Leistungsstufen sowie Vergleich der Ergebnisse mit realen Messungen. - Aufbau, Inbetriebnahme und Untersuchung von Prototypen im Labor, z. B. hinsichtlich Wirkungsgrad, Temperatur und Regelverhalten. - Unterstützung bei Schaltplänen, PCB-Layouts und der Auswahl elektronischer Bauteile. - Bearbeitung kleiner eigener Entwicklungs- und Versuch",
+   "prelim": 2
   },
   {
    "refnr": "12745-984230596-S",
@@ -178,6 +177,33 @@
    "prelim": 0
   },
   {
+   "refnr": "14244-BB-440178-7878-5743-S",
+   "title": "Werkstudent im Team Rechtsdienstleister Netzwerk (m/w/d)",
+   "employer": "ARAG SE",
+   "city": "Düsseldorf",
+   "region": "NORDRHEIN_WESTFALEN",
+   "published": "2026-11-18",
+   "updated": "2026-11-18T17:08:58.856",
+   "apply_url": "https://www.arag.de",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14244-BB-440178-7878-5743-S",
+   "posted_via": "ARAG Allgemeine Versicherungs AG",
+   "fulltime_flag": false,
+   "topic_hits": [],
+   "core_hits_in_title": [],
+   "broad_hits": [
+    "daten",
+    "entwicklung"
+   ],
+   "broad_only": true,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": false,
+   "preferred_state": true,
+   "first_seen": "2026-11-18",
+   "description_excerpt": "Warum du bei der ARAG genau richtig bist? Weil es bei uns um mehr geht als nur um einen Job. Dich erwarten nicht nur spannende Aufgaben, sondern eine Tätigkeit mit direktem Bezug zu unserer Gründungsidee: Wir helfen Menschen - indem wir sie dabei unterstützen, ihr Recht durchzusetzen. Dafür brauchen wir dich, mit allem, was dich ausmacht. Mit deinen Fähigkeiten trägst du dazu bei, dass wir für unsere Kund:innen da sind, wenn es wirklich darauf ankommt. Bei uns kannst du deine Stärken in einem international erfolgreichen Familienunternehmen entfalten. Mit einem aktiven Diversity Management, der Unterzeichnung der Charta der Vielfalt sowie vielfältigen Weiterbildungs- und Entwicklungsmöglichkeiten schaffen wir Rahmenbedingungen für unterschiedliche Karrierewege und berufliche Entwicklung. Klingt interessant? Dann bewirb dich bei uns. Wir freuen uns auf dich! * Du unterstützt bei der Bearbeitung und Dokumentation von Beschwerden im Umfeld unserer Partnerkanzleien und Rechtsdienstleister * Du erhältst eine fundierte Einarbeitung in unser Schadensystem, um bei Prozessen rund um Datenpflege, Auswertungen und dienstleisterbezogene Abläufe mitzuarbeiten * Du übernimmst die Pflege, Aufbereitung und Qualitätssicherung von Daten und Informationen (z. B. zu Dienstleistern, Prozessen, Übersichten) * Du unterstützt im Netzwerkmanagement sowie im operativen Tagesgeschäft des Teams * Du wirkst bei der Analyse, Dokumentation und Weiterentwicklung bestehender Prozesse mit * Du aktualisierst un",
+   "prelim": -1
+  },
+  {
    "refnr": "12288-5002884939-S",
    "title": "Werkstudent im Einkauf (m/w/d) - mittendrin statt nur dabei!",
    "employer": "in-tech GmbH",
@@ -202,33 +228,6 @@
    "preferred_state": true,
    "first_seen": "2026-11-17",
    "description_excerpt": "in-tech ist ein digitaler Lösungsanbieter für Automotive, Rail und Smart Industry. Als strategischer Entwicklungspartner begleiten wir unsere Kunden durch den gesamten Entwicklungsprozess - von Einzelkomponenten bis hin zu Komplettlösungen aus Hard- u. Software. Wir sind Ingenieure, Softwareentwickler, Techniker und Quereinsteiger #allgenders und arbeiten an der Mobilität der Zukunft. Wir sind orange! Du auch? Du bist auf der Suche nach einer Werkstudentenstelle, bei der du von Anfang an Verantwortung übernehmen und für mindestens sechs Monate Teil eines dynamischen Teams werden kannst? Dann bist du bei in-tech genau richtig! Wir leben Teamgeist, Offenheit und Mut zur Veränderung – und suchen Menschen, die mit uns gemeinsam die Zukunft gestalten. Bei uns zählt Eigeninitiative mehr als Perfektion und deine Meinung ist immer willkommen. Werde Teil unserer \"orange\" Kultur! Das sind deine Aufgaben Unterstützung bei der Bearbeitung von Bestellungen und Anfrageeingängen Vorbereitung und Durchführung von Lieferantenrecherchen sowie Angebotsvergleichen Mitwirkung bei der Auswahl und Bewertung von Lieferanten Erstellung und Pflege von Einkaufsdokumenten, Preisübersichten und Auswertungen Unterstützung bei der Optimierung von Einkaufsprozessen und Tools Kommunikation mit internen Fachbereichen und externen Partnern Das bringst du mit Du bist immatrikulierte:r Student:in der BWL, VWL, des Wirtschaftsingenieurwesens oder einer ähnlichen Studienrichtung Sehr gute MS Office Kenntnisse (ins",
-   "prelim": -1
-  },
-  {
-   "refnr": "17402-44573136-1113-S",
-   "title": "Working Student Service Product Management (m/f/d)",
-   "employer": "ENERCON GmbH",
-   "city": "Aurich, Ostfriesland",
-   "region": "NIEDERSACHSEN",
-   "published": "2026-11-14",
-   "updated": "2026-11-16T12:04:58.752",
-   "apply_url": "https://www.enercon.de",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17402-44573136-1113-S",
-   "posted_via": "ENERCON GmbH",
-   "fulltime_flag": true,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "data",
-    "development"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": true,
-   "preferred_state": true,
-   "first_seen": "2026-11-14",
-   "description_excerpt": "ENERCON GmbH Your Tasks * Support Service Product Managers in the development and sales release of new service products (e.g. business cases, sales and marketing materials) * Assist in market and competitor analyses to identify trends, opportunities, and best practices in After Sales * Analyze data and develop Power BI dashboards to support decision-making and performance tracking * Support the team in presentations, reports, analyses, and management materials. * Maintain and update SharePoint pages (Service product portfolio, roadmap, projects and products updates) * Support in workshops, meetings, and innovation initiatives Your Qualifications * Enrolled Student in a Bachelor's or Master's program in Engineering, Renewable Energy, Industrial Engineering, or a comparable field of study * Strong interest in renewable energy, product management, and business development * Proficient in Microsoft Office applications especially PowerPoint, Excel, and SharePoint * Experience with Power BI and SAP * Fluent in English and basic level of German * Independent, reliable, and proactive working style * Enjoy working in an international and cross-functional environment * Availability to work up to 20 hours per week",
    "prelim": -1
   },
   {
@@ -258,6 +257,58 @@
    "prelim": -2
   },
   {
+   "refnr": "18346-0068823260-S",
+   "title": "Werkstudent Datenerfassung & Stammdatenpflege (m/w/d)",
+   "employer": "Heizkurier GmbH",
+   "city": "Wachtberg",
+   "region": "NORDRHEIN_WESTFALEN",
+   "published": "2026-11-18",
+   "updated": "2026-11-18T16:10:33.444",
+   "apply_url": "https://www.heizkurier.de",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18346-0068823260-S",
+   "posted_via": "Heizkurier GmbH",
+   "fulltime_flag": null,
+   "topic_hits": [],
+   "core_hits_in_title": [],
+   "broad_hits": [
+    "daten"
+   ],
+   "broad_only": true,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": false,
+   "preferred_state": true,
+   "first_seen": "2026-11-18",
+   "description_excerpt": "**DEINE VORTEILE** * **Job mit Weitblick!** Sammle wertvolle Praxiserfahrung neben deinem Studium, bring deine Ideen ein und entwickle dich gemeinsam mit uns weiter. * **Studium im Blick!** Mit flexiblen Arbeitszeiten lässt sich dein Job gut mit Vorlesungen, Prüfungen und deinem Studienalltag vereinbaren. * **Mittendrin statt nur dabei!** Bei uns übernimmst du echte Aufgaben und arbeitest aktiv an aktuellen Themen und Projekten mit. * **Starte gut durch!** Ein persönliches Onboarding und eine strukturierte Einarbeitung sorgen dafür, dass du dich schnell bei uns zurechtfindest. * **Lerne fürs echte Berufsleben!** Bei uns bekommst du praktische Einblicke in Unternehmensprozesse und sammelst Erfahrungen, die über die Theorie im Studium hinausgehen. * **Willkommen im Team!** Dich erwartet ein motiviertes Team mit kurzen Wegen, offener Kommunikation und flachen Hierarchien. * **Feier mit uns!** Ob Betriebsfest, Weihnachtsfeier oder gemeinsames Meetup – als Werkstudent:in bist du natürlich mit dabei. **DEINE AUFGABEN** * Erfassung und Pflege von Stamm- und Bewegungsdaten im ERP-System * Anlage und Aktualisierung von Kunden-, Lieferanten-, Artikel- und weiteren Stammdaten * Übertragung bestehender Datenbestände aus Altsystemen, Excel-Listen und weiteren Datenquellen * Vorbereitung und Durchführung von Datenimporten * Prüfung vorhandener Datensätze auf Vollständigkeit, Richtigkeit und Aktualität * Identifikation und Bereinigung fehlerhafter, unvollständiger oder doppelt vorhandener D",
+   "prelim": -2
+  },
+  {
+   "refnr": "16852-44578570-1117-S",
+   "title": "Werkstudent:in Datenanalyse & Prozessoptimierung (m/w/d)",
+   "employer": "BASF Services Europe GmbH",
+   "city": "Freiburg im Breisgau",
+   "region": "BADEN_WUERTTEMBERG",
+   "published": "2026-11-18",
+   "updated": "2026-11-17T13:03:44.342",
+   "apply_url": "https://www.basf.com/global/de/careers.html",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16852-44578570-1117-S",
+   "posted_via": "BASF Services Europe GmbH",
+   "fulltime_flag": false,
+   "topic_hits": [],
+   "core_hits_in_title": [],
+   "broad_hits": [
+    "daten"
+   ],
+   "broad_only": true,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": false,
+   "preferred_state": true,
+   "first_seen": "2026-11-18",
+   "description_excerpt": "WILLKOMMEN BEI UNS In Freiburg im Breisgau, im Infrarhod-Industriepark, produzieren wir Polyamide für den weltweiten Textil- und Automobilmarkt. Unsere Produkte werden z. B. in der europäischen Textilindustrie zu Garnen weiterverarbeitet, die in Funktionstextilien namhafter Hersteller zum Einsatz kommen. Weiterhin werden anspruchsvolle Bauteile für die Automobilindustrie und die Elektromobilität aus unserem Produkt gefertigt. Darüber hinaus sind wir an der Verwertung und dem Vertrieb unserer Produkte beteiligt und unterstützen unsere Kunden durch maßgeschneiderte Lösungen und innovative Produkte. WAS SIE ERWARTET Sie möchten Ihr Wissen aus dem Studium praktisch anwenden und Einblicke in ein industrielles Produktionsumfeld gewinnen? Als Werkstudent:in unterstützen Sie uns bei einem praxisnahen Projekt zur Weiterentwicklung und Optimierung unseres PA66-Gießprozesses. Polyamid 66 (PA66) ist ein vielseitiger Hochleistungskunststoff, dessen Verarbeitung und Produkteigenschaften wesentlich von der Qualität des eingesetzten Granulats beeinflusst werden. Eine wichtige Rolle spielt dabei die Korngrößenverteilung, die unter anderem Einfluss auf den Materialfluss und die Bauteilqualität hat. Gemeinsam möchten wir diese Zusammenhänge systematisch untersuchen und datenbasiert besser verstehen. * Im Rahmen des Projekts bauen Sie eine strukturierte Datenbasis zur Korngrößenverteilung verschiedener PA66-Sorten auf, pflegen diese und werten die enthaltenen Daten systematisch aus. * Hierfür pl",
+   "prelim": -2
+  },
+  {
    "refnr": "19053-BB-634759-7878-6563-S",
    "title": "Werkstudent Regulatory Affairs m/w/d",
    "employer": "VYGON Germany GmbH",
@@ -281,32 +332,6 @@
    "preferred_state": true,
    "first_seen": "2026-11-16",
    "description_excerpt": "Beginnen Sie Ihre Karriere bei VYGON und leisten Sie einen Beitrag zu einer sinnvollen Mission: Value Life. Wir entwickeln, fertigen und vertreiben Hightech-Medizinprodukte, indem wir durch Qualitätskontrollen die Rückverfolgbarkeit unserer Produkte von der Entwicklung bis zum Vertrieb gewährleisten. Unsere Gruppe besteht heute aus 26 Tochtergesellschaften und 11 Produktionsstätten, davon 8 in Europa. Bei VYGON zu arbeiten bedeutet, Teil einer internationalen Gruppe, aber auch eines unabhängigen Familienunternehmens zu sein. Dank der Arbeit unserer 2.619 Mitarbeitenden stellt Vygon jedes Jahr etwa 210 Millionen medizinische Geräte her. Bei VYGON stehen Integrität, Engagement, Aufgeschlossenheit, das Streben nach Verbesserung und die Achtung der Menschen im Mittelpunkt unseres Handelns. Wir setzen uns für ein vielfältiges und integratives Arbeitsumfeld ein und unser Einstellungsprozess ist darauf ausgelegt, allen Bewerbenden gleiche Chancen zu ermöglichen. * Unterstützung bei der Vorbereitung, Erstellung für nationale und internationale Produktzulassungen * Mitarbeit bei der Zusammenstellung technischer Unterlagen für internationale Produktregistrierungen durch den Mutterkonzern * Pflege der technischen Dokumentationen in eQMS * Unterstützung bei der Normenüberwachung * Laufendes Studium in einem technischen oder naturwissenschaftlichen Fachgebiet, idealerweise Biomedizinische Technik, Mikrobiologie, Verfahrenstechnik oder vergleichbar * Sicherer Umgang mit Microsoft Office, i",
-   "prelim": -2
-  },
-  {
-   "refnr": "19265-0068787385-S",
-   "title": "Werkstudent (m/w/d) im Bereich Controlling / Kalkulation",
-   "employer": "Mestemacher GmbH",
-   "city": "Gütersloh",
-   "region": "NORDRHEIN_WESTFALEN",
-   "published": "2026-11-17",
-   "updated": "2026-11-17T12:11:13.744",
-   "apply_url": "https://www.mestemacher.de",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19265-0068787385-S",
-   "posted_via": "Mestemacher GmbH",
-   "fulltime_flag": false,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "daten"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-11-17",
-   "description_excerpt": "**Ihr Aufgabengebiet:** * Unterstützung bei der Erstellung und Bearbeitung von Kalkulationen * Prüfung und Pflege kalkulationsrelevanter Daten * Aufbereitung und Analyse von Zahlen und Daten * Unterstützung bei allgemeinen Controlling-Aufgaben **Unsere Anforderungen:** * Immatrikulierter Student (m/w/d), Studienrichtung grundsätzlich offen * Zahlenaffinität und analytisches Denkvermögen * Sehr gute Excel-Kenntnisse * Sorgfältige, strukturierte und zuverlässige Arbeitsweise * Motivation, Eigeninitiative und Freude daran, sich in neue Themen einzuarbeiten * Vorkenntnisse im Bereich Controlling oder Kalkulation sind von Vorteil, aber keine Voraussetzung **Wir bieten Ihnen:** * Praxisnahe Einblicke in den Bereich Controlling * Eigenverantwortliches Arbeiten * 15 Stunden pro Woche mit flexibler Arbeitszeitgestaltung * Mobiles Arbeiten nach Absprache möglich * Eine angenehme Arbeitsatmosphäre und persönliche Betreuung * Eine zunächst auf ein Jahr befristete Werkstudententätigkeit * Einstieg ab sofort möglich Bringen Sie Ihr Talent für die ausgeschriebene Stelle ein und senden uns Ihre aussagekräftigen Bewerbungsunterlagen unter Angabe Ihrer Gehaltsvorstellung und des frühestmöglichen Eintrittstermins (mit Angabe der Kündigungsfrist) über unser Online-Bewerbungsformular auf der Mestemacher Karriereseite (www.mestemacher.de/jobs) zu.",
    "prelim": -2
   },
   {
@@ -362,13 +387,39 @@
    "prelim": -2
   },
   {
+   "refnr": "15356-44578259-1117-S",
+   "title": "Werkstudent Digital Learning in der Global Academy (d/w/m)",
+   "employer": "Ottobock SE & Co. KGaA",
+   "city": "Duderstadt, Niedersachsen",
+   "region": "NIEDERSACHSEN",
+   "published": "2026-11-18",
+   "updated": "2026-11-17T10:51:58.029",
+   "apply_url": "https://www.ottobock.com",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15356-44578259-1117-S",
+   "posted_via": "Ottobock SE & Co. KGaA",
+   "fulltime_flag": false,
+   "topic_hits": [],
+   "core_hits_in_title": [],
+   "broad_hits": [
+    "informatik"
+   ],
+   "broad_only": true,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": false,
+   "preferred_state": true,
+   "first_seen": "2026-11-18",
+   "description_excerpt": "Ottobock SE & Co. KGaA Ziel der Stelle Die Werkstudententätigkeit im Bereich Academy Service & Online Learning der Global Academy ermöglicht es Dir, das Tagesgeschäft eines global tätigen Unternehmens kennenzulernen. Mit unserem Learning Management System \"myLearning\" stellen wir sicher, dass jede/r Anwender*in weltweit ein passgenaues Training erhält - sei es in der Form eines Auffrischungskurses z.B. in Biomechanik, Anatomie oder aber eines Zertifizierungskurses für eines unserer Hightech-Produkte. Wir suchen Dich ab sofort als Verstärkung unseres Teams mit 20 Wochenstunden. Aufgaben * Du bist verantwortlich für die Administration des Learning Management Systems * Dabei arbeitest Du an diesen Kernthemen: Benutzerverwaltung: Erstellung, Bearbeitung und Löschen von Benutzerkonten * Zuweisung von Rollen und Berechtigungen (z.B. Administrator*in, Trainer*in, Lerner*in) * Verwaltung von Benutzergruppen und deren Zugriffsrechten * Kurs- und Inhaltsverwaltung: Erstellung, Bearbeitung und Löschen von Kursen und Lerninhalten * Upload und Organisation von Lernmaterialien (Texte, Videos, interaktive Inhalte) * Zuweisung von Kursen zu bestimmten Benutzer*innen oder Gruppen Profil * Du bist Student*in (Bachelor oder Master) der Fachrichtungen (Wirtschafts-)Informatik, Neue Medien oder einer vergleichbaren Fachrichtung * Du bringst idealerweise erste praktische Erfahrungen mit IT-Systemen/digitalen Lernformaten wie z.B. E-Learning, Blended Learning und neuen Lerntechnologien mit * Du beh",
+   "prelim": -2
+  },
+  {
    "refnr": "12811-2375782-S",
    "title": "WERKSTUDENT (m/w/d) FÜR DIE BAULEITUNG - BAUVORHABEN BEI PFORZHEIM,Stuttgart,Karlsruhe",
    "employer": "Bremer Süd GmbH",
    "city": "Karlsruhe, Baden",
    "region": "BADEN_WUERTTEMBERG",
    "published": "2026-11-17",
-   "updated": "2026-11-17T07:02:03.027",
+   "updated": "2026-11-18T07:02:30.698",
    "apply_url": "https://www.finest-jobs.com/stellenanzeige/Werkstudent-D-Fuer-Die-Bauleitung-Bauvorhaben-Bei--1336796?cp=BA",
    "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2375782-S",
    "posted_via": "finest-jobs.com",
@@ -394,7 +445,7 @@
    "city": "Bochum",
    "region": "NORDRHEIN_WESTFALEN",
    "published": "2026-11-16",
-   "updated": "2026-11-17T08:57:08.612",
+   "updated": "2026-11-18T12:11:09.129",
    "apply_url": "http://www.arbeitsagentur.de",
    "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208667905-S",
    "posted_via": "arbeitsagentur.de",
@@ -410,7 +461,7 @@
    "english_mentioned": false,
    "preferred_state": true,
    "first_seen": "2026-11-16",
-   "description_excerpt": "**Über uns** Die Ruhr Liegenschaften Verwaltungs GmbH ist ein familiengeführtes Immobilienunternehmen mit Sitz in Bochum und spezialisiert auf die Verwaltung, Vermietung und Revitalisierung von Wohn-, Büro- und Gewerbeimmobilien im Ruhrgebiet. Für unsere Technik-Abteilung suchen wir einen „Profi am Zeichenbrett“, der die Veränderung unserer Grundrisse dokumentiert und aus jeder Fläche das Bester herausholt. **Deine Aufgaben** - Du erstellst, bearbeitest und pflegst 2D- und 3D-CAD-Pläne (Grundrisse, Schnitte, Ansichten sowie Detailzeichnungen). - Du unterstützt unser Team bei der Entwurfs-, Genehmigungs- und Ausführungsplanung. - Du digitalisierst bestehende Bestandspläne und bereitest Planunterlagen für Bauherren sowie Fachplaner auf. - Du bringst eigene Ideen bei der konstruktiven Ausarbeitung ein und hilfst bei der Modellpflege. - 10-15 Std./Woche **Dein Profil** - Du bist eingeschriebener Student (m/w/d) im Studiengang Architektur, Bauingenieurwesen oder einer vergleichbaren Fachrichtung oder interessiert an einer Nebenbeschäftigung auf Mini-Job-Basis. - Du verfügst über gute Kenntnisse in mindestens einer gängigen CAD-Software (z. B. AutoCAD, Archicad, Allplan oder Vectorworks). - Du hast ein ausgeprägtes räumliches Vorstellungsvermögen sowie eine sorgfältige, strukturierte und zuverlässige Arbeitsweise. - Idealerweise konntest du bereits erste praktische Erfahrungen im Zeichnen von Bauplänen sammeln. **Das bieten wir dir** - **Praxisnähe:** Einblicke in reale Umbau-Proje",
+   "description_excerpt": "**Über uns** Die Ruhr Liegenschaften Verwaltungs GmbH ist ein familiengeführtes Immobilienunternehmen mit Sitz in Bochum und spezialisiert auf die Verwaltung, Vermietung und Revitalisierung von Wohn-, Büro- und Gewerbeimmobilien im Ruhrgebiet. Für unsere Technik-Abteilung suchen wir einen „Profi am Zeichenbrett“, der die Veränderung unserer Grundrisse dokumentiert und aus jeder Fläche das Beste herausholt. **Deine Aufgaben** - Du erstellst, bearbeitest und pflegst 2D- und 3D-CAD-Pläne (Grundrisse, Schnitte, Ansichten sowie Detailzeichnungen). - Du unterstützt unser Team bei der Entwurfs-, Genehmigungs- und Ausführungsplanung. - Du digitalisierst bestehende Bestandspläne und bereitest Planunterlagen auf. - Du bringst eigene Ideen bei der konstruktiven Ausarbeitung ein und hilfst bei der Modellpflege. - 10-15 Std./Woche **Dein Profil** - Du bist eingeschriebener Student (m/w/d) im Studiengang Architektur, Bauingenieurwesen oder einer vergleichbaren Fachrichtung oder interessiert an einer Nebenbeschäftigung auf Mini-Job-Basis. - Du verfügst über gute Kenntnisse in mindestens einer gängigen CAD-Software (z. B. AutoCAD, Archicad, Allplan oder Vectorworks). - Du hast ein ausgeprägtes räumliches Vorstellungsvermögen sowie eine sorgfältige, strukturierte und zuverlässige Arbeitsweise. - Idealerweise konntest du bereits erste praktische Erfahrungen im Zeichnen von Bauplänen sammeln. **Das bieten wir dir** - **Praxisnähe:** Einblicke in reale Umbau-Projekte und energetische Sanierungen",
    "prelim": -2
   },
   {
@@ -464,6 +515,32 @@
    "first_seen": "2026-11-17",
    "description_excerpt": "Sie interessieren sich für einen Nebenjob mit interessanten Einblicken in die Uro-onkologie an einer der führenden urologischen Kliniken in Deutschland? Dann bewerben Sie sich jetzt! **Ihr Aufgabenbereich:** * Sie unterstützen unserurologisches Team in der Nachsorge unserer Patient:innen mit Prostatakarzinom, Urothelkarzinom und Nierenzellkarzinom. * Ihre Arbeitszeit beträgt ca. 16 Std./Woche. * Sie führen selbstständig telefonische Nachsorgegespräche mit Patient:innen durch, versenden Nachsorgebriefe und pflegen die aus der Nachsorge gewonnenen Erkenntnisse in unsere Dokumentationssysteme ein. * Bei Interesse ist eine wissenschaftliche Mitarbeit im Rahmen von klinischen Studien an unserer Klinik inkl. des Anfertigens einer medizinischen Promotion möglich. **Wen wir suchen:** * Sie sind Student:in der Medizin im klinischen Studienabschnitt in München. * Sie haben Freude an der unmittelbaren Arbeit mit uro-onkologischen Patient:innen. * Sie interessieren sich für die strukturierte Auswertung und Erfassung medizinischer Daten. * Empathie, Zuverlässigkeit, Aufgeschlossenheit und Strukturiertheit zeichnen Sie aus. * Sie identifizieren sich mit den Werten unseres christlichen Krankenhauses: Hospitalität, Qualität, Respekt, Verantwortung. **Was wir bieten:** * Sie können sich Ihre Arbeitszeit frei einteilen und einen Teil ihrer Arbeit bequem aus dem Home-Office erledigen. * In Ihrer Mittagspause können Sie günstig in unserer Kantine essen. * Wir vergüten nach den Richtlinien für Ar",
    "prelim": -2
+  },
+  {
+   "refnr": "10000-1208708940-S",
+   "title": "Werkstudent*in im Sicherheitsmanagement",
+   "employer": "Deutsche Rentenversicherung Bund",
+   "city": "Berlin",
+   "region": "BERLIN",
+   "published": "2026-11-18",
+   "updated": "2026-11-18T09:39:38.227",
+   "apply_url": "http://www.arbeitsagentur.de",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208708940-S",
+   "posted_via": "arbeitsagentur.de",
+   "fulltime_flag": true,
+   "topic_hits": [],
+   "core_hits_in_title": [],
+   "broad_hits": [
+    "daten"
+   ],
+   "broad_only": true,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": false,
+   "preferred_state": false,
+   "first_seen": "2026-11-18",
+   "description_excerpt": "Tätigkeitsbereich Bist du auf der Suche nach neuen Herausforderungen und möchtest während deines Studiums Berufserfahrung sammeln in einem Unternehmen, welches zu dir passt? Die Abteilung „Unternehmenssicherheit“ nimmt als zentrale Dienstleisterin der Deutschen Rentenversicherung Bund (DRV Bund) Aufgaben der IT und physischen Sicherheit, des Schutzes personenbezogener Daten, des Geheimschutzes und Notfallmanagements sowie Grundsatz- und Querschnittsaufgaben wahr. Die ausgeschriebene Stelle bezieht sich auf den Bereich Sicherheitsmanagement, welcher den Schutz der Beschäftigten und der Liegenschaften der DRV Bund, des Business Continuity Management der kritischen Dienstleistungen der DRV Bund sowie die abteilungsinterne Umsetzung des IT-Grundschutz verantwortet. Die Position ist befristet für 12 Monate, mit der Option einer Verlängerung. Ihre Aufgaben Unterstützung bei der Beratung interner Auftraggeber\\*innen zur Umsetzung, Aufrechterhaltung und Optimierung von Sicherheitsmaßnahmen Mitwirkung bei der Erstellung individueller Sicherheitskonzepte, insbesondere im Bereich der Gebäudesicherheit und zum Schutz von Mitarbeitenden Unterstützung bei der Überprüfung der Wirksamkeit von Sicherheitsmaßnahmen vor Ort sowie Auswertung und Dokumentation der Ergebnisse zur Qualitätssicherung Unterstützung bei der Abstimmung mit externen Stellen, beispielsweise Ministerien oder Strafverfolgungsbehörden Mitwirkung bei der Vorbereitung, Begleitung und Nachbereitung von Audits zur Optimierung v",
+   "prelim": -5
   },
   {
    "refnr": "11112-146-1695278-1-S",
@@ -567,32 +644,6 @@
    "preferred_state": false,
    "first_seen": "2026-11-16",
    "description_excerpt": "Als Energiewendeunternehmen legen wir gemeinsam das Fundament für eine zukunftsfähige und funktionierende Energieversorgung, sichern Wohlstand in unserer Region, leisten einen entscheidenden Beitrag für den Klimaschutz und schaffen langfristige Werte für unsere Kundinnen und Kunden, unsere Kommunen, Partner und somit auch für jede EWRlerin und jeden EWRler. Lasst uns gemeinsam unsere Zukunft anpacken. Zur Verstärkung unseres Teams am Standort Alzey suchen wir zum nächstmöglichen Zeitpunkt - befristet auf 2 Jahre - Dich als Werkstudent (m/w/d) im Bereich Regulierung & Netzcontrolling - 20 h / Woche. ### Deine Aufgaben: - Du unterstützt bei der Aufbereitung und Analyse von Daten für regulatorische Verfahren - Im Rahmen von Kostenprüfungen und Jahresabschlüssen wirkst du bei verschiedenen Analysen mit - Du bringst dich bei Konzeptarbeiten und Simulationsrechnungen ein - Komplexe Themen bereitest du strukturiert und verständlich für Präsentationen auf - Bei unterschiedlichen fachlichen und analytischen Fragestellungen unterstützt du das Team im Tagesgeschäft ### Dein Profil: - Laufendes Studium im Bereich BWL, VWL oder Energiewirtschaft mit Schwerpunkt in Datenanalyse - Sicherer Umgang mit den MS-Office-Anwendungen, insbesondere Excel, sowie eine ausgeprägte Affinität zu digitalen Anwendungen und Datenmanagement - Kenntnisse in PowerBI wünschenswert - Selbstständige, strukturierte und sorgfältige Arbeitsweise mit hohem Qualitätsbewusstsein - Kommunikationsstärke sowie ein freundl",
-   "prelim": -5
-  },
-  {
-   "refnr": "10001-1004017708-S",
-   "title": "Studentische Hilfskraft Kindertagesstätte (m/w/d) Frankfurt am Main",
-   "employer": "WUTOW Professional GmbH",
-   "city": "Frankfurt am Main",
-   "region": "HESSEN",
-   "published": "2026-11-16",
-   "updated": "2026-11-16T09:59:47.108",
-   "apply_url": "http://www.arbeitsagentur.de",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004017708-S",
-   "posted_via": "arbeitsagentur.de",
-   "fulltime_flag": null,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "entwicklung"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": false,
-   "first_seen": "2026-11-16",
-   "description_excerpt": "Sie studieren Erziehungswissenschaften, Soziale Arbeit oder Sozialpädagogik und möchten wertvolle Praxiserfahrung sammeln? Perfekt! **Wutow Professional GmbH** ist Ihr Experte für die Rekrutierung und Vermittlung von pädagogisch qualifizierten Fachkräften im Rhein-Main-Gebiet. **Studentische Hilfskraft Kindertagesstätte (m/w/d) Frankfurt am Main** Ihre Aufgaben: * Bildungs- und Erziehungsprozesse gestalten Sie altersgerecht und kindorientiert in Krippe oder Kindergarten * Sie beobachten, begleiten und dokumentieren die Entwicklung der Kinder * Theoretische Kenntnisse aus Ihrem Studium setzen Sie direkt in die pädagogische Praxis um * Im Team tauschen Sie sich regelmäßig aus und unterstützen sich gegenseitig Ihr Profil: * Sie studieren Erziehungswissenschaften, Soziale Arbeit oder Sozialpädagogik -- auch als pädagogische Hilfskraft (m/w/d), Kita-Hilfskraft (m/w/d) oder Betreuungsassistenz (m/w/d) sind Sie bei uns willkommen * Gute Deutschkenntnisse bringen Sie mit * Freude an der Arbeit mit Kindern und Einfühlungsvermögen zeichnen Sie aus * Auf unterschiedliche kulturelle Hintergründe und soziale Lebenslagen der Kinder können Sie sich flexibel einstellen Ihre Vorteile: * Sie sammeln wertvolle Praxiserfahrung, die Ihr Studium optimal ergänzt * Flexible Einsatzplanung nach Ihren Wünschen und Verfügbarkeiten * Ein internationales, wertschätzendes Team, in dem Vertrauen, Fairness und Teamgeist gelebt werden * Hospitation vor Einsatzbeginn, damit Sie Ihre Wunsch-Einrichtung kennenl",
    "prelim": -5
   },
   {
