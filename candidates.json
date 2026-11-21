@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-20",
- "count": 27,
+ "generated": "2026-11-21",
+ "count": 26,
  "jobs": [
   {
    "refnr": "15584-k50989.2580-S",
@@ -30,35 +30,6 @@
    "first_seen": "2026-11-18",
    "description_excerpt": "# Werkstudent Elektronikentwicklung (m/w/d) für den Bereich Schaltnetzteilentwicklung in Albstadt Wenn es um hochwertige elektronische Komponenten für die verschiedensten Einsatzmöglichkeiten bei Systemen für elektrisch betriebene Arbeitsmaschinen sowie in weiten Bereichen der Industrie und der Medizintechnik geht, sind wir eine erste Adresse. Mittelständisch strukturiert, im Markt hervorragend etabliert, mit einer guten Mischung aus Erfahrung und Dynamik. Derzeit beschäftigen wir 180 Mitarbeiter. Um unsere erfolgreiche Position am Markt weiter auszubauen, suchen wir Sie als # Ihre Aufgaben Sie haben Ihren Bachelor in Elektrotechnik abgeschlossen und möchten Ihre Kenntnisse praktisch anwenden? Bei uns arbeiten Sie an echten Entwicklungsprojekten rund um AC/DC- und DC/DC-Schaltnetzteile mit – von der ersten Schaltungsidee über Simulationen bis zur Messung am Prototyp. In unserem kleinen Entwicklungsteam werden Sie von erfahrenen Kollegen begleitet und können Schritt für Schritt eigene Aufgaben übernehmen: - Mitarbeit bei der Entwicklung und Optimierung elektronischer Schaltungen und moderner Schaltnetzteile. - Simulation von Schaltungen und Leistungsstufen sowie Vergleich der Ergebnisse mit realen Messungen. - Aufbau, Inbetriebnahme und Untersuchung von Prototypen im Labor, z. B. hinsichtlich Wirkungsgrad, Temperatur und Regelverhalten. - Unterstützung bei Schaltplänen, PCB-Layouts und der Auswahl elektronischer Bauteile. - Bearbeitung kleiner eigener Entwicklungs- und Versuch",
    "prelim": 2
-  },
-  {
-   "refnr": "12745-984230596-S",
-   "title": "Werkstudent  - Testmethodenentwicklung für Materialprüfung (m/w/d) - REF100582R",
-   "employer": "Continental AG",
-   "city": "Hannover",
-   "region": "NIEDERSACHSEN",
-   "published": "2026-11-17",
-   "updated": "2026-11-17T11:44:52.008",
-   "apply_url": "https://www.continental-karriere.de",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12745-984230596-S",
-   "posted_via": "Continental AG",
-   "fulltime_flag": true,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "data",
-    "development",
-    "entwicklung",
-    "python"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-11-17",
-   "description_excerpt": "**Unternehmensbeschreibung** Continental ist ein führender Reifenhersteller und Industriespezialist. Das 1871 gegründete Unternehmen erzielte 2025 einen Umsatz von 19,7 Milliarden Euro und beschäftigt aktuell rund 76.000 Mitarbeiterinnen und Mitarbeiter in 54 Ländern und Märkten. Reifenlösungen des Unternehmensbereichs Tires machen Mobilität sicherer und intelligenter. Sein Premium-Portfolio umfasst Pkw-, Lkw-, Bus-, Zweirad- und Spezialreifen sowie smarte Lösungen und Dienstleistungen für Flotten und den Reifenfachhandel. Continental steht seit mehr als 150 Jahren für innovative Spitzenleistungen und ist einer der größten Reifenhersteller weltweit. Im Geschäftsjahr 2025 erzielte der Unternehmensbereich Tires einen Umsatz von 13,8 Milliarden Euro. Weltweit beschäftigt Continental aktuell in ihrem Reifenbereich rund 53.000 Mitarbeiterinnen und Mitarbeiter und verfügt über 19 Produktions- und 16 Entwicklungsstandorte. **Stellenbeschreibung** Die Abteilung _Test Method Development - Physikalischer Materialtest_ an unserem **Standort Hannover-Stöcken** ist verantwortlich für die Entwicklung neuer Prüfmethoden im Materialtestbereich. Dies beinhaltet neben der Planung, Durchführung und Optimierung neuer Prüfkonzepte ebenfalls die Entwicklung innovativer Lösungen für die Datenverarbeitung und das Reporting. In diesem spannenden Umfeld bieten wir **zum nächstmöglichen Starttermin (Februar 2027)** eine Werkstudententätigkeit (m/w/d) im Rahmen von 20 Wochenstunden an. Für die bestmögli",
-   "prelim": 1
   },
   {
    "refnr": "10001-1004041227-S",
@@ -200,33 +171,6 @@
    "prelim": -1
   },
   {
-   "refnr": "12288-5002884939-S",
-   "title": "Werkstudent im Einkauf (m/w/d) - mittendrin statt nur dabei!",
-   "employer": "in-tech GmbH",
-   "city": "Garching bei München",
-   "region": "BAYERN",
-   "published": "2026-11-17",
-   "updated": "2026-11-17T18:06:41.524",
-   "apply_url": "https://www.persy.jobs/persy/l/job-jw171-b",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-5002884939-S",
-   "posted_via": "XING GmbH & Co. KG",
-   "fulltime_flag": true,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "daten",
-    "software"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-11-17",
-   "description_excerpt": "in-tech ist ein digitaler Lösungsanbieter für Automotive, Rail und Smart Industry. Als strategischer Entwicklungspartner begleiten wir unsere Kunden durch den gesamten Entwicklungsprozess - von Einzelkomponenten bis hin zu Komplettlösungen aus Hard- u. Software. Wir sind Ingenieure, Softwareentwickler, Techniker und Quereinsteiger #allgenders und arbeiten an der Mobilität der Zukunft. Wir sind orange! Du auch? Du bist auf der Suche nach einer Werkstudentenstelle, bei der du von Anfang an Verantwortung übernehmen und für mindestens sechs Monate Teil eines dynamischen Teams werden kannst? Dann bist du bei in-tech genau richtig! Wir leben Teamgeist, Offenheit und Mut zur Veränderung – und suchen Menschen, die mit uns gemeinsam die Zukunft gestalten. Bei uns zählt Eigeninitiative mehr als Perfektion und deine Meinung ist immer willkommen. Werde Teil unserer \"orange\" Kultur! Das sind deine Aufgaben Unterstützung bei der Bearbeitung von Bestellungen und Anfrageeingängen Vorbereitung und Durchführung von Lieferantenrecherchen sowie Angebotsvergleichen Mitwirkung bei der Auswahl und Bewertung von Lieferanten Erstellung und Pflege von Einkaufsdokumenten, Preisübersichten und Auswertungen Unterstützung bei der Optimierung von Einkaufsprozessen und Tools Kommunikation mit internen Fachbereichen und externen Partnern Das bringst du mit Du bist immatrikulierte:r Student:in der BWL, VWL, des Wirtschaftsingenieurwesens oder einer ähnlichen Studienrichtung Sehr gute MS Office Kenntnisse (ins",
-   "prelim": -1
-  },
-  {
    "refnr": "18406-0068875490-S",
    "title": "Werkstudent:in Teamassistenz (m/w/d)",
    "employer": "WBS TRAINING SE Berlin",
@@ -250,6 +194,32 @@
    "preferred_state": true,
    "first_seen": "2026-11-20",
    "description_excerpt": "**DEINE AUFGABEN.** Als Werkstudent:in (8h/Woche) bist du Teil eines sympathischen Teams am Standort Aschaffenburg bei der WBS TRAINING, eine Marke der WBS GRUPPE. Du erhältst einen umfassenden Einblick in administrative Abläufe und unterstützt aktiv unser Team im Tagesgeschäft. Du trägst dazu bei, dass Prozesse effizient laufen und unsere Kund:innen optimal betreut werden. * Selbstständige Erledigung allgemeiner Sekretariatsaufgaben. * Fertigstellung und termingerechter Versand von Angeboten, Verträgen und Zertifikaten sowie die Durchführung der vorbereitenden Buchhaltung. * Entgegennahme und Koordination eingehender Anrufe einschließlich der telefonischen Erstberatung unserer Kund:innen. * Empfang und Betreuung von Kund:innen und Gästen. * Terminplanung und Unterstützung der Weiterbildungsberater:innen. *Die Stelle ist vorerst für 12 Monate befristet. **DEINE STÄRKEN.** Begeistere dich mit uns für digitale Bildungsangebote und unterstütze uns dabei, Menschen vernetztes und ortsunabhängiges Lernen zu ermöglichen. Dabei bist du mit dem Herzen bei der Arbeit. Lebe mit uns Kundenzentrierung, Digitalisierung und sinnstiftende Arbeit. Durch deine empathische und kommunikative Art sorgst du nicht nur für besondere Kundenerlebnisse, sondern behältst stets mehrere Dinge gleichzeitig im Blick. WAS WIR BENÖTIGEN. * Ein aktuell laufendes Studium. * Einen sicheren Umgang mit MS Office-Anwendungen. * Eine zuverlässige, selbstständige und strukturierte Arbeitsweise. * Affinität zum Arbeit",
+   "prelim": -2
+  },
+  {
+   "refnr": "19192-260615-07377773-S",
+   "title": "Werkstudent (m/w/d) Bauingenieurwesen",
+   "employer": "Ingenieurbüro Funk",
+   "city": "Riedlingen, Württemberg",
+   "region": "BADEN_WUERTTEMBERG",
+   "published": "2026-11-21",
+   "updated": "2026-11-21T07:17:34.111",
+   "apply_url": "https://baugpt.com/jobs/werkstudent-m-w-d-bauingenieurwesen-e6vezksd-alt?utm_source=agenturfuerarbeit",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19192-260615-07377773-S",
+   "posted_via": "baugpt.com/jobs",
+   "fulltime_flag": true,
+   "topic_hits": [],
+   "core_hits_in_title": [],
+   "broad_hits": [
+    "software"
+   ],
+   "broad_only": true,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": false,
+   "preferred_state": true,
+   "first_seen": "2026-11-21",
+   "description_excerpt": "Stellenangebot: Werkstudent (m/w/d) Bauingenieurwesen Arbeitgeber: Ingenieurbüro Funk Arbeitsort: 88499 Riedlingen Vergütung: 28.500 € bis 43.100 € brutto pro Jahr Die ausgeschriebene Position \"Werkstudent (m/w/d) Bauingenieurwesen\" bietet ein konkretes berufliches Tätigkeitsfeld mit nachvollziehbar definierten Aufgaben und Anforderungen. Gesucht wird eine Fachkraft, die die aufgeführten Tätigkeiten übernehmen und die hierfür notwendigen Qualifikationen, Kenntnisse und gegebenenfalls beruflichen Erfahrungen einbringen kann. Die Aufgaben können je nach Stellenprofil sowohl praktische als auch organisatorische und koordinierende Elemente umfassen. Nachfolgend werden die tatsächlichen Stelleninhalte sowie die wesentlichen Rahmenbedingungen und Erwartungen an Bewerberinnen und Bewerber beschrieben. Stellenbeschreibung mit Aufgaben und Anforderungen Wir sind ein traditionsreiches Ingenieurbüro mit dem Firmensitz in Riedlingen/Baden-Württemberg. In lockerer Arbeitsatmosphäre sammelst Du gemeinsam mit unserem 25-köpfigen Team Erfahrungen in anspruchsvollen Infrastrukturprojekten. Wir decken ein breites Spektrum an Planungs- und Entwicklungsleistungen ab. Dabei legen wir Wert auf flache Hierarchien, kurze Wege und die Nutzung innovativer Technik. Das Ingenieurbüro Funk ist Teil der IGS Ingenieure Weimar. Damit kannst Du zusätzlich auf ein großes Expertennetzwerk unterschiedlichster Fachbereiche deutschland- und weltweit zugreifen. Wir bieten: * einen abwechslungsreichen Arbeitsplatz ",
    "prelim": -2
   },
   {
@@ -305,32 +275,6 @@
    "prelim": -2
   },
   {
-   "refnr": "12265-528574_JB5302392-S",
-   "title": "Werkstudent Technisches Projektmanagement (m/w/d)",
-   "employer": "FERCHAU GmbH Niederlassung Hannover",
-   "city": "Hannover",
-   "region": "NIEDERSACHSEN",
-   "published": "2026-11-20",
-   "updated": "2026-11-20T16:33:19.389",
-   "apply_url": "https://www.ferchau.de",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-528574_JB5302392-S",
-   "posted_via": "FERCHAU Engineering GmbH",
-   "fulltime_flag": true,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "entwicklung"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-11-20",
-   "description_excerpt": "Menschen und Technologien zu verbinden, den Perfect Match für unsere Kunden zu gestalten, immer die richtigen Expert:innen für die jeweilige Herausforderung zu finden - das ist unser Anspruch bei FERCHAU. Wir realisieren spannende Projekte für namhafte Kunden in allen Technologiebereichen und für alle Branchen und überzeugen täglich mit fundierter Expertise und fachlichem Know-how. Join our Team! Als Werkstudent:in im technischen Projektmanagement bringst du frischen Wind in unser Team und sammelst wertvolle Praxiserfahrung für deine berufliche Zukunft. ## Werkstudent Technisches Projektmanagement (m/w/d) **Dein Aufgabengebiet** * Unterstützung bei der Erstellung und Weiterentwicklung technischer Konzepte für Großprojekte und Infrastrukturvorhaben * Mitarbeit bei der Vorbereitung und Erstellung von Ausschreibungen, Leistungsverzeichnissen und technischen Dokumentationen * Begleitung der Projektleitung bei der Planung, Steuerung und Nachverfolgung von Projekten * Analyse technischer und wirtschaftlicher Anforderungen sowie Erarbeitung von Lösungsvorschlägen * Erstellung und Aufbereitung von Präsentationen, Entscheidungsvorlagen und Projektunterlagen für interne und externe Stakeholder * Teilnahme an Projektmeetings, Workshops und Abstimmungsterminen sowie der organisatorischen Vor- und Nachbereitung **Deine Benefits bei uns** * Flexible Arbeitszeitgestaltung durch Gleitzeitregelungen und Vertrauensarbeitszeit * Möglichkeit zum mobilen Arbeiten * Satte Rabatte mit Einkaufsvergü",
-   "prelim": -2
-  },
-  {
    "refnr": "16852-44578570-1117-S",
    "title": "Werkstudent:in Datenanalyse & Prozessoptimierung (m/w/d)",
    "employer": "BASF Services Europe GmbH",
@@ -354,6 +298,32 @@
    "preferred_state": true,
    "first_seen": "2026-11-18",
    "description_excerpt": "WILLKOMMEN BEI UNS In Freiburg im Breisgau, im Infrarhod-Industriepark, produzieren wir Polyamide für den weltweiten Textil- und Automobilmarkt. Unsere Produkte werden z. B. in der europäischen Textilindustrie zu Garnen weiterverarbeitet, die in Funktionstextilien namhafter Hersteller zum Einsatz kommen. Weiterhin werden anspruchsvolle Bauteile für die Automobilindustrie und die Elektromobilität aus unserem Produkt gefertigt. Darüber hinaus sind wir an der Verwertung und dem Vertrieb unserer Produkte beteiligt und unterstützen unsere Kunden durch maßgeschneiderte Lösungen und innovative Produkte. WAS SIE ERWARTET Sie möchten Ihr Wissen aus dem Studium praktisch anwenden und Einblicke in ein industrielles Produktionsumfeld gewinnen? Als Werkstudent:in unterstützen Sie uns bei einem praxisnahen Projekt zur Weiterentwicklung und Optimierung unseres PA66-Gießprozesses. Polyamid 66 (PA66) ist ein vielseitiger Hochleistungskunststoff, dessen Verarbeitung und Produkteigenschaften wesentlich von der Qualität des eingesetzten Granulats beeinflusst werden. Eine wichtige Rolle spielt dabei die Korngrößenverteilung, die unter anderem Einfluss auf den Materialfluss und die Bauteilqualität hat. Gemeinsam möchten wir diese Zusammenhänge systematisch untersuchen und datenbasiert besser verstehen. * Im Rahmen des Projekts bauen Sie eine strukturierte Datenbasis zur Korngrößenverteilung verschiedener PA66-Sorten auf, pflegen diese und werten die enthaltenen Daten systematisch aus. * Hierfür pl",
+   "prelim": -2
+  },
+  {
+   "refnr": "12265-528574_JB5302392-S",
+   "title": "Werkstudent Technisches Projektmanagement (m/w/d)",
+   "employer": "FERCHAU GmbH Niederlassung Hannover",
+   "city": "Hannover",
+   "region": "NIEDERSACHSEN",
+   "published": "2026-11-20",
+   "updated": "2026-11-20T16:33:19.389",
+   "apply_url": "https://www.ferchau.de",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-528574_JB5302392-S",
+   "posted_via": "FERCHAU Engineering GmbH",
+   "fulltime_flag": true,
+   "topic_hits": [],
+   "core_hits_in_title": [],
+   "broad_hits": [
+    "entwicklung"
+   ],
+   "broad_only": true,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": false,
+   "preferred_state": true,
+   "first_seen": "2026-11-20",
+   "description_excerpt": "Menschen und Technologien zu verbinden, den Perfect Match für unsere Kunden zu gestalten, immer die richtigen Expert:innen für die jeweilige Herausforderung zu finden - das ist unser Anspruch bei FERCHAU. Wir realisieren spannende Projekte für namhafte Kunden in allen Technologiebereichen und für alle Branchen und überzeugen täglich mit fundierter Expertise und fachlichem Know-how. Join our Team! Als Werkstudent:in im technischen Projektmanagement bringst du frischen Wind in unser Team und sammelst wertvolle Praxiserfahrung für deine berufliche Zukunft. ## Werkstudent Technisches Projektmanagement (m/w/d) **Dein Aufgabengebiet** * Unterstützung bei der Erstellung und Weiterentwicklung technischer Konzepte für Großprojekte und Infrastrukturvorhaben * Mitarbeit bei der Vorbereitung und Erstellung von Ausschreibungen, Leistungsverzeichnissen und technischen Dokumentationen * Begleitung der Projektleitung bei der Planung, Steuerung und Nachverfolgung von Projekten * Analyse technischer und wirtschaftlicher Anforderungen sowie Erarbeitung von Lösungsvorschlägen * Erstellung und Aufbereitung von Präsentationen, Entscheidungsvorlagen und Projektunterlagen für interne und externe Stakeholder * Teilnahme an Projektmeetings, Workshops und Abstimmungsterminen sowie der organisatorischen Vor- und Nachbereitung **Deine Benefits bei uns** * Flexible Arbeitszeitgestaltung durch Gleitzeitregelungen und Vertrauensarbeitszeit * Möglichkeit zum mobilen Arbeiten * Satte Rabatte mit Einkaufsvergü",
    "prelim": -2
   },
   {
@@ -383,29 +353,29 @@
    "prelim": -2
   },
   {
-   "refnr": "15939-BB-636051-7878-5802-S",
-   "title": "Werkstudent (m/w/d) Berechnung der Verfügbarkeit von Marineschiffen",
-   "employer": "Rheinmetall AG",
-   "city": "Lemwerder",
-   "region": "NIEDERSACHSEN",
-   "published": "2026-11-17",
-   "updated": "2026-11-17T14:03:15.044",
-   "apply_url": "https://www.rheinmetall.com",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15939-BB-636051-7878-5802-S",
-   "posted_via": "Rheinmetall AG",
-   "fulltime_flag": true,
+   "refnr": "16567-44586535-1120-S",
+   "title": "Werkstudent im Bereich Operations Innovation & Excellence (m/w/d)",
+   "employer": "Everllence SE",
+   "city": "Augsburg, Bayern",
+   "region": "BAYERN",
+   "published": "2026-11-21",
+   "updated": "2026-11-20T09:52:32.134",
+   "apply_url": "https://www.everllence.com",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16567-44586535-1120-S",
+   "posted_via": "Everllence SE",
+   "fulltime_flag": null,
    "topic_hits": [],
    "core_hits_in_title": [],
    "broad_hits": [
-    "entwicklung"
+    "data"
    ],
    "broad_only": true,
    "german_hard_required": false,
    "german_b_level_mentioned": false,
    "english_mentioned": false,
    "preferred_state": true,
-   "first_seen": "2026-11-17",
-   "description_excerpt": "WOFÜR WIR SIE SUCHEN * Erstellen von Funktionsblockdiagrammen für Teilsysteme von Marineschiffen in Zusammenarbeit mit Konstruktion und Zulieferern * Ableiten relevanter Kenndaten wie Fehlerraten und Ausfallzeiten aus vorhandenen Datenbanken und weiteren Quellen * Integrieren der ermittelten Kenndaten in Funktionsmodelle zur Bestimmung von Zuverlässigkeit und Verfügbarkeit * Weiterentwickeln bestehender Datenbanken und Unterstützen beim Datenmanagement * Dokumentieren und Aufbereiten der Ergebnisse in Berichtsform zur Übergabe an Kunden * Unterstützen der interdisziplinären Zusammenarbeit bei der Entwicklung und Optimierung von Funktionsmodellen * Aktuelle Immatrikulation in einem technischen Studiengang, beispielsweise Wirtschaftsingenieurwesen, Maschinenbau, Elektrotechnik oder Schiffbau * Analytisches Denken und Interesse an der Bewertung von Zuverlässigkeit und Verfügbarkeit technischer Systeme * Erste Erfahrungen im Umgang mit Datenbanken sowie Interesse an deren Weiterentwicklung * Kenntnisse in PLM-Systemen, beispielsweise Teamcenter oder Windchill * Eine zusätzliche technische Ausbildung ist von Vorteil * Eigenständige und strukturierte Arbeitsweise, Kommunikationsstärke und gutes Prozessverständnis * Sehr gute Deutschkenntnisse sowie gute Englischkenntnisse in Wort und Schrift * Flexbile Arbeitszeiten * Sportangebote * Mitarbeiterangebote * Mobiles Arbeiten * Kostenloses Parken * Mitarbeiterevents",
+   "first_seen": "2026-11-21",
+   "description_excerpt": "Das sollten Sie über uns wissen Everllence ebnet den Weg in eine klimaneutrale Weltwirtschaft. Ob Industrieproduktion, Energie- oder maritime Wirtschaft: Wir denken ganzheitlich und packen schon heute die Herausforderungen von morgen an - für eine nachhaltige Wertschöpfung unserer Kunden. In unserem Technologieportfolio steckt die Erfahrung aus über 250 Jahren Ingenieurstradition. Everllence hat seinen Hauptsitz in Deutschland und beschäftigt rund 15.000 Mitarbeiter an mehr als 120 Standorten weltweit. Unsere Kunden profitieren außerdem vom globalen Service-Center-Netzwerk unserer After-Sales Marke, Everllence PrimeServ. Folgende Aufgaben können wir Ihnen anbieten * Unterstützung bei der Dokumentation, Modellierung und Qualitätssicherung von Geschäftsprozessen * Pflege und Qualitätssicherung von Prozess- und Data Governance-Informationen * Unterstützung bei der Dokumentation und Pflege von Business Data Objects * Unterstützung bei OT-Security-Aktivitäten, z. B. bei Dokumentation, Auswertungen, Maßnahmen-Tracking und der Vorbereitung von Abstimmungen * Vorbereitung und Nachbereitung von Workshops, Reviews und Abstimmungen * Erstellung von Auswertungen, Präsentationen und Statusübersichten * Unterstützung bei Rollout-, Trainings- und Kommunikationsaktivitäten * Pflege von Guidelines, FAQs und Dokumentationen * Strukturierte Nachverfolgung von Maßnahmen, offenen Punkten und Verantwortlichkeiten * Unterstützung bei der kontinuierlichen Verbesserung unserer BPM- und Data-Governanc",
    "prelim": -2
   },
   {
@@ -435,32 +405,6 @@
    "prelim": -2
   },
   {
-   "refnr": "12811-2375782-S",
-   "title": "WERKSTUDENT (m/w/d) FÜR DIE BAULEITUNG - BAUVORHABEN BEI PFORZHEIM,Stuttgart,Karlsruhe",
-   "employer": "Bremer Süd GmbH",
-   "city": "Karlsruhe, Baden",
-   "region": "BADEN_WUERTTEMBERG",
-   "published": "2026-11-17",
-   "updated": "2026-11-18T07:02:30.698",
-   "apply_url": "https://www.finest-jobs.com/stellenanzeige/Werkstudent-D-Fuer-Die-Bauleitung-Bauvorhaben-Bei--1336796?cp=BA",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2375782-S",
-   "posted_via": "finest-jobs.com",
-   "fulltime_flag": false,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "entwicklung"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-11-17",
-   "description_excerpt": "WIR SIND: In Deutschland zählt BREMER zu den führenden Unternehmen im schlüsselfertigen Industrie- und Gewerbebau. Als ganzheitlicher Anbieter der Immobilien- und Bauwirtschaft begleiten wir unsere Kunden von der Projektentwicklung über die Fertigung in eigenen Werken bis zum schlüsselfertigen Bau und den Serviceleistungen für das Gebäude im laufenden Betrieb. Das 1947 gegründete Familienunternehmen agiert an siebzehn deutschen sowie einem tschechischen und zwei polnischen Standorten und erwirtschaftet derzeit eine Betriebsleistung von ca. 1.000 Mio. EUR. Rund 1.400 Mitarbeitende setzen sich täglich mit Leidenschaft für den Kundenerfolg ein. Entdecke den Wert einer Werkstudententätigkeit bei BREMER mit praxisnahen Aufgaben, die direkt auf dein Studium einzahlen. Bei uns profitierst du von erfahrener Betreuung durch Kollegen, die ihr Wissen gerne teilen und dich unterstützen. Du erhältst Einblicke in faszinierende Bauprojekte und wirst Teil eines motivierten Teams, das Innovationen vorantreibt. Nutze das \"learning on the job\" Prinzip für eine optimale Entwicklung und schaffe dir durch praktische Erfahrungen exzellente Perspektiven für den Berufseinstieg. Für unser Bauvorhaben bei Pforzheim suchen wir ab sofort Unterstützung. DEINE AUFGABEN: Du unterstützt die Bauleitung bei der Abwicklung eines spannenden Bauprojekts Du dokumentierst die Abläufe auf der Baustelle und stellst so ein reibungsloses und professionelles Baustellencontrolling sicher Du unterstützt bei der Koordinati",
-   "prelim": -2
-  },
-  {
    "refnr": "12811-2381873-S",
    "title": "Werkstudent (m/w/d) - Gestalte deine Zukunft in der Rodday-Family!, Eichstetten am Kaiserstuhl",
    "employer": "Initiativ",
@@ -484,32 +428,6 @@
    "preferred_state": true,
    "first_seen": "2026-11-19",
    "description_excerpt": "Verbinde Studium und Praxis auf die beste Art: Starte als Werkstudent:in in der Rodday-Family Unternehmensgruppe! In der Rodday-Family erlebst du von Anfang an Zusammenhalt, Menschlichkeit und moderne Arbeitsweisen. Du übernimmst Verantwortung, bringst deine Stärken ein und sammelst wertvolle Praxiserfahrung - ganz egal, aus welchem Studiengang du kommst. Gemeinsam finden wir den Einsatzbereich, der zu dir passt. Wir sind mehr als ein Unternehmen - wir sind eine Familie mit Vision! Der Servicegedanke ist bei dir ganz groß? Du siehst immer das große Ganze? Gemeinschaft ist für dich mehr als nur ein Wort? Das klingt nach Rodday Family. Die Rodday Family fungiert als Schnittstelle der Unternehmensgruppe für zentrale Services & Beratung. Unsere Unternehmensgruppe wächst stetig und beschäftigt bereits fast 500 engagierte Mitarbeiter:innen deutschlandweit! Deine Benefits bei uns - weil du den Unterschied machst Attraktive, leistungsgerechte Vergütung Offene, wertschätzende Unternehmenskultur mit echtem Teamgeist Corporate Benefits und attraktive Rabatte Starkes Wir-Gefühl durch abwechslungsreiche Mitarbeiter-Events Intensive Einarbeitung und professionelle Unterstützung Modernste technische Ausstattung, die effizientes Arbeiten ermöglicht Deine Aufgaben Unterstütze das Team im Tagesgeschäft und übernimm eigenständige Aufgaben Arbeite an kleinen Projekten mit und bringe deine Perspektive aktiv ein Recherche & Analyse: Sammle Informationen, bereite sie auf und liefere wertvolle Insig",
-   "prelim": -2
-  },
-  {
-   "refnr": "17453-0068798495-S",
-   "title": "Werksstudent/Studentische Hilfskraft am Uro-onkologischen Zentrum (w/m/d)",
-   "employer": "Ordenskliniken München-Passau gGmbH Standort Barmherzige Brüder KH MUC",
-   "city": "München",
-   "region": "BAYERN",
-   "published": "2026-11-17",
-   "updated": "2026-11-17T16:53:55.979",
-   "apply_url": "https://www.barmherzige-muenchen.de",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17453-0068798495-S",
-   "posted_via": "Krankenhaus der Barmherzigen Brüder",
-   "fulltime_flag": false,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "daten"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-11-17",
-   "description_excerpt": "Sie interessieren sich für einen Nebenjob mit interessanten Einblicken in die Uro-onkologie an einer der führenden urologischen Kliniken in Deutschland? Dann bewerben Sie sich jetzt! **Ihr Aufgabenbereich:** * Sie unterstützen unserurologisches Team in der Nachsorge unserer Patient:innen mit Prostatakarzinom, Urothelkarzinom und Nierenzellkarzinom. * Ihre Arbeitszeit beträgt ca. 16 Std./Woche. * Sie führen selbstständig telefonische Nachsorgegespräche mit Patient:innen durch, versenden Nachsorgebriefe und pflegen die aus der Nachsorge gewonnenen Erkenntnisse in unsere Dokumentationssysteme ein. * Bei Interesse ist eine wissenschaftliche Mitarbeit im Rahmen von klinischen Studien an unserer Klinik inkl. des Anfertigens einer medizinischen Promotion möglich. **Wen wir suchen:** * Sie sind Student:in der Medizin im klinischen Studienabschnitt in München. * Sie haben Freude an der unmittelbaren Arbeit mit uro-onkologischen Patient:innen. * Sie interessieren sich für die strukturierte Auswertung und Erfassung medizinischer Daten. * Empathie, Zuverlässigkeit, Aufgeschlossenheit und Strukturiertheit zeichnen Sie aus. * Sie identifizieren sich mit den Werten unseres christlichen Krankenhauses: Hospitalität, Qualität, Respekt, Verantwortung. **Was wir bieten:** * Sie können sich Ihre Arbeitszeit frei einteilen und einen Teil ihrer Arbeit bequem aus dem Home-Office erledigen. * In Ihrer Mittagspause können Sie günstig in unserer Kantine essen. * Wir vergüten nach den Richtlinien für Ar",
    "prelim": -2
   },
   {
@@ -693,6 +611,58 @@
    "preferred_state": false,
    "first_seen": "2026-11-20",
    "description_excerpt": "# Werkstudent:innen zur Unterstützung der Gruppenleitung Fachbereich Fahrzeugbeseitigung (m/w/d) Als einer der größten Arbeitgeber der Region sorgt das Land Berlin mit rund 138.000 Mitarbeitenden täglich dafür, dass Berlin als pulsierende Metropole und als Zuhause für ca. 3,9 Millionen Menschen funktioniert. Und im Bezirksamt Lichtenberg sorgen wir mit über 2.300 Kolleg:innen dafür, dass unser Bezirk für 310.000 Menschen lebenswert ist. Von Platte bis Schloss, Bucht bis Baulücke, Raver bis Rentner - in unserem Bezirk ist alles drin. Und wo alles drin ist, gibt‘s richtig was zu tun. Wir krempeln die Ärmel hoch, um den Bezirk jeden Tag besser zu machen. Deshalb suchen wir Menschen, denen es nicht egal ist, für wen oder was sie arbeiten. **Aktuell sucht unser Amt für regionalisierte Ordnungsaufgaben im Fachbereich Fahrzeugbeseitigung zwei engagierte Werkstudent:innen zur Unterstützung der Gruppenleitung Fachbereich Fahrzeugbeseitigung (m/w/d) Beschreibung** Das Amt für regionalisierte Ordnungsaufgaben ist berlinweit tätig. Im Fachbereich Fahrzeugbeseitigung entfernen Sie Fahrzeuge, die den Verkehr blockieren oder die Sicherheit gefährden. Sie koordinieren Abschleppaktionen durch autorisierte Dienstleister und arbeiten eng mit der Polizei und Verkehrsbehörden zusammen. Zudem überwachen Sie den Fortschritt der Maßnahmen und tragen dazu bei, die öffentliche Sicherheit und die Durchgängigkeit der Straßen zu verbessern. ## Ihre Aufgaben - Auswertung und Berücksichtigung aktueller Ger",
+   "prelim": -5
+  },
+  {
+   "refnr": "15537-JOB-873698-S",
+   "title": "Werkstudent - Tax (m/w/d) (Kassel Hybrid, DE)",
+   "employer": "SMA Solar Technology AG",
+   "city": "Niestetal",
+   "region": "HESSEN",
+   "published": "2026-11-21",
+   "updated": "2026-11-21T07:19:48.764",
+   "apply_url": "https://www.karriere-in-nordhessen.de/stellenangebot/werkstudent-tax-kassel-hybrid-de-873698",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15537-JOB-873698-S",
+   "posted_via": "ontavio GmbH karriere-in-nordhessen.de",
+   "fulltime_flag": true,
+   "topic_hits": [],
+   "core_hits_in_title": [],
+   "broad_hits": [
+    "daten"
+   ],
+   "broad_only": true,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": false,
+   "preferred_state": false,
+   "first_seen": "2026-11-21",
+   "description_excerpt": "Unsere Steuerabteilung verantwortet alle steuerlichen Fragestellungen des Unternehmens – von Compliance und Deklaration bis hin zu Beratung und Projekten. Wir sichern steuerliche Risiken ab, optimieren Prozesse und begleiten Betriebsprüfungen sowie interne Stakeholder entlang der Finance‑Prozesse. Dabei arbeiten wir daten- und lösungsorientiert mit Fokus auf Qualität, Termineinhaltung und praktikable Umsetzung. Deine Mission – das erwartet dich bei uns: - Umsatzsteuer – Unterstützung bei der Einhaltung steuerlicher Vorgaben mit Fokus auf umsatzsteuerliche Sachverhalte im Tagesgeschäft und bei wiederkehrenden Prozessen. - Meldungen & Anträge – Mitwirkung bei der Vorbereitung, Prüfung und Dokumentation steuerlicher Anträge, Voranmeldungen und weiterer relevanter Meldungen. - Bescheinigungen – Mitarbeit bei der Erstellung, Bearbeitung und Nachverfolgung steuerlicher Bescheinigungen sowie bei der Ablage und Strukturierung der Unterlagen. - Ad-hoc-Themen – Unterstützung bei kurzfristigen steuerlichen Aufgaben und Fragestellungen, bei denen sauberes Arbeiten und schnelle Orientierung gefragt sind. - Zusammenarbeit – Enge Abstimmung mit Kolleg*innen aus dem Tax-Team sowie angrenzenden Fachbereichen, um Informationen zusammenzuführen und Lösungen vorzubereiten. Dein Profil – das bringst du mit: - Fortgeschrittenes Bachelorstudium oder laufendes Masterstudium im Bereich Wirtschaftswissenschaften oder einer verwandten Fachrichtung. - Analytische Fähigkeiten, schnelle Auffassungsgabe un",
+   "prelim": -5
+  },
+  {
+   "refnr": "12811-2382531-S",
+   "title": "Werkstudent (m/w/d) Human Relations mit dem Schwerpunkt Personalmanagement, Mainz",
+   "employer": "DAL",
+   "city": "Mainz am Rhein",
+   "region": "RHEINLAND_PFALZ",
+   "published": "2026-11-20",
+   "updated": "2026-11-20T17:31:37.633",
+   "apply_url": "https://www.finest-jobs.com/stellenanzeige/Werkstudent-D-Human-Relations-Mit-Dem-Schwerpunkt--1327736?cp=BA",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2382531-S",
+   "posted_via": "finest-jobs.com",
+   "fulltime_flag": false,
+   "topic_hits": [],
+   "core_hits_in_title": [],
+   "broad_hits": [
+    "daten"
+   ],
+   "broad_only": true,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": false,
+   "preferred_state": false,
+   "first_seen": "2026-11-21",
+   "description_excerpt": "Du willst deine Zukunft so früh wie möglich sinnvoll gestalten? Wir suchen ab sofort am Standort Mainz einen Werkstudent (m/w/d) Human Relations mit dem Schwerpunkt Personalmanagement. Es gibt viel zu tun: Arbeitszeugnisse: Du erstellst eigenständig Zwischen- und Endzeugnissen. Allgemeine administrative Aufgaben: Du unterstützt im Tagesgeschäft, bereitest Unterlagen, Berichte und Präsentationen vor und hilfst dabei, den administrativen Ablauf reibungslos zu gestalten. Scannen und Archivieren von Unterlagen: Du digitalisierst und archivierst Personalunterlagen in unserem Personalmanagement-System und hilfst bei der Organisation sowie Strukturierung der digitalen Personalakte. Bearbeitung von BR-Anträgen: Du bereitest Anträge an den Betriebsrat vor. Personalmanagementsystem: Du unterstützt bei der Pflege und Korrektur von Arbeitszeiten, Abwesenheiten und anderen relevanten Daten in unserem Zeitmanagementsystem (rexx). HR-Projektarbeit: Du wirkst in HR-Projekten mit. Was wir uns von dir wünschen: Eingeschriebener Student (m/w/d) im Bereich Betriebswirtschaft, Personalmanagement, Arbeitsrecht oder einem verwandten Studiengang Erste praktische Erfahrungen in der Personalabteilung sind von Vorteil Sehr gute Deutschkenntnisse in Wort und Schrift und erste Erfahrungen im Umgang mit MS Office Teamfähigkeit und ein hohes Maß an Zuverlässigkeit Selbstständige und strukturierte Arbeitsweise Diskretion und Vertrauenswürdigkeit. Unser Angebot für dich: Dich erwartet eine ausführliche Onboa",
    "prelim": -5
   },
   {
