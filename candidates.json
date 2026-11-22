@@ -1,36 +1,7 @@
 {
- "generated": "2026-11-21",
- "count": 26,
+ "generated": "2026-11-22",
+ "count": 20,
  "jobs": [
-  {
-   "refnr": "15584-k50989.2580-S",
-   "title": "Werkstudent Elektronikentwicklung (m/w/d) für den Bereich Schaltnetzteilentwicklung",
-   "employer": "Gebrüder Frei GmbH & Co. KG",
-   "city": "Albstadt, Württemberg",
-   "region": "BADEN_WUERTTEMBERG",
-   "published": "2026-11-18",
-   "updated": "2026-11-18T13:52:07.870",
-   "apply_url": "https://www.frei.de",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15584-k50989.2580-S",
-   "posted_via": "Gebrüder Frei GmbH & Co. KG",
-   "fulltime_flag": false,
-   "topic_hits": [
-    "simulation"
-   ],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "entwicklung",
-    "simulation"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-11-18",
-   "description_excerpt": "# Werkstudent Elektronikentwicklung (m/w/d) für den Bereich Schaltnetzteilentwicklung in Albstadt Wenn es um hochwertige elektronische Komponenten für die verschiedensten Einsatzmöglichkeiten bei Systemen für elektrisch betriebene Arbeitsmaschinen sowie in weiten Bereichen der Industrie und der Medizintechnik geht, sind wir eine erste Adresse. Mittelständisch strukturiert, im Markt hervorragend etabliert, mit einer guten Mischung aus Erfahrung und Dynamik. Derzeit beschäftigen wir 180 Mitarbeiter. Um unsere erfolgreiche Position am Markt weiter auszubauen, suchen wir Sie als # Ihre Aufgaben Sie haben Ihren Bachelor in Elektrotechnik abgeschlossen und möchten Ihre Kenntnisse praktisch anwenden? Bei uns arbeiten Sie an echten Entwicklungsprojekten rund um AC/DC- und DC/DC-Schaltnetzteile mit – von der ersten Schaltungsidee über Simulationen bis zur Messung am Prototyp. In unserem kleinen Entwicklungsteam werden Sie von erfahrenen Kollegen begleitet und können Schritt für Schritt eigene Aufgaben übernehmen: - Mitarbeit bei der Entwicklung und Optimierung elektronischer Schaltungen und moderner Schaltnetzteile. - Simulation von Schaltungen und Leistungsstufen sowie Vergleich der Ergebnisse mit realen Messungen. - Aufbau, Inbetriebnahme und Untersuchung von Prototypen im Labor, z. B. hinsichtlich Wirkungsgrad, Temperatur und Regelverhalten. - Unterstützung bei Schaltplänen, PCB-Layouts und der Auswahl elektronischer Bauteile. - Bearbeitung kleiner eigener Entwicklungs- und Versuch",
-   "prelim": 2
-  },
   {
    "refnr": "10001-1004041227-S",
    "title": "Werkstudent (w/m/d) - Frontend Development & UI/UX / 1706",
@@ -117,33 +88,6 @@
    "prelim": 0
   },
   {
-   "refnr": "14244-BB-440178-7878-5743-S",
-   "title": "Werkstudent im Team Rechtsdienstleister Netzwerk (m/w/d)",
-   "employer": "ARAG SE",
-   "city": "Düsseldorf",
-   "region": "NORDRHEIN_WESTFALEN",
-   "published": "2026-11-18",
-   "updated": "2026-11-18T17:08:58.856",
-   "apply_url": "https://www.arag.de",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14244-BB-440178-7878-5743-S",
-   "posted_via": "ARAG Allgemeine Versicherungs AG",
-   "fulltime_flag": false,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "daten",
-    "entwicklung"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-11-18",
-   "description_excerpt": "Warum du bei der ARAG genau richtig bist? Weil es bei uns um mehr geht als nur um einen Job. Dich erwarten nicht nur spannende Aufgaben, sondern eine Tätigkeit mit direktem Bezug zu unserer Gründungsidee: Wir helfen Menschen - indem wir sie dabei unterstützen, ihr Recht durchzusetzen. Dafür brauchen wir dich, mit allem, was dich ausmacht. Mit deinen Fähigkeiten trägst du dazu bei, dass wir für unsere Kund:innen da sind, wenn es wirklich darauf ankommt. Bei uns kannst du deine Stärken in einem international erfolgreichen Familienunternehmen entfalten. Mit einem aktiven Diversity Management, der Unterzeichnung der Charta der Vielfalt sowie vielfältigen Weiterbildungs- und Entwicklungsmöglichkeiten schaffen wir Rahmenbedingungen für unterschiedliche Karrierewege und berufliche Entwicklung. Klingt interessant? Dann bewirb dich bei uns. Wir freuen uns auf dich! * Du unterstützt bei der Bearbeitung und Dokumentation von Beschwerden im Umfeld unserer Partnerkanzleien und Rechtsdienstleister * Du erhältst eine fundierte Einarbeitung in unser Schadensystem, um bei Prozessen rund um Datenpflege, Auswertungen und dienstleisterbezogene Abläufe mitzuarbeiten * Du übernimmst die Pflege, Aufbereitung und Qualitätssicherung von Daten und Informationen (z. B. zu Dienstleistern, Prozessen, Übersichten) * Du unterstützt im Netzwerkmanagement sowie im operativen Tagesgeschäft des Teams * Du wirkst bei der Analyse, Dokumentation und Weiterentwicklung bestehender Prozesse mit * Du aktualisierst un",
-   "prelim": -1
-  },
-  {
    "refnr": "12811-2381464-S",
    "title": "Werkstudent * im Bereich Patente, CTC",
    "employer": "Weidmüller Interface GmbH & Co. KG",
@@ -223,32 +167,6 @@
    "prelim": -2
   },
   {
-   "refnr": "18346-0068823260-S",
-   "title": "Werkstudent Datenerfassung & Stammdatenpflege (m/w/d)",
-   "employer": "Heizkurier GmbH",
-   "city": "Wachtberg",
-   "region": "NORDRHEIN_WESTFALEN",
-   "published": "2026-11-18",
-   "updated": "2026-11-18T16:10:33.444",
-   "apply_url": "https://www.heizkurier.de",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18346-0068823260-S",
-   "posted_via": "Heizkurier GmbH",
-   "fulltime_flag": null,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "daten"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-11-18",
-   "description_excerpt": "**DEINE VORTEILE** * **Job mit Weitblick!** Sammle wertvolle Praxiserfahrung neben deinem Studium, bring deine Ideen ein und entwickle dich gemeinsam mit uns weiter. * **Studium im Blick!** Mit flexiblen Arbeitszeiten lässt sich dein Job gut mit Vorlesungen, Prüfungen und deinem Studienalltag vereinbaren. * **Mittendrin statt nur dabei!** Bei uns übernimmst du echte Aufgaben und arbeitest aktiv an aktuellen Themen und Projekten mit. * **Starte gut durch!** Ein persönliches Onboarding und eine strukturierte Einarbeitung sorgen dafür, dass du dich schnell bei uns zurechtfindest. * **Lerne fürs echte Berufsleben!** Bei uns bekommst du praktische Einblicke in Unternehmensprozesse und sammelst Erfahrungen, die über die Theorie im Studium hinausgehen. * **Willkommen im Team!** Dich erwartet ein motiviertes Team mit kurzen Wegen, offener Kommunikation und flachen Hierarchien. * **Feier mit uns!** Ob Betriebsfest, Weihnachtsfeier oder gemeinsames Meetup – als Werkstudent:in bist du natürlich mit dabei. **DEINE AUFGABEN** * Erfassung und Pflege von Stamm- und Bewegungsdaten im ERP-System * Anlage und Aktualisierung von Kunden-, Lieferanten-, Artikel- und weiteren Stammdaten * Übertragung bestehender Datenbestände aus Altsystemen, Excel-Listen und weiteren Datenquellen * Vorbereitung und Durchführung von Datenimporten * Prüfung vorhandener Datensätze auf Vollständigkeit, Richtigkeit und Aktualität * Identifikation und Bereinigung fehlerhafter, unvollständiger oder doppelt vorhandener D",
-   "prelim": -2
-  },
-  {
    "refnr": "12706-44582056-1118-S",
    "title": "Werkstudent Nationale Planungsprodukte (m/w/d)",
    "employer": "Amprion GmbH",
@@ -272,32 +190,6 @@
    "preferred_state": true,
    "first_seen": "2026-11-19",
    "description_excerpt": "Amprion verbindet. Unser Übertragungsnetz transportiert Strom für 29 Millionen Menschen in einem Gebiet von der Nordsee bis zu den Alpen. Dort wird ein Drittel der deutschen Wirtschaftsleistung erzeugt. Unsere Leitungen sind Lebensadern der Gesellschaft. Wir halten unser Netz stabil und sicher - und bereiten den Weg für die Energiewende: Wir bauen unser Netz aus und arbeiten an neuen Ideen für ein klimaverträgliches, sicheres und effizientes Energiesystem. DEINE AUFGABEN: * Unterstützung der Abteilung Nationale Planungsprodukte im operativen Tagesgeschäft * Entwicklung sowie Implementierung von automatisierten Visualisierungsroutinen für unterschiedliche Anwendungsfälle im Rahmen der Zielnetzplanung * Mitarbeit in nationalen Planungsprozessen sowie in Behörden- und Stakeholder-Prozessen im Bereich der Zielnetzplanung * Durchführung von Stromnetzsimulationen zur quantitativen Bewertung von Netzausbauprojekten * Aufbereitung von Analyseergebnissen sowie Erstellung von Präsentationen, Entscheidungsvorlagen und Berichten für interne und externe Stakeholder DEIN PROFIL: * laufendes fortgeschrittenes Studium der Elektrotechnik, des Wirtschaftsingenieurwesens, der Energiewirtschaft oder eines vergleichbaren Studiengangs * grundlegende Kenntnisse der Energiewirtschaft, idealerweise mit Bezug zu Übertragungsnetzen * gute Programmierkenntnisse in MATLAB sowie guter Umgang mit Visualisierungswerkzeugen wie bspw. QGIS * analytische Denkweise sowie Interesse an energiewirtschaftlichen und",
-   "prelim": -2
-  },
-  {
-   "refnr": "16852-44578570-1117-S",
-   "title": "Werkstudent:in Datenanalyse & Prozessoptimierung (m/w/d)",
-   "employer": "BASF Services Europe GmbH",
-   "city": "Freiburg im Breisgau",
-   "region": "BADEN_WUERTTEMBERG",
-   "published": "2026-11-18",
-   "updated": "2026-11-19T17:35:42.343",
-   "apply_url": "https://www.basf.com/global/de/careers.html",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16852-44578570-1117-S",
-   "posted_via": "BASF Services Europe GmbH",
-   "fulltime_flag": false,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "daten"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-11-18",
-   "description_excerpt": "WILLKOMMEN BEI UNS In Freiburg im Breisgau, im Infrarhod-Industriepark, produzieren wir Polyamide für den weltweiten Textil- und Automobilmarkt. Unsere Produkte werden z. B. in der europäischen Textilindustrie zu Garnen weiterverarbeitet, die in Funktionstextilien namhafter Hersteller zum Einsatz kommen. Weiterhin werden anspruchsvolle Bauteile für die Automobilindustrie und die Elektromobilität aus unserem Produkt gefertigt. Darüber hinaus sind wir an der Verwertung und dem Vertrieb unserer Produkte beteiligt und unterstützen unsere Kunden durch maßgeschneiderte Lösungen und innovative Produkte. WAS SIE ERWARTET Sie möchten Ihr Wissen aus dem Studium praktisch anwenden und Einblicke in ein industrielles Produktionsumfeld gewinnen? Als Werkstudent:in unterstützen Sie uns bei einem praxisnahen Projekt zur Weiterentwicklung und Optimierung unseres PA66-Gießprozesses. Polyamid 66 (PA66) ist ein vielseitiger Hochleistungskunststoff, dessen Verarbeitung und Produkteigenschaften wesentlich von der Qualität des eingesetzten Granulats beeinflusst werden. Eine wichtige Rolle spielt dabei die Korngrößenverteilung, die unter anderem Einfluss auf den Materialfluss und die Bauteilqualität hat. Gemeinsam möchten wir diese Zusammenhänge systematisch untersuchen und datenbasiert besser verstehen. * Im Rahmen des Projekts bauen Sie eine strukturierte Datenbasis zur Korngrößenverteilung verschiedener PA66-Sorten auf, pflegen diese und werten die enthaltenen Daten systematisch aus. * Hierfür pl",
    "prelim": -2
   },
   {
@@ -376,32 +268,6 @@
    "preferred_state": true,
    "first_seen": "2026-11-21",
    "description_excerpt": "Das sollten Sie über uns wissen Everllence ebnet den Weg in eine klimaneutrale Weltwirtschaft. Ob Industrieproduktion, Energie- oder maritime Wirtschaft: Wir denken ganzheitlich und packen schon heute die Herausforderungen von morgen an - für eine nachhaltige Wertschöpfung unserer Kunden. In unserem Technologieportfolio steckt die Erfahrung aus über 250 Jahren Ingenieurstradition. Everllence hat seinen Hauptsitz in Deutschland und beschäftigt rund 15.000 Mitarbeiter an mehr als 120 Standorten weltweit. Unsere Kunden profitieren außerdem vom globalen Service-Center-Netzwerk unserer After-Sales Marke, Everllence PrimeServ. Folgende Aufgaben können wir Ihnen anbieten * Unterstützung bei der Dokumentation, Modellierung und Qualitätssicherung von Geschäftsprozessen * Pflege und Qualitätssicherung von Prozess- und Data Governance-Informationen * Unterstützung bei der Dokumentation und Pflege von Business Data Objects * Unterstützung bei OT-Security-Aktivitäten, z. B. bei Dokumentation, Auswertungen, Maßnahmen-Tracking und der Vorbereitung von Abstimmungen * Vorbereitung und Nachbereitung von Workshops, Reviews und Abstimmungen * Erstellung von Auswertungen, Präsentationen und Statusübersichten * Unterstützung bei Rollout-, Trainings- und Kommunikationsaktivitäten * Pflege von Guidelines, FAQs und Dokumentationen * Strukturierte Nachverfolgung von Maßnahmen, offenen Punkten und Verantwortlichkeiten * Unterstützung bei der kontinuierlichen Verbesserung unserer BPM- und Data-Governanc",
-   "prelim": -2
-  },
-  {
-   "refnr": "15356-44578259-1117-S",
-   "title": "Werkstudent Digital Learning in der Global Academy (d/w/m)",
-   "employer": "Ottobock SE & Co. KGaA",
-   "city": "Duderstadt, Niedersachsen",
-   "region": "NIEDERSACHSEN",
-   "published": "2026-11-18",
-   "updated": "2026-11-17T10:51:58.029",
-   "apply_url": "https://www.ottobock.com",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15356-44578259-1117-S",
-   "posted_via": "Ottobock SE & Co. KGaA",
-   "fulltime_flag": false,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "informatik"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": true,
-   "first_seen": "2026-11-18",
-   "description_excerpt": "Ottobock SE & Co. KGaA Ziel der Stelle Die Werkstudententätigkeit im Bereich Academy Service & Online Learning der Global Academy ermöglicht es Dir, das Tagesgeschäft eines global tätigen Unternehmens kennenzulernen. Mit unserem Learning Management System \"myLearning\" stellen wir sicher, dass jede/r Anwender*in weltweit ein passgenaues Training erhält - sei es in der Form eines Auffrischungskurses z.B. in Biomechanik, Anatomie oder aber eines Zertifizierungskurses für eines unserer Hightech-Produkte. Wir suchen Dich ab sofort als Verstärkung unseres Teams mit 20 Wochenstunden. Aufgaben * Du bist verantwortlich für die Administration des Learning Management Systems * Dabei arbeitest Du an diesen Kernthemen: Benutzerverwaltung: Erstellung, Bearbeitung und Löschen von Benutzerkonten * Zuweisung von Rollen und Berechtigungen (z.B. Administrator*in, Trainer*in, Lerner*in) * Verwaltung von Benutzergruppen und deren Zugriffsrechten * Kurs- und Inhaltsverwaltung: Erstellung, Bearbeitung und Löschen von Kursen und Lerninhalten * Upload und Organisation von Lernmaterialien (Texte, Videos, interaktive Inhalte) * Zuweisung von Kursen zu bestimmten Benutzer*innen oder Gruppen Profil * Du bist Student*in (Bachelor oder Master) der Fachrichtungen (Wirtschafts-)Informatik, Neue Medien oder einer vergleichbaren Fachrichtung * Du bringst idealerweise erste praktische Erfahrungen mit IT-Systemen/digitalen Lernformaten wie z.B. E-Learning, Blended Learning und neuen Lerntechnologien mit * Du beh",
    "prelim": -2
   },
   {
@@ -484,32 +350,6 @@
    "prelim": -5
   },
   {
-   "refnr": "10000-1208708940-S",
-   "title": "Werkstudent*in im Sicherheitsmanagement",
-   "employer": "Deutsche Rentenversicherung Bund",
-   "city": "Berlin",
-   "region": "BERLIN",
-   "published": "2026-11-18",
-   "updated": "2026-11-18T09:39:38.227",
-   "apply_url": "http://www.arbeitsagentur.de",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208708940-S",
-   "posted_via": "arbeitsagentur.de",
-   "fulltime_flag": true,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "daten"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": false,
-   "first_seen": "2026-11-18",
-   "description_excerpt": "Tätigkeitsbereich Bist du auf der Suche nach neuen Herausforderungen und möchtest während deines Studiums Berufserfahrung sammeln in einem Unternehmen, welches zu dir passt? Die Abteilung „Unternehmenssicherheit“ nimmt als zentrale Dienstleisterin der Deutschen Rentenversicherung Bund (DRV Bund) Aufgaben der IT und physischen Sicherheit, des Schutzes personenbezogener Daten, des Geheimschutzes und Notfallmanagements sowie Grundsatz- und Querschnittsaufgaben wahr. Die ausgeschriebene Stelle bezieht sich auf den Bereich Sicherheitsmanagement, welcher den Schutz der Beschäftigten und der Liegenschaften der DRV Bund, des Business Continuity Management der kritischen Dienstleistungen der DRV Bund sowie die abteilungsinterne Umsetzung des IT-Grundschutz verantwortet. Die Position ist befristet für 12 Monate, mit der Option einer Verlängerung. Ihre Aufgaben Unterstützung bei der Beratung interner Auftraggeber\\*innen zur Umsetzung, Aufrechterhaltung und Optimierung von Sicherheitsmaßnahmen Mitwirkung bei der Erstellung individueller Sicherheitskonzepte, insbesondere im Bereich der Gebäudesicherheit und zum Schutz von Mitarbeitenden Unterstützung bei der Überprüfung der Wirksamkeit von Sicherheitsmaßnahmen vor Ort sowie Auswertung und Dokumentation der Ergebnisse zur Qualitätssicherung Unterstützung bei der Abstimmung mit externen Stellen, beispielsweise Ministerien oder Strafverfolgungsbehörden Mitwirkung bei der Vorbereitung, Begleitung und Nachbereitung von Audits zur Optimierung v",
-   "prelim": -5
-  },
-  {
    "refnr": "15588-109225X356358-S",
    "title": "Werkstudent Controlling (m/w/d)",
    "employer": "Indaver Deutschland GmbH",
@@ -536,32 +376,6 @@
    "prelim": -5
   },
   {
-   "refnr": "10001-1004049021-S",
-   "title": "Werkstudent (m/w/d) in Frankfurt",
-   "employer": "Cultura Select GmbH Hardtstr. 76185 Karlsruhe",
-   "city": "Frankfurt am Main",
-   "region": "HESSEN",
-   "published": "2026-11-20",
-   "updated": "2026-11-20T12:53:20.073",
-   "apply_url": "http://www.arbeitsagentur.de",
-   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004049021-S",
-   "posted_via": "arbeitsagentur.de",
-   "fulltime_flag": null,
-   "topic_hits": [],
-   "core_hits_in_title": [],
-   "broad_hits": [
-    "entwicklung"
-   ],
-   "broad_only": true,
-   "german_hard_required": false,
-   "german_b_level_mentioned": false,
-   "english_mentioned": false,
-   "preferred_state": false,
-   "first_seen": "2026-11-20",
-   "description_excerpt": "# Pädagogik ist mehr als Betreuung. Sie ist Beziehung, Entwicklung und Vertrauen. Bei Cultura Select wissen wir, wie viel Aufmerksamkeit, Einfühlungsvermögen und Verantwortung die tägliche Arbeit mit Kindern erfordert. Jedes Kind bringt seine eigene Persönlichkeit, seine Bedürfnisse und sein ganz individuelles Entwicklungstempo mit. Genau deshalb braucht es Menschen, die hinschauen, verstehen und Kinder in ihrer Entwicklung begleiten. Du studierst einen pädagogischen Studiengang und möchtest neben deinem Studium praktische Erfahrungen sammeln und dein theoretisches Wissen im Alltag einbringen? Dann suchen wir dich als **studentische Aushilfe (m/w/d) für den Einsatz in Kindertagesstätten.** ## Was uns besonders macht Wir sind auf den pädagogischen Bereich spezialisiert und wissen, dass gute pädagogische Arbeit engagierte Menschen braucht. Wir beschäftigen uns mit unterschiedlichen pädagogischen Konzepten, den Herausforderungen im Einrichtungsalltag und den Menschen, die diesen Alltag gestalten. Unser Anspruch ist es, dich in einer Einrichtung einzusetzen, in der du deine Interessen, deine fachlichen Kenntnisse und deine persönlichen Stärken einbringen kannst. ## Deine Aufgaben - Du unterstützt die pädagogischen Fachkräfte im täglichen Einrichtungsalltag. - Du begleitest Kinder beim Spielen, Entdecken und Lernen. - Du unterstützt bei altersgerechten Bildungs-, Spiel- und Beschäftigungsangeboten. - Du schaffst gemeinsam mit dem Team eine vertrauensvolle Umgebung, in der Kinder s",
-   "prelim": -5
-  },
-  {
    "refnr": "19447-k61580.1089-S",
    "title": "Werkstudent (m/w/d) Wohngruppe",
    "employer": "Sozialdienst katholischer Frauen e.V.",
@@ -585,6 +399,32 @@
    "preferred_state": false,
    "first_seen": "2026-11-19",
    "description_excerpt": " Werkstudent (m/w/d) Wohngruppe Gestalten Sie mit uns eine zukunftsorientierte Gesellschaft 20 Stunden die Woche • unbefristet • Frühester Beginn ab 2027-01-01 Das Familienzentrum Monikahaus vereint seit 125 Jahren vielfältige Hilfen unter einem Dach. Mit über 180 Fachkräften machen wir uns stark für Kinder, Jugendliche, Frauen und Familien. Vielfalt und Wertschätzung prägen unsere Arbeit – bunt, inklusiv und innovativ. Gestalten Sie mit uns eine zukunftsorientierte Gesellschaft. In unseren drei vollstationären Wohngruppen im Familienzentrum Monikahaus geben wir bis zu 25 Kindern und Jugendlichen ab 4 Jahren, die nicht bei ihren Eltern oder in ihrem sozialen Umfeld leben können, ein sicheres Zuhause. # Ihre Aufgaben - Gemeinsam mit dem Team der Wohngruppe begleiten Sie unsere Kinder (4 -7 Jahre alt) auf dem Weg in ein selbstbestimmtes Leben - Sie gestalten gemeinsame Mahlzeiten, bieten Unterstützung bei Hausaufgaben und der Freizeitgestaltung - Sie helfen bei den täglichen anfallenden Aufgaben und unterstützen die Kinder bei der Entwicklung neuer Perspektiven # Ihr Profil - Sie befinden sich aktuell im Studium der Pädagogik, Erziehungswissenschaften, Soziale Arbeit oder ähnliches und befinden sich bereits (min.) im 3. Semester - Sie vereinen Herz, Kreativität und pädagogische Kompetenz, um unsere jungen Bewohner:innen in ihrer Entwicklung zu starken und selbstbewussten Persönlichkeiten zu unterstützen und zu begleiten - Sie sind bereit, in Wechselschicht mit dem Schwerpunkt a",
+   "prelim": -5
+  },
+  {
+   "refnr": "10001-1004049021-S",
+   "title": "Werkstudent (m/w/d) in Frankfurt",
+   "employer": "Cultura Select GmbH Hardtstr. 76185 Karlsruhe",
+   "city": "Frankfurt am Main",
+   "region": "HESSEN",
+   "published": "2026-11-20",
+   "updated": "2026-11-20T12:53:20.073",
+   "apply_url": "http://www.arbeitsagentur.de",
+   "arbeitsagentur_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004049021-S",
+   "posted_via": "arbeitsagentur.de",
+   "fulltime_flag": null,
+   "topic_hits": [],
+   "core_hits_in_title": [],
+   "broad_hits": [
+    "entwicklung"
+   ],
+   "broad_only": true,
+   "german_hard_required": false,
+   "german_b_level_mentioned": false,
+   "english_mentioned": false,
+   "preferred_state": false,
+   "first_seen": "2026-11-20",
+   "description_excerpt": "# Pädagogik ist mehr als Betreuung. Sie ist Beziehung, Entwicklung und Vertrauen. Bei Cultura Select wissen wir, wie viel Aufmerksamkeit, Einfühlungsvermögen und Verantwortung die tägliche Arbeit mit Kindern erfordert. Jedes Kind bringt seine eigene Persönlichkeit, seine Bedürfnisse und sein ganz individuelles Entwicklungstempo mit. Genau deshalb braucht es Menschen, die hinschauen, verstehen und Kinder in ihrer Entwicklung begleiten. Du studierst einen pädagogischen Studiengang und möchtest neben deinem Studium praktische Erfahrungen sammeln und dein theoretisches Wissen im Alltag einbringen? Dann suchen wir dich als **studentische Aushilfe (m/w/d) für den Einsatz in Kindertagesstätten.** ## Was uns besonders macht Wir sind auf den pädagogischen Bereich spezialisiert und wissen, dass gute pädagogische Arbeit engagierte Menschen braucht. Wir beschäftigen uns mit unterschiedlichen pädagogischen Konzepten, den Herausforderungen im Einrichtungsalltag und den Menschen, die diesen Alltag gestalten. Unser Anspruch ist es, dich in einer Einrichtung einzusetzen, in der du deine Interessen, deine fachlichen Kenntnisse und deine persönlichen Stärken einbringen kannst. ## Deine Aufgaben - Du unterstützt die pädagogischen Fachkräfte im täglichen Einrichtungsalltag. - Du begleitest Kinder beim Spielen, Entdecken und Lernen. - Du unterstützt bei altersgerechten Bildungs-, Spiel- und Beschäftigungsangeboten. - Du schaffst gemeinsam mit dem Team eine vertrauensvolle Umgebung, in der Kinder s",
    "prelim": -5
   },
   {
